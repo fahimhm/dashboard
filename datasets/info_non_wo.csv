@@ -1,0 +1,469 @@
+name;year;month;week;day;day_cat;shift;task_cat;wo;wo_status;system;machine;date_start;date_finish;duration
+Abdul Rachman;2018;10;40;Monday;normal;1;Unplanned;AZ;done;others;Sakit;01/10/2018 06:00;01/10/2018 14:30;8,5
+Abdul Rachman;2018;10;40;Tuesday;normal;1;Unplanned;AZ;done;others;Sakit;02/10/2018 06:00;02/10/2018 14:30;8,5
+Abdul Rachman;2018;10;41;Tuesday;normal;2;Unplanned;AZ;done;others;Cuti;09/10/2018 14:00;09/10/2018 22:30;8,5
+Abdul Rachman;2018;10;41;Wednesday;normal;2;Unplanned;AZ;done;others;Sakit;10/10/2018 14:00;10/10/2018 22:30;8,5
+Abdul Rachman;2018;10;43;Friday;normal;1;Unplanned;AZ;done;others;Sakit;26/10/2018 06:00;26/10/2018 14:30;8,5
+Abdul Rachman;2018;11;45;Thursday;normal;1;Unplanned;AZ;done;others;Sakit;08/11/2018 12:30;08/11/2018 14:30;2
+Abdul Rachman;2018;11;46;Wednesday;normal;2;Unplanned;AZ;done;others;Sakit;14/11/2018 14:00;14/11/2018 22:30;8,5
+Abdul Rachman;2018;11;46;Thursday;normal;2;Unplanned;AZ;done;others;Sakit;15/11/2018 14:00;15/11/2018 22:30;8,5
+Abdul Rachman;2018;11;46;Friday;normal;2;Unplanned;AZ;done;others;Sakit;16/11/2018 14:00;16/11/2018 22:30;8,5
+Abdul Rachman;2018;11;47;Monday;normal;1;Unplanned;AZ;done;others;Sakit;19/11/2018 06:00;19/11/2018 14:30;8,5
+Abdul Rachman;2018;11;47;Tuesday;normal;1;Unplanned;AZ;done;others;Sakit;20/11/2018 06:00;20/11/2018 14:30;8,5
+Abdul Rachman;2018;11;47;Wednesday;normal;1;Unplanned;AZ;done;others;Sakit;21/11/2018 06:00;21/11/2018 14:30;8,5
+Abdul Rachman;2018;11;47;Thursday;normal;1;Unplanned;AZ;done;others;Sakit;22/11/2018 06:00;22/11/2018 14:30;8,5
+Abdul Rachman;2018;11;48;Monday;normal;2;Unplanned;AZ;done;others;Sakit;26/11/2018 14:00;26/11/2018 22:30;8,5
+Abdul Rachman;2018;12;50;Tuesday;normal;1;Planned;AZ;done;others;STG - FIND 2018;11/12/2018 08:30;11/12/2018 13:00;4,5
+Abdul Rachman;2018;12;50;Wednesday;normal;1;Unplanned;AZ;done;others;Cuti;12/12/2018 06:00;12/12/2018 14:30;8,5
+Abdul Rachman;2018;12;50;Thursday;normal;2;Unplanned;AZ;done;others;Sakit;13/12/2018 14:00;13/12/2018 22:30;8,5
+Abdul Rachman;2018;12;50;Friday;normal;2;Unplanned;AZ;done;others;Sakit;14/12/2018 14:00;14/12/2018 22:30;8,5
+Abdul Rachman;2018;12;51;Friday;normal;1;Unplanned;AZ;done;others;Cuti - IMP;21/12/2018 13:00;21/12/2018 15:00;2
+Abdul Rachman;2019;1;2;Monday;normal;1;Unplanned;AZ;done;others;Cuti;07/01/2019 10:00;07/01/2019 14:30;4,5
+Abdul Rachman;2019;1;3;Tuesday;normal;2;Unplanned;AZ;done;others;Sakit;15/01/2019 14:00;15/01/2019 22:30;8,5
+Abdul Rachman;2019;1;3;Wednesday;normal;2;Unplanned;AZ;done;others;Sakit;16/01/2019 14:00;16/01/2019 22:30;8,5
+Abdul Rachman;2019;1;5;Monday;normal;2;Unplanned;AZ;done;others;Cuti;28/01/2019 14:00;28/01/2019 22:30;8,5
+Abdul Rachman;2019;1;5;Tuesday;normal;2;Unplanned;AZ;done;others;Sakit;29/01/2019 14:00;29/01/2019 22:30;8,5
+Abdul Rachman;2019;1;5;Wednesday;normal;2;Unplanned;AZ;done;others;Sakit;30/01/2019 14:00;30/01/2019 22:30;8,5
+Abdul Rachman;2019;1;5;Thursday;normal;2;Unplanned;AZ;done;others;Sakit;31/01/2019 14:00;31/01/2019 22:30;8,5
+Abdul Rachman;2019;2;5;Friday;normal;2;Unplanned;AZ;done;others;Sakit;01/02/2019 14:00;01/02/2019 22:30;8,5
+Abdul Rachman;2019;2;6;Monday;normal;1;Unplanned;AZ;done;others;Sakit;04/02/2019 14:00;04/02/2019 22:30;8,5
+Abdul Rachman;2019;2;6;Wednesday;normal;1;Unplanned;AZ;done;others;Sakit;06/02/2019 14:00;06/02/2019 22:30;8,5
+Abdul Rachman;2019;2;7;Friday;normal;1;Planned;AZ;done;others;STG - 5R E1;15/02/2019 06:30;15/02/2019 09:00;2,5
+Abdul Rachman;2019;3;10;Wednesday;normal;1;Unplanned;AZ;done;others;Sakit;06/03/2019 06:00;06/03/2019 14:30;8,5
+Abdul Rachman;2019;3;11;Wednesday;normal;2;Unplanned;AZ;done;others;Sakit;13/03/2019 14:00;13/03/2019 22:30;8,5
+Abdul Rachman;2019;3;11;Thursday;normal;2;Unplanned;AZ;done;others;Sakit;14/03/2019 14:00;14/03/2019 22:30;8,5
+Abdul Rachman;2019;3;11;Friday;normal;2;Unplanned;AZ;done;others;Sakit;15/03/2019 14:00;15/03/2019 22:30;8,5
+Abdul Rachman;2019;3;12;Friday;normal;1;Planned;AZ;done;others;Cuti - IMP;22/03/2019 13:00;22/03/2019 15:00;2
+Abdul Rachman;2019;4;15;Tuesday;normal;1;Planned;AZ;done;others;Cuti;09/04/2019 06:00;09/04/2019 14:30;8,499998611
+Abdul Rachman;2019;4;15;Wednesday;normal;2;Unplanned;AZ;done;others;Sakit;10/04/2019 06:00;10/04/2019 14:30;8,499998611
+Abdul Rachman;2019;4;15;Saturday;normal;1;Planned;AZ;done;others;STG-5R E1;13/04/2019 06:30;13/04/2019 08:00;1,5
+Abdul Rachman;2019;4;17;Thursday;normal;1;Planned;AZ;done;others;STG-5R E1;25/04/2019 06:30;25/04/2019 08:00;1,5
+Abdul Rahman;2018;11;48;Tuesday;normal;1;Unplanned;AZ;done;others;Cuti;27/11/2018 06:00;27/11/2018 14:30;8,5
+Abdul Rahman;2019;1;1;Friday;normal;1;Planned;AZ;done;others;STG - 5R;04/01/2019 13:50;04/01/2019 14:50;1
+Abdul Rahman;2019;1;1;Saturday;normal;1;Planned;AZ;done;others;Cuti;05/01/2019 14:00;05/01/2019 22:30;8,5
+Abdul Rahman;2019;1;4;Monday;normal;2;Planned;AZ;done;others;STG - Sarasehan;21/01/2019 14:30;21/01/2019 16:30;2
+Abdul Rahman;2019;2;5;Friday;normal;1;Planned;AZ;done;others;STG - Total Clean Out;01/02/2019 06:30;01/02/2019 10:00;3,5
+Abdul Rahman;2019;2;6;Monday;normal;2;Planned;AZ;done;others;Cuti;04/02/2019 14:00;04/02/2019 22:30;8,5
+Abdul Rahman;2019;2;7;Friday;normal;2;Planned;AZ;done;others;STG - 5R E1;15/02/2019 21:00;15/02/2019 22:00;1
+Abdul Rahman;2019;3;11;Wednesday;normal;2;Unplanned;AZ;done;others;Cuti;13/03/2019 14:00;13/03/2019 22:30;8,5
+Abdul Rahman;2019;3;11;Thursday;normal;2;Unplanned;AZ;done;others;Cuti;14/03/2019 14:00;14/03/2019 22:30;8,5
+Abdul Rahman;2019;3;11;Friday;normal;2;Unplanned;AZ;done;others;STG-meet 5 R;15/03/2019 14:30;15/03/2019 15:20;0,833333333
+Abdul Rahman;2019;3;12;Tuesday;normal;2;Planned;AZ;done;others;STG - 5 R;19/03/2019 14:30;19/03/2019 16:00;1,5
+Abdul Rahman;2019;3;12;Friday;normal;2;Planned;AZ;done;others;Cuti - IMP;22/03/2019 20:30;22/03/2019 22:30;2
+Abdul Rahman;2019;4;15;Saturday;normal;1;Planned;AZ;done;others;STG-5R E1;13/04/2019 06:30;13/04/2019 08:00;1,5
+Abdul Rahman;2019;4;15;Saturday;normal;1;Unplanned;AZ;done;others;Cuti-IMP Akhir;13/04/2019 12:30;13/04/2019 14:30;2
+Abdul Rahman;2019;4;17;Thursday;normal;1;Planned;AZ;done;others;STG-5R E1;25/04/2019 06:30;25/04/2019 08:00;1,5
+Abdul Rosid;2018;11;46;Monday;normal;1;Planned;AZ;done;others;Cuti;12/11/2018 06:00;12/11/2018 14:30;8,5
+Abdul Rosid;2018;12;51;Wednesday;normal;1;Planned;AZ;done;others;STG - WO Error;19/12/2018 08:30;19/12/2018 09:30;1
+Abdul Rosid;2018;12;51;Wednesday;normal;1;Planned;AZ;done;others;STG - WO Error;19/12/2018 10:30;19/12/2018 11:30;1
+Abdul Rosid;2018;12;52;Monday;normal;2;Planned;AZ;done;others;Cuti;24/12/2018 14:00;24/12/2018 22:30;8,5
+Abdul Rosid;2018;12;52;Wednesday;normal;2;Unplanned;AZ;done;others;Sakit;26/12/2018 14:00;26/12/2018 22:30;8,5
+Abdul Rosid;2019;1;4;Monday;normal;2;Planned;AZ;done;others;STG - Sarasehan;21/01/2019 14:30;21/01/2019 16:30;2
+Abdul Rosid;2019;1;4;Friday;normal;2;Planned;AZ;done;others;Cuti;25/01/2019 14:00;25/01/2019 22:30;8,5
+Abdul Rosid;2019;2;5;Friday;normal;1;Planned;AZ;done;others;STG - Total Clean Out;01/02/2019 06:30;01/02/2019 10:00;3,5
+Abdul Rosid;2019;2;6;Monday;normal;2;Unplanned;AZ;done;others;Sakit;04/02/2019 14:00;04/02/2019 22:30;8,5
+Abdul Rosid;2019;2;7;Friday;normal;1;Planned;AZ;done;others;STG - 5R E1;15/02/2019 06:30;15/02/2019 09:00;2,5
+Abdul Rosid;2019;2;8;Thursday;normal;2;Planned;AZ;done;others;STG - Supervisi;21/02/2019 14:00;21/02/2019 16:00;2
+Abdul Rosid;2019;2;8;Friday;normal;2;Planned;AZ;done;others;STG - Supervisi;22/02/2019 14:15;22/02/2019 16:00;1,75
+Abdul Rosid;2019;3;11;Tuesday;normal;2;Unplanned;AZ;done;others;Sakit;12/03/2019 14:00;12/03/2019 22:30;8,5
+Abdul Rosid;2019;3;11;Wednesday;normal;2;Unplanned;AZ;done;others;Sakit;13/03/2019 14:00;13/03/2019 22:30;8,5
+Abdul Rosid;2019;3;11;Thursday;normal;2;Unplanned;AZ;done;others;Sakit;14/03/2019 14:00;14/03/2019 22:30;8,5
+Abdul Rosid;2019;3;11;Friday;normal;2;Unplanned;AZ;done;others;Sakit;15/03/2019 14:00;15/03/2019 22:30;8,5
+Abdul Rosid;2019;3;12;Monday;normal;1;Planned;AZ;done;others;STG - Supervisi;18/03/2019 11:30;18/03/2019 13:00;1,5
+Abdul Rosid;2019;4;16;Tuesday;normal;1;Unplanned;AZ;done;others;Cuti;16/04/2019 06:00;16/04/2019 14:30;8,5
+Adli Rizky Hermayadhi;2018;11;45;Friday;normal;3;Planned;AZ;done;others;Cuti - IMP;09/11/2018 04:30;09/11/2018 06:30;2
+Adli Rizky Hermayadhi;2018;12;49;Tuesday;normal;2;Unplanned;AZ;done;others;Cuti;04/12/2018 14:00;04/12/2018 18:00;4
+Adli Rizky Hermayadhi;2018;12;50;Tuesday;normal;1;Planned;AZ;done;others;STG - FIND 2018;11/12/2018 08:30;11/12/2018 13:00;4,5
+Adli Rizky Hermayadhi;2018;12;51;Monday;normal;2;Unplanned;AZ;done;others;Cuti;17/12/2018 14:00;17/12/2018 18:00;4
+Adli Rizky Hermayadhi;2018;12;52;Wednesday;normal;1;Unplanned;AZ;done;others;Sakit;26/12/2018 06:00;26/12/2018 14:30;8,5
+Adli Rizky Hermayadhi;2019;1;1;Wednesday;normal;2;Unplanned;AZ;done;others;Cuti - IMP;02/01/2019 14:00;02/01/2019 16:00;2
+Adli Rizky Hermayadhi;2019;1;2;Wednesday;normal;1;Unplanned;AZ;done;others;Cuti;09/01/2019 06:00;09/01/2019 10:00;4
+Adli Rizky Hermayadhi;2019;1;4;Monday;normal;2;Planned;AZ;done;others;STG - Sarasehan;21/01/2019 14:30;21/01/2019 16:30;2
+Adli Rizky Hermayadhi;2019;2;5;Friday;normal;1;Planned;AZ;done;others;STG - Total Clean Out;01/02/2019 06:30;01/02/2019 09:00;2,5
+Adli Rizky Hermayadhi;2019;2;7;Monday;normal;1;Planned;AZ;done;others;Cuti;11/02/2019 06:00;11/02/2019 14:30;8,5
+Adli Rizky Hermayadhi;2019;2;7;Wednesday;normal;1;Planned;AZ;done;others;STG - 5R E1;13/02/2019 10:30;13/02/2019 11:30;1
+Adli Rizky Hermayadhi;2019;2;7;Friday;normal;1;Planned;AZ;done;others;STG - 5R E1;15/02/2019 06:30;15/02/2019 09:00;2,5
+Adli Rizky Hermayadhi;2019;2;9;Monday;normal;1;Unplanned;AZ;done;others;Cuti;25/02/2019 06:00;25/02/2019 14:30;8,5
+Adli Rizky Hermayadhi;2019;3;10;Friday;normal;1;Planned;AZ;done;others;Cuti;08/03/2019 06:00;08/03/2019 15:00;9
+Adli Rizky Hermayadhi;2019;3;11;Friday;normal;2;Planned;AZ;done;others;STG-meet 5 R;15/03/2019 14:30;15/03/2019 15:20;0,833333333
+Adli Rizky Hermayadhi;2019;3;12;Friday;normal;4;Planned;AZ;done;others;Cuti - IMP;22/03/2019 10:00;22/03/2019 12:00;2
+Adli Rizky Hermayadhi;2019;4;14;Monday;normal;1;Planned;AZ;done;others;Cuti;01/04/2019 06:00;01/04/2019 14:30;8,5
+Adli Rizky Hermayadhi;2019;4;14;Tuesday;normal;2;Planned;AZ;done;others;Cuti-IMP Awal;02/04/2019 06:00;02/04/2019 08:00;2
+Adli Rizky Hermayadhi;2019;4;15;Monday;normal;1;Unplanned;AZ;done;others;Sakit;08/04/2019 06:00;08/04/2019 14:30;8,5
+Adli Rizky Hermayadhi;2019;4;15;Tuesday;normal;1;Unplanned;AZ;done;others;Sakit;09/04/2019 06:00;09/04/2019 14:30;8,499998611
+Adli Rizky Hermayadhi;2019;4;15;Saturday;normal;2;Unplanned;AZ;done;others;Cuti-IMP Awal;13/04/2019 14:00;13/04/2019 16:00;2
+Adli Rizky Hermayadhi;2019;4;17;Wednesday;normal;2;Planned;AZ;done;others;STG-PMT AC Lindor;24/04/2019 16:00;24/04/2019 17:45;1,75
+Adli Rizky Hermayadhi;2019;4;17;Wednesday;normal;2;Planned;AZ;done;others;STG-PMT AC Lindor;24/04/2019 18:30;24/04/2019 20:30;2
+Adli Rizky Hermayadhi;2019;4;17;Wednesday;normal;2;Planned;AZ;done;others;Cuti-IMP Akhir;24/04/2019 20:30;24/04/2019 22:30;2
+Alpiansyah;2018;11;46;Thursday;normal;1;Planned;AZ;done;others;Cuti;15/11/2018 10:30;15/11/2018 14:30;4
+Alpiansyah;2018;11;46;Friday;normal;1;Planned;AZ;done;others;STG - Latihan presentasi;16/11/2018 08:00;16/11/2018 11:00;3
+Alpiansyah;2018;11;48;Tuesday;normal;4;Planned;AZ;done;others;STG - Presentasi;27/11/2018 08:30;27/11/2018 10:00;1,5
+Alpiansyah;2018;12;49;Monday;normal;1;Planned;AZ;done;others;Cuti;03/12/2018 06:00;03/12/2018 14:30;8,5
+Alpiansyah;2018;12;50;Tuesday;normal;1;Planned;AZ;done;others;STG - FIND 2018;11/12/2018 08:30;11/12/2018 13:00;4,5
+Alpiansyah;2019;1;1;Saturday;normal;2;Planned;AZ;done;others;Cuti;05/01/2019 14:00;05/01/2019 22:30;8,5
+Alpiansyah;2019;1;3;Thursday;normal;2;Unplanned;AZ;done;others;Cuti;17/01/2019 18:00;17/01/2019 22:30;4,5
+Alpiansyah;2019;1;4;Monday;normal;1;Planned;AZ;done;others;STG - Sarasehan;21/01/2019 12:30;21/01/2019 14:30;2
+Alpiansyah;2019;2;7;Tuesday;normal;1;Planned;AZ;done;others;STG - Supervisi;12/02/2019 12:30;12/02/2019 13:30;1
+Alpiansyah;2019;2;7;Wednesday;normal;1;Planned;AZ;done;others;STG - 5R E1;13/02/2019 10:30;13/02/2019 11:30;1
+Alpiansyah;2019;2;7;Friday;normal;1;Planned;AZ;done;others;STG - 5R E1;15/02/2019 06:30;15/02/2019 09:00;2,5
+Alpiansyah;2019;2;9;Monday;normal;1;Unplanned;AZ;done;others;Cuti;25/02/2019 06:00;25/02/2019 14:30;8,5
+Alpiansyah;2019;2;9;Wednesday;normal;1;Planned;AZ;done;others;STG - IPAL;27/02/2019 10:30;27/02/2019 12:30;2
+Alpiansyah;2019;2;9;Friday;normal;1;Planned;AZ;done;others;STG - IPAL;01/03/2019 08:45;01/03/2019 09:45;1
+Alpiansyah;2019;3;12;Monday;normal;1;Unplanned;AZ;done;others;Cuti - IMP;18/03/2019 12:00;18/03/2019 14:00;2
+Alpiansyah;2019;3;12;Wednesday;normal;1;Unplanned;AZ;done;others;Cuti;20/03/2019 10:30;20/03/2019 14:30;4
+Alpiansyah;2019;4;16;Tuesday;normal;1;Planned;AZ;done;others;Cuti;16/04/2019 06:00;16/04/2019 14:30;8,5
+Angga Muhamad Syukur;2018;11;44;Thursday;normal;1;Unplanned;AZ;done;others;Cuti;01/11/2018 06:00;01/11/2018 14:30;8,5
+Angga Muhamad Syukur;2018;11;47;Wednesday;normal;1;Unplanned;AZ;done;others;Cuti;21/11/2018 06:00;21/11/2018 14:30;8,5
+Angga Muhamad Syukur;2018;11;48;Monday;normal;2;Unplanned;AZ;done;others;Cuti - IMP;26/11/2018 14:00;26/11/2018 16:00;2
+Angga Muhamad Syukur;2018;12;50;Tuesday;normal;1;Planned;AZ;done;others;STG - FIND 2018;11/12/2018 08:30;11/12/2018 13:00;4,5
+Angga Muhamad Syukur;2018;12;52;Monday;normal;1;Unplanned;AZ;done;others;Cuti;24/12/2018 10:30;24/12/2018 14:30;4
+Angga Muhamad Syukur;2019;1;4;Monday;normal;2;Planned;AZ;done;others;STG - Sarasehan;21/01/2019 14:30;21/01/2019 16:30;2
+Angga Muhamad Syukur;2019;1;5;Thursday;normal;1;Planned;AZ;done;others;Cuti;31/01/2019 06:00;31/01/2019 14:30;8,5
+Angga Muhamad Syukur;2019;2;5;Friday;normal;1;Planned;AZ;done;others;STG - Total Clean Out;01/02/2019 06:30;01/02/2019 09:00;2,5
+Angga Muhamad Syukur;2019;2;7;Tuesday;normal;1;Unplanned;AZ;done;others;Sakit;12/02/2019 06:00;12/02/2019 14:30;8,5
+Angga Muhamad Syukur;2019;2;7;Wednesday;normal;1;Planned;AZ;done;others;STG - 5R E1;13/02/2019 10:30;13/02/2019 11:30;1
+Angga Muhamad Syukur;2019;2;7;Friday;normal;1;Planned;AZ;done;others;STG - 5R E1;15/02/2019 06:30;15/02/2019 09:00;2,5
+Angga Muhamad Syukur;2019;2;9;Thursday;normal;1;Unplanned;AZ;done;others;Cuti;28/02/2019 06:00;28/02/2019 14:30;8,5
+Angga Muhamad Syukur;2019;3;11;Wednesday;normal;1;Unplanned;AZ;done;others;Cuti - IMP;13/03/2019 12:30;13/03/2019 14:30;2
+Angga Muhamad Syukur;2019;3;11;Thursday;normal;1;Unplanned;AZ;done;others;Cuti;14/03/2019 06:00;14/03/2019 14:30;8,5
+Angga Muhamad Syukur;2019;3;13;Thursday;normal;2;Unplanned;AZ;done;others;Cuti;28/03/2019 14:00;28/03/2019 17:30;3,5
+Angga Muhamad Syukur;2019;4;15;Thursday;normal;2;Unplanned;AZ;done;others;Sakit;11/04/2019 14:00;11/04/2019 22:30;8,5
+Angga Muhamad Syukur;2019;4;15;Friday;normal;2;Unplanned;AZ;done;others;Sakit;12/04/2019 14:00;12/04/2019 22:30;8,5
+Angga Muhamad Syukur;2019;4;17;Thursday;normal;2;Planned;AZ;done;others;STG-Repair Alat Lab;25/04/2019 14:30;25/04/2019 15:30;1
+Angga Muhamad Syukur;2019;4;18;Monday;normal;1;Planned;AZ;done;others;STG-Repair Alat Lab;29/04/2019 11:00;29/04/2019 13:00;2
+Dede Sulaeman;2018;10;42;Wednesday;normal;1;Unplanned;AZ;done;others;STG - Repair listrik villa sentul;17/10/2018 10:30;17/10/2018 12:30;2
+Dede Sulaeman;2018;11;48;Monday;normal;2;Planned;AZ;done;others;Cuti;19/11/2018 14:00;19/11/2018 22:30;8,5
+Dede Sulaeman;2018;12;50;Tuesday;normal;1;Planned;AZ;done;others;STG - FIND 2018;11/12/2018 08:30;11/12/2018 13:00;4,5
+Dede Sulaeman;2018;12;51;Monday;normal;1;Planned;AZ;done;others;STG - WO Error;17/12/2018 06:00;17/12/2018 08:00;2
+Dede Sulaeman;2018;12;52;Thursday;normal;2;Unplanned;AZ;done;others;Cuti - IMP;27/12/2018 20:30;27/12/2018 22:30;2
+Dede Sulaeman;2019;1;2;Thursday;normal;2;PMT;AD1902-0001;done;Air Handling;Air Conditioner ACD1073;10/01/2019 14:15;10/01/2019 15:15;1
+Dede Sulaeman;2019;1;3;Monday;normal;1;Unplanned;AZ;done;others;Cuti - IMP;14/01/2019 06:00;14/01/2019 08:00;2
+Dede Sulaeman;2019;1;4;Monday;normal;2;Planned;AZ;done;others;STG - Sarasehan;21/01/2019 14:30;21/01/2019 16:30;2
+Dede Sulaeman;2019;2;5;Friday;normal;1;Planned;AZ;done;others;STG - Total Clean Out;01/02/2019 06:30;01/02/2019 10:00;3,5
+Dede Sulaeman;2019;2;7;Friday;normal;1;Planned;AZ;done;others;STG - 5R E1;15/02/2019 06:30;15/02/2019 09:00;2,5
+Dede Sulaeman;2019;2;9;Thursday;normal;2;Unplanned;AZ;done;others;Cuti - IMP;28/02/2019 20:30;28/02/2019 22:30;2
+Dede Sulaeman;2019;3;10;Friday;normal;1;Planned;AZ;done;others;Cuti;08/03/2019 06:00;08/03/2019 14:30;8,5
+Dede Sulaeman;2019;3;11;Tuesday;normal;2;Unplanned;AZ;done;others;Sakit;12/03/2019 14:00;12/03/2019 22:30;8,5
+Dede Sulaeman;2019;3;11;Wednesday;normal;2;Unplanned;AZ;done;others;Sakit;13/03/2019 14:00;13/03/2019 22:30;8,5
+Dede Sulaeman;2019;3;11;Friday;normal;2;Planned;AZ;done;others;STG-meet 5 R;15/03/2019 14:30;15/03/2019 15:20;0,833333333
+Dede Sulaeman;2019;4;14;Friday;normal;2;Unplanned;AZ;done;others;Cuti-IMP Akhir;05/04/2019 20:30;05/04/2019 22:30;2
+Dede Sulaeman;2019;4;15;Saturday;normal;1;Planned;AZ;done;others;STG-5R E1;13/04/2019 06:30;13/04/2019 08:00;1,5
+Dede Sulaeman;2019;4;17;Thursday;normal;1;Planned;AZ;done;others;STG-5R E1;25/04/2019 06:30;25/04/2019 08:00;1,5
+Heriady;2018;11;47;Wednesday;normal;2;Unplanned;AZ;done;others;Cuti;21/11/2018 14:00;21/11/2018 22:30;8,5
+Heriady;2018;12;50;Tuesday;normal;1;Planned;AZ;done;others;STG - Supervisi relokasi reachtruck;11/12/2018 09:00;11/12/2018 14:00;5
+Heriady;2018;12;51;Wednesday;normal;1;Planned;AZ;done;others;STG - WO Error;19/12/2018 08:30;19/12/2018 09:30;1
+Heriady;2018;12;51;Wednesday;normal;1;Planned;AZ;done;others;STG - WO Error;19/12/2018 10:30;19/12/2018 11:30;1
+Heriady;2018;12;52;Friday;normal;1;Planned;AZ;done;others;Cuti;28/12/2018 06:00;28/12/2018 14:30;8,5
+Heriady;2019;1;2;Tuesday;normal;1;Planned;AZ;done;others;STG - Survey;08/01/2019 08:30;08/01/2019 11:30;3
+Heriady;2019;1;4;Monday;normal;1;Planned;AZ;done;others;STG - Survey;21/01/2019 06:00;21/01/2019 14:30;8,5
+Heriady;2019;1;5;Monday;normal;2;Unplanned;AZ;done;others;Sakit;28/01/2019 14:00;28/01/2019 22:30;8,5
+Heriady;2019;2;5;Friday;normal;2;Planned;AZ;done;others;STG - Total Clean Out;01/02/2019 15:00;01/02/2019 15:30;0,5
+Heriady;2019;2;5;Friday;normal;2;Planned;AZ;done;others;STG - Total Clean Out;01/02/2019 15:50;01/02/2019 17:45;1,916666667
+Heriady;2019;2;6;Thursday;normal;1;Planned;AZ;done;others;STG - HUT 40 NFI;07/02/2019 07:30;07/02/2019 13:00;5,5
+Heriady;2019;2;6;Friday;normal;1;Planned;AZ;done;others;STG - 5R UTILITY CHILLER;08/02/2019 10:00;08/02/2019 11:00;1
+Heriady;2019;2;7;Friday;normal;2;Planned;AZ;done;others;STG - 5R E1;15/02/2019 21:00;15/02/2019 22:00;1
+Heriady;2019;2;8;Friday;normal;1;Planned;AZ;done;others;STG - Supervisi;22/02/2019 01:00;22/02/2019 02:35;1,583333333
+Heriady;2019;2;8;Friday;normal;1;Planned;AZ;done;others;STG - Supervisi;22/02/2019 09:35;22/02/2019 11:15;1,666666667
+Heriady;2019;3;12;Monday;normal;2;Planned;AZ;done;others;Cuti;18/03/2019 14:00;18/03/2019 22:30;8,5
+Heriady;2019;3;12;Tuesday;normal;2;Planned;AZ;done;others;STG - 5R E1;19/03/2019 15:15;19/03/2019 16:00;0,75
+Heriady;2019;3;13;Thursday;normal;1;Planned;AZ;done;others;Cuti;28/03/2019 06:00;28/03/2019 14:30;8,5
+Heriady;2019;3;13;Friday;normal;1;Planned;AZ;done;others;Cuti;29/03/2019 11:00;29/03/2019 15:00;4
+Heriady;2019;4;15;Saturday;normal;1;Planned;AZ;done;others;STG-5R E1;13/04/2019 06:30;13/04/2019 09:00;2,5
+Heriady;2019;4;17;Thursday;normal;1;Planned;AZ;done;others;STG-5R E1;25/04/2019 06:30;25/04/2019 08:00;1,5
+M Gufrans Iqbal G;2018;10;43;Wednesday;normal;1;Planned;AZ;done;others;STG - Supervisi traknus;24/10/2018 09:30;24/10/2018 11:00;1,5
+M Gufrans Iqbal G;2018;11;45;Monday;normal;2;Unplanned;AZ;done;others;Cuti - IMP;05/11/2018 14:00;05/11/2018 16:00;2
+M Gufrans Iqbal G;2018;11;46;Tuesday;normal;1;Unplanned;AZ;done;others;Sakit;13/11/2018 06:00;13/11/2018 14:30;8,5
+M Gufrans Iqbal G;2018;11;46;Wednesday;normal;1;Unplanned;AZ;done;others;Sakit;14/11/2018 06:00;14/11/2018 14:30;8,5
+M Gufrans Iqbal G;2018;11;46;Friday;normal;1;Planned;AZ;done;others;STG - Latihan presentasi;16/11/2018 08:00;16/11/2018 11:00;3
+M Gufrans Iqbal G;2018;11;47;Monday;normal;2;Planned;AZ;done;others;Cuti;19/11/2018 14:00;19/11/2018 22:30;8,5
+M Gufrans Iqbal G;2018;11;47;Wednesday;normal;2;Planned;AZ;done;others;STG - Presentasi;21/11/2018 14:30;21/11/2018 16:00;1,5
+M Gufrans Iqbal G;2018;11;48;Monday;normal;1;Planned;AZ;done;others;Cuti;26/11/2018 06:00;26/11/2018 14:30;8,5
+M Gufrans Iqbal G;2018;12;50;Monday;normal;2;Unplanned;AZ;done;others;Sakit;10/12/2018 14:00;10/12/2018 22:30;8,5
+M Gufrans Iqbal G;2018;12;50;Tuesday;normal;2;Unplanned;AZ;done;others;Sakit;11/12/2018 14:00;11/12/2018 22:30;8,5
+M Gufrans Iqbal G;2018;12;50;Friday;normal;2;Unplanned;AZ;done;others;Cuti;14/12/2018 14:00;14/12/2018 22:30;8,5
+M Gufrans Iqbal G;2018;12;51;Monday;normal;4;Planned;AZ;done;others;Cuti;17/12/2018 07:30;17/12/2018 16:30;9
+M Gufrans Iqbal G;2018;12;51;Tuesday;normal;4;Planned;AZ;done;others;Cuti;18/12/2018 07:30;18/12/2018 16:30;9
+M Gufrans Iqbal G;2018;12;51;Wednesday;normal;4;Planned;AZ;done;others;Cuti;19/12/2018 07:30;19/12/2018 16:30;9
+M Gufrans Iqbal G;2018;12;51;Thursday;normal;4;Planned;AZ;done;others;Cuti;20/12/2018 07:30;20/12/2018 16:30;9
+M Gufrans Iqbal G;2018;12;51;Friday;normal;4;Planned;AZ;done;others;Cuti;21/12/2018 07:30;21/12/2018 16:30;9
+M Gufrans Iqbal G;2018;12;52;Monday;normal;2;Planned;AZ;done;others;Cuti;24/12/2018 14:00;24/12/2018 22:30;8,5
+M Gufrans Iqbal G;2019;1;1;Saturday;normal;1;Unplanned;AZ;done;others;Cuti - IMP;05/01/2019 12:30;05/01/2019 14:30;2
+M Gufrans Iqbal G;2019;1;2;Monday;normal;2;Planned;AZ;done;others;Cuti;07/01/2019 14:00;07/01/2019 22:30;8,5
+M Gufrans Iqbal G;2019;1;3;Friday;normal;2;Unplanned;AZ;done;others;Cuti;18/01/2019 18:00;18/01/2019 22:30;4,5
+M Gufrans Iqbal G;2019;2;5;Friday;normal;2;Planned;AZ;done;others;Cuti;01/02/2019 14:00;01/02/2019 22:30;8,5
+M Gufrans Iqbal G;2019;2;6;Thursday;normal;1;Planned;AZ;done;others;STG - HUT 40 NFI;07/02/2019 07:30;07/02/2019 13:00;5,5
+M Gufrans Iqbal G;2019;2;6;Friday;normal;1;Unplanned;AZ;done;others;Cuti;08/02/2019 06:00;08/02/2019 14:30;8,5
+M Gufrans Iqbal G;2019;2;9;Friday;normal;1;Unplanned;AZ;done;others;Cuti;01/03/2019 13:00;01/03/2019 15:00;2
+M Gufrans Iqbal G;2019;3;11;Monday;normal;1;Unplanned;AZ;done;others;Cuti-Sakit;11/03/2019 06:00;11/03/2019 14:30;8,5
+M Gufrans Iqbal G;2019;3;11;Tuesday;normal;1;Unplanned;AZ;done;others;Cuti-Sakit;12/03/2019 06:00;12/03/2019 14:30;8,5
+M Gufrans Iqbal G;2019;3;12;Tuesday;normal;2;Unplanned;AZ;done;others;Cuti;19/03/2019 14:30;19/03/2019 16:00;1,5
+M Gufrans Iqbal G;2019;3;13;Friday;normal;2;Unplanned;AZ;done;others;Cuti - IMP;29/03/2019 13:00;29/03/2019 15:00;2
+M Gufrans Iqbal G;2019;4;14;Thursday;normal;3;Planned;AZ;done;others;Cuti;04/04/2019 22:00;05/04/2019 06:30;8,5
+M Gufrans Iqbal G;2019;4;14;Friday;normal;3;Planned;AZ;done;others;Cuti;05/04/2019 22:00;06/04/2019 06:30;8,500001389
+M Gufrans Iqbal G;2019;4;15;Monday;normal;2;Unplanned;AZ;done;others;Sakit;08/04/2019 14:00;08/04/2019 22:30;8,5
+M Gufrans Iqbal G;2019;4;15;Tuesday;normal;2;Unplanned;AZ;done;others;Sakit;09/04/2019 14:00;09/04/2019 22:30;8,5
+M Gufrans Iqbal G;2019;4;15;Saturday;normal;1;Planned;AZ;done;others;STG-5R E1;13/04/2019 06:30;13/04/2019 08:00;1,5
+M Gufrans Iqbal G;2019;4;16;Tuesday;normal;1;Unplanned;AZ;done;others;Cuti-IMP Akhir;16/04/2019 20:30;16/04/2019 22:30;2
+M Gufrans Iqbal G;2019;4;17;Thursday;normal;1;Planned;AZ;done;others;STG-5R E1;25/04/2019 06:30;25/04/2019 08:00;1,5
+Mochammad Romdon;2018;11;48;Monday;normal;1;Unplanned;AZ;done;others;Cuti;26/11/2018 06:00;26/11/2018 14:30;8,5
+Mochammad Romdon;2018;12;50;Tuesday;normal;1;Planned;AZ;done;others;STG - FIND 2018;11/12/2018 08:30;11/12/2018 13:00;4,5
+Mochammad Romdon;2018;12;50;Friday;normal;1;Unplanned;AZ;done;others;Cuti;14/12/2018 10:30;14/12/2018 14:30;4
+Mochammad Romdon;2018;12;52;Friday;normal;2;Unplanned;AZ;done;others;Cuti;28/12/2018 14:00;28/12/2018 22:30;8,5
+Mochammad Romdon;2019;1;3;Tuesday;normal;1;Unplanned;AZ;done;others;Cuti;15/01/2019 10:00;15/01/2019 14:30;4,5
+Mochammad Romdon;2019;1;4;Monday;normal;2;Planned;AZ;done;others;STG - Sarasehan;21/01/2019 14:30;21/01/2019 16:30;2
+Mochammad Romdon;2019;1;4;Friday;normal;2;Planned;AZ;done;others;Cuti;25/01/2019 14:00;25/01/2019 22:30;8,5
+Mochammad Romdon;2019;2;5;Friday;normal;1;Planned;AZ;done;others;STG - Total Clean Out;01/02/2019 06:30;01/02/2019 10:00;3,5
+Mochammad Romdon;2019;2;6;Monday;normal;2;Unplanned;AZ;done;others;Cuti;04/02/2019 14:00;04/02/2019 22:30;8,5
+Mochammad Romdon;2019;2;8;Thursday;normal;1;Planned;AZ;done;others;Cuti - IMP;21/02/2019 12:30;21/02/2019 14:30;2
+Mochammad Romdon;2019;3;11;Monday;normal;2;Planned;AZ;done;others;Cuti;11/03/2019 14:00;11/03/2019 22:30;8,5
+Mochammad Romdon;2019;3;11;Tuesday;normal;2;Planned;AZ;done;others;Cuti;12/03/2019 14:00;12/03/2019 22:30;8,5
+Mochammad Romdon;2019;3;11;Friday;normal;3;Unplanned;AZ;done;others;STG-meet 5 R;15/03/2019 14:30;15/03/2019 15:20;0,833333333
+Mochammad Romdon;2019;3;12;Monday;normal;2;Planned;AZ;done;others;STG - 5 R;18/03/2019 14:30;18/03/2019 16:00;1,5
+Mochammad Romdon;2019;3;12;Tuesday;normal;2;Planned;AZ;done;others;STG - 5 R;19/03/2019 14:30;19/03/2019 16:00;1,5
+Mochammad Romdon;2019;3;12;Friday;normal;2;Planned;AZ;done;others;Cuti - IMP;22/03/2019 14:00;22/03/2019 14:45;0,75
+Mochammad Romdon;2019;3;13;Friday;normal;1;Planned;AZ;done;others;Cuti;29/03/2019 06:00;29/03/2019 15:00;9
+Mochammad Romdon;2019;4;15;Saturday;normal;1;Planned;AZ;done;others;STG-5R E1;13/04/2019 06:30;13/04/2019 08:00;1,5
+Mochammad Romdon;2019;4;15;Saturday;normal;1;Unplanned;AZ;done;others;Cuti-IMP Akhir;13/04/2019 12:30;13/04/2019 14:30;2
+Mochammad Romdon;2019;4;17;Thursday;normal;1;Planned;AZ;done;others;STG-5R E1;25/04/2019 06:30;25/04/2019 08:00;1,5
+Rahmadhiyanto;2018;10;42;Monday;normal;4;Unplanned;AZ;done;others;Sakit;15/10/2018 07:30;15/10/2018 16:30;9
+Rahmadhiyanto;2018;10;42;Tuesday;normal;4;Unplanned;AZ;done;others;Sakit;16/10/2018 07:30;16/10/2018 16:30;9
+Rahmadhiyanto;2018;10;42;Wednesday;normal;4;Unplanned;AZ;done;others;Sakit;17/10/2018 07:30;17/10/2018 16:30;9
+Rahmadhiyanto;2018;10;42;Thursday;normal;4;Unplanned;AZ;done;others;Sakit;18/10/2018 07:30;18/10/2018 16:30;9
+Rahmadhiyanto;2018;10;42;Friday;normal;4;Unplanned;AZ;done;others;Sakit;19/10/2018 07:30;19/10/2018 16:30;9
+Rahmadhiyanto;2018;10;43;Monday;normal;4;Unplanned;AZ;done;others;Sakit;22/10/2018 07:30;22/10/2018 16:30;9
+Rahmadhiyanto;2018;10;43;Tuesday;normal;4;Unplanned;AZ;done;others;Sakit;23/10/2018 07:30;23/10/2018 16:30;9
+Rahmadhiyanto;2018;10;43;Wednesday;normal;4;Unplanned;AZ;done;others;Sakit;24/10/2018 07:30;24/10/2018 16:30;9
+Rahmadhiyanto;2018;10;43;Thursday;normal;4;Unplanned;AZ;done;others;Sakit;25/10/2018 07:30;25/10/2018 16:30;9
+Rahmadhiyanto;2018;10;43;Friday;normal;4;Unplanned;AZ;done;others;Sakit;26/10/2018 07:30;26/10/2018 16:30;9
+Rahmadhiyanto;2018;10;44;Monday;normal;4;Unplanned;AZ;done;others;Sakit;29/10/2018 07:30;29/10/2018 16:30;9
+Rahmadhiyanto;2018;10;44;Tuesday;normal;4;Unplanned;AZ;done;others;Sakit;30/10/2018 07:30;30/10/2018 16:30;9
+Rahmadhiyanto;2018;10;44;Wednesday;normal;4;Unplanned;AZ;done;others;Sakit;31/10/2018 07:30;31/10/2018 16:30;9
+Rahmadhiyanto;2018;11;44;Thursday;normal;4;Unplanned;AZ;done;others;Sakit;01/11/2018 07:30;01/11/2018 16:30;9
+Rahmadhiyanto;2018;11;44;Friday;normal;4;Unplanned;AZ;done;others;Sakit;02/11/2018 07:30;02/11/2018 16:30;9
+Rahmadhiyanto;2018;11;45;Monday;normal;4;Unplanned;AZ;done;others;Sakit;05/11/2018 07:30;05/11/2018 16:30;9
+Rahmadhiyanto;2018;11;45;Tuesday;normal;4;Unplanned;AZ;done;others;Sakit;06/11/2018 07:30;06/11/2018 16:30;9
+Rahmadhiyanto;2018;11;45;Wednesday;normal;4;Unplanned;AZ;done;others;Sakit;07/11/2018 07:30;07/11/2018 16:30;9
+Rahmadhiyanto;2018;11;45;Thursday;normal;4;Unplanned;AZ;done;others;Sakit;08/11/2018 07:30;08/11/2018 16:30;9
+Rahmadhiyanto;2018;11;45;Friday;normal;4;Unplanned;AZ;done;others;Sakit;09/11/2018 07:30;09/11/2018 16:30;9
+Rahmadhiyanto;2018;11;46;Monday;normal;4;Unplanned;AZ;done;others;Sakit;12/11/2018 07:30;12/11/2018 16:30;9
+Rahmadhiyanto;2018;11;46;Tuesday;normal;4;Unplanned;AZ;done;others;Sakit;13/11/2018 07:30;13/11/2018 16:30;9
+Rahmadhiyanto;2018;11;46;Wednesday;normal;4;Unplanned;AZ;done;others;Sakit;14/11/2018 07:30;14/11/2018 16:30;9
+Rahmadhiyanto;2018;11;46;Thursday;normal;4;Unplanned;AZ;done;others;Sakit;15/11/2018 07:30;15/11/2018 16:30;9
+Rahmadhiyanto;2018;11;46;Friday;normal;4;Unplanned;AZ;done;others;Sakit;16/11/2018 07:30;16/11/2018 16:30;9
+Rahmadhiyanto;2018;11;47;Monday;normal;4;Unplanned;AZ;done;others;Sakit;19/11/2018 07:30;19/11/2018 16:30;9
+Rahmadhiyanto;2018;11;47;Wednesday;normal;4;Unplanned;AZ;done;others;Sakit;21/11/2018 07:30;21/11/2018 16:30;9
+Rahmadhiyanto;2018;11;47;Thursday;normal;4;Unplanned;AZ;done;others;Sakit;22/11/2018 07:30;22/11/2018 16:30;9
+Rahmadhiyanto;2018;11;47;Friday;normal;4;Unplanned;AZ;done;others;Sakit;23/11/2018 07:30;23/11/2018 16:30;9
+Rahmadhiyanto;2018;11;48;Monday;normal;4;Unplanned;AZ;done;others;Sakit;26/11/2018 07:30;26/11/2018 16:30;9
+Rahmadhiyanto;2018;11;48;Tuesday;normal;4;Unplanned;AZ;done;others;Sakit;27/11/2018 07:30;27/11/2018 16:30;9
+Rahmadhiyanto;2018;11;48;Wednesday;normal;4;Unplanned;AZ;done;others;Sakit;28/11/2018 07:30;28/11/2018 16:30;9
+Rahmadhiyanto;2018;11;48;Thursday;normal;4;Unplanned;AZ;done;others;Sakit;29/11/2018 07:30;29/11/2018 16:30;9
+Rahmadhiyanto;2018;11;48;Friday;normal;4;Unplanned;AZ;done;others;Sakit;30/11/2018 07:30;30/11/2018 16:30;9
+Rahmadhiyanto;2018;12;49;Monday;normal;4;Unplanned;AZ;done;others;Sakit;03/12/2018 07:30;03/12/2018 16:30;9
+Rahmadhiyanto;2018;12;49;Tuesday;normal;4;Unplanned;AZ;done;others;Sakit;04/12/2018 07:30;04/12/2018 16:30;9
+Rahmadhiyanto;2018;12;49;Wednesday;normal;4;Unplanned;AZ;done;others;Sakit;05/12/2018 07:30;05/12/2018 16:30;9
+Rahmadhiyanto;2018;12;49;Thursday;normal;4;Unplanned;AZ;done;others;Sakit;06/12/2018 07:30;06/12/2018 16:30;9
+Rahmadhiyanto;2018;12;49;Friday;normal;4;Unplanned;AZ;done;others;Sakit;07/12/2018 07:30;07/12/2018 16:30;9
+Rahmadhiyanto;2018;12;50;Monday;normal;4;Unplanned;AZ;done;others;Sakit;10/12/2018 07:30;10/12/2018 16:30;9
+Rahmadhiyanto;2018;12;50;Tuesday;normal;4;Unplanned;AZ;done;others;Sakit;11/12/2018 07:30;11/12/2018 16:30;9
+Rahmadhiyanto;2018;12;50;Wednesday;normal;4;Unplanned;AZ;done;others;Sakit;12/12/2018 07:30;12/12/2018 16:30;9
+Rahmadhiyanto;2018;12;50;Thursday;normal;4;Unplanned;AZ;done;others;Sakit;13/12/2018 07:30;13/12/2018 10:00;2,5
+Rahmadhiyanto;2018;12;51;Monday;normal;4;Unplanned;AZ;done;others;Sakit;17/12/2018 07:30;17/12/2018 16:30;9
+Rahmadhiyanto;2018;12;51;Tuesday;normal;4;Unplanned;AZ;done;others;Sakit;18/12/2018 07:30;18/12/2018 16:30;9
+Rahmadhiyanto;2018;12;51;Wednesday;normal;4;Unplanned;AZ;done;others;Sakit;19/12/2018 07:30;19/12/2018 16:30;9
+Rahmadhiyanto;2018;12;51;Thursday;normal;4;Unplanned;AZ;done;others;Sakit;20/12/2018 07:30;20/12/2018 16:30;9
+Rahmadhiyanto;2018;12;51;Friday;normal;4;Unplanned;AZ;done;others;Sakit;21/12/2018 07:30;21/12/2018 16:30;9
+Rahmadhiyanto;2019;1;1;Saturday;normal;1;Planned;AZ;done;others;Cuti;05/01/2019 14:00;05/01/2019 22:30;8,5
+Rahmadhiyanto;2019;1;2;Monday;normal;4;Unplanned;AZ;done;others;Cuti;07/01/2019 10:30;07/01/2019 14:30;4
+Rahmadhiyanto;2019;1;2;Wednesday;normal;4;Unplanned;AZ;done;others;Cuti - IMP;09/01/2019 07:30;09/01/2019 10:00;2,5
+Rahmadhiyanto;2019;1;2;Thursday;normal;4;Unplanned;AZ;done;others;Sakit;10/01/2019 07:30;10/01/2019 16:30;9
+Rahmadhiyanto;2019;1;4;Monday;normal;1;Planned;AZ;done;others;STG - Sarasehan;21/01/2019 12:30;21/01/2019 14:30;2
+Rahmadhiyanto;2019;1;5;Wednesday;normal;1;Unplanned;AZ;done;others;Cuti;30/01/2019 06:00;30/01/2019 14:30;8,5
+Rahmadhiyanto;2019;1;5;Thursday;normal;1;Unplanned;AZ;done;others;Cuti;31/01/2019 06:00;31/01/2019 14:30;8,5
+Rahmadhiyanto;2019;2;5;Friday;normal;1;Unplanned;AZ;done;others;Cuti;01/02/2019 06:00;01/02/2019 14:30;8,5
+Rahmadhiyanto;2019;2;6;Thursday;normal;1;Planned;AZ;done;others;STG - HUT 40 NFI;07/02/2019 07:30;07/02/2019 13:00;5,5
+Rahmadhiyanto;2019;2;6;Friday;normal;1;Planned;AZ;done;others;STG - 5R UTILITY CHILLER;08/02/2019 10:00;08/02/2019 10:30;0,5
+Rahmadhiyanto;2019;2;7;Wednesday;normal;1;Planned;AZ;done;others;STG - 5R E1;13/02/2019 10:30;13/02/2019 11:30;1
+Rahmadhiyanto;2019;2;7;Friday;normal;1;Planned;AZ;done;others;STG - 5R E1;15/02/2019 06:30;15/02/2019 09:00;2,5
+Rahmadhiyanto;2019;2;8;Thursday;normal;1;Planned;AZ;done;others;STG - Supervisi;21/02/2019 10:30;21/02/2019 12:00;1,5
+Rahmadhiyanto;2019;2;8;Thursday;normal;1;Planned;AZ;done;others;STG - Supervisi;21/02/2019 13:00;21/02/2019 14:35;1,583333333
+Rahmadhiyanto;2019;2;8;Monday;normal;1;Planned;AZ;done;others;STG-Bongkar Forklift;11/03/2019 09:00;11/03/2019 10:00;1
+Rahmadhiyanto;2019;2;8;Friday;normal;1;Planned;AZ;done;others;Cuti;15/03/2019 06:00;15/03/2019 15:00;9
+Rahmadhiyanto;2019;2;8;Monday;normal;1;Planned;AZ;done;others;Cuti;25/03/2019 06:00;25/03/2019 14:30;8,5
+Rohmat;2018;10;44;Monday;normal;2;Planned;AZ;done;others;STG - BOILER;29/10/2018 06:00;29/10/2018 14:30;8,5
+Rohmat;2018;10;44;Tuesday;normal;2;Planned;AZ;done;others;STG - BOILER;30/10/2018 06:00;30/10/2018 14:30;8,5
+Rohmat;2018;10;44;Wednesday;normal;2;Planned;AZ;done;others;STG - BOILER;31/10/2018 06:00;31/10/2018 14:30;8,5
+Rohmat;2018;11;44;Thursday;normal;2;Planned;AZ;done;others;STG - BOILER;01/11/2018 06:00;01/11/2018 14:30;8,5
+Rohmat;2018;11;44;Friday;normal;2;Planned;AZ;done;others;STG - BOILER;02/11/2018 06:00;02/11/2018 14:30;8,5
+Rohmat;2018;11;46;Monday;normal;2;Planned;AZ;done;others;STG - BOILER;12/11/2018 14:00;12/11/2018 22:30;8,5
+Rohmat;2018;11;46;Tuesday;normal;2;Planned;AZ;done;others;STG - BOILER;13/11/2018 14:00;13/11/2018 22:30;8,5
+Rohmat;2018;11;46;Wednesday;normal;2;Planned;AZ;done;others;STG - BOILER;14/11/2018 14:00;14/11/2018 22:30;8,5
+Rohmat;2018;11;46;Thursday;normal;2;Planned;AZ;done;others;STG - BOILER;15/11/2018 14:00;15/11/2018 22:30;8,5
+Rohmat;2018;11;46;Friday;normal;2;Planned;AZ;done;others;STG - BOILER;16/11/2018 14:00;16/11/2018 22:30;8,5
+Rohmat;2018;11;48;Monday;normal;2;Planned;AZ;done;others;STG - BOILER;26/11/2018 14:00;26/11/2018 22:30;8,5
+Rohmat;2018;11;48;Tuesday;normal;2;Planned;AZ;done;others;STG - BOILER;27/11/2018 14:00;27/11/2018 22:30;8,5
+Rohmat;2018;11;48;Wednesday;normal;2;Planned;AZ;done;others;STG - BOILER;28/11/2018 14:00;28/11/2018 22:30;8,5
+Rohmat;2018;11;48;Thursday;normal;2;Planned;AZ;done;others;STG - BOILER;29/11/2018 14:00;29/11/2018 22:30;8,5
+Rohmat;2018;11;48;Friday;normal;2;Planned;AZ;done;others;STG - BOILER;30/11/2018 14:00;30/11/2018 22:30;8,5
+Rohmat;2018;12;50;Tuesday;normal;1;Planned;AZ;done;others;STG - FIND 2018;11/12/2018 08:30;11/12/2018 13:00;4,5
+Rohmat;2018;12;51;Monday;normal;2;Planned;AZ;done;others;Cuti;17/12/2018 14:00;17/12/2018 22:30;8,5
+Rohmat;2018;12;51;Tuesday;normal;2;Planned;AZ;done;others;Cuti;18/12/2018 14:00;18/12/2018 22:30;8,5
+Rohmat;2018;12;52;Monday;normal;1;Planned;AZ;done;others;STG - BOILER;24/12/2018 06:00;24/12/2018 14:30;8,5
+Rohmat;2018;12;52;Wednesday;normal;1;Planned;AZ;done;others;STG - BOILER;26/12/2018 06:00;26/12/2018 14:30;8,5
+Rohmat;2018;12;52;Thursday;normal;1;Planned;AZ;done;others;STG - BOILER;27/12/2018 06:00;27/12/2018 14:30;8,5
+Rohmat;2018;12;52;Friday;normal;1;Planned;AZ;done;others;STG - BOILER;28/12/2018 06:00;28/12/2018 10:30;4,5
+Rohmat;2018;12;52;Friday;normal;1;Unplanned;AZ;done;others;Cuti - IMP;28/12/2018 10:30;28/12/2018 14:30;4
+Rohmat;2019;1;1;Wednesday;normal;2;Unplanned;AZ;done;others;Cuti;02/01/2019 14:00;02/01/2019 22:30;8,5
+Rohmat;2019;1;1;Thursday;normal;2;Unplanned;AZ;done;others;Cuti;03/01/2019 14:00;03/01/2019 22:30;8,5
+Rohmat;2019;1;2;Monday;normal;1;Planned;AZ;done;others;STG - BOILER;07/01/2019 06:00;07/01/2019 14:30;8,5
+Rohmat;2019;1;2;Tuesday;normal;1;Planned;AZ;done;others;STG - BOILER;08/01/2019 06:00;08/01/2019 14:30;8,5
+Rohmat;2019;1;2;Wednesday;normal;1;Planned;AZ;done;others;STG - BOILER;09/01/2019 06:00;09/01/2019 14:30;8,5
+Rohmat;2019;1;2;Thursday;normal;1;Planned;AZ;done;others;STG - BOILER;10/01/2019 06:00;10/01/2019 14:30;8,5
+Rohmat;2019;1;2;Friday;normal;1;Planned;AZ;done;others;STG - BOILER;11/01/2019 06:00;11/01/2019 14:30;8,5
+Rohmat;2019;1;3;Wednesday;normal;2;Unplanned;AZ;done;others;Cuti - IMP;16/01/2019 20:30;16/01/2019 22:30;2
+Rohmat;2019;1;3;Thursday;normal;2;Unplanned;AZ;done;others;Cuti;17/01/2019 14:00;17/01/2019 22:30;8,5
+Rohmat;2019;1;4;Monday;normal;1;Planned;AZ;done;others;STG - Sarasehan;21/01/2019 12:30;21/01/2019 14:30;2
+Rohmat;2019;1;4;Thursday;normal;1;Unplanned;AZ;done;others;Cuti;24/01/2019 12:30;24/01/2019 14:30;2
+Rohmat;2019;1;5;Monday;normal;2;Unplanned;AZ;done;others;Sakit;28/01/2019 14:00;28/01/2019 22:30;8,5
+Rohmat;2019;1;5;Tuesday;normal;2;Unplanned;AZ;done;others;Sakit;29/01/2019 14:00;29/01/2019 22:30;8,5
+Rohmat;2019;1;5;Wednesday;normal;2;Unplanned;AZ;done;others;Sakit;30/01/2019 14:00;30/01/2019 22:30;8,5
+Rohmat;2019;1;5;Thursday;normal;2;Unplanned;AZ;done;others;Sakit;31/01/2019 14:00;31/01/2019 22:30;8,5
+Rohmat;2019;1;5;Friday;normal;2;Unplanned;AZ;done;others;Sakit;01/02/2019 14:00;01/02/2019 22:30;8,5
+Rohmat;2019;1;5;Monday;normal;1;Unplanned;AZ;done;others;Sakit;04/02/2019 06:00;04/02/2019 14:30;8,5
+Rohmat;2019;1;5;Wednesday;normal;1;Unplanned;AZ;done;others;Sakit;06/02/2019 06:00;06/02/2019 14:30;8,5
+Rohmat;2019;2;7;Friday;normal;2;Planned;AZ;done;others;STG - 5R E1;15/02/2019 21:00;15/02/2019 22:00;1
+Rohmat;2019;2;8;Monday;normal;1;Planned;AZ;done;others;Cuti;18/02/2019 06:00;18/02/2019 14:30;8,5
+Rohmat;2019;2;8;Tuesday;normal;1;Planned;AZ;done;others;STG - BOILER;19/02/2019 06:00;19/02/2019 06:30;0,5
+Rohmat;2019;2;8;Tuesday;normal;1;Planned;AZ;done;others;STG - BOILER;19/02/2019 09:30;19/02/2019 10:30;1
+Rohmat;2019;2;8;Tuesday;normal;1;Planned;AZ;done;others;STG - BOILER;19/02/2019 13:00;19/02/2019 14:30;1,5
+Rohmat;2019;2;8;Wednesday;normal;1;Planned;AZ;done;others;STG - BOILER;20/02/2019 06:00;20/02/2019 06:30;0,5
+Rohmat;2019;2;8;Wednesday;normal;1;Planned;AZ;done;others;STG - BOILER;20/02/2019 09:30;20/02/2019 10:30;1
+Rohmat;2019;2;8;Wednesday;normal;1;Planned;AZ;done;others;STG - BOILER;20/02/2019 13:00;20/02/2019 14:30;1,5
+Rohmat;2019;2;8;Thursday;normal;1;Planned;AZ;done;others;STG - BOILER;21/02/2019 06:00;21/02/2019 06:30;0,5
+Rohmat;2019;2;8;Thursday;normal;1;Planned;AZ;done;others;STG - BOILER;21/02/2019 09:30;21/02/2019 10:30;1
+Rohmat;2019;2;8;Thursday;normal;1;Planned;AZ;done;others;STG - BOILER;21/02/2019 13:00;21/02/2019 14:30;1,5
+Rohmat;2019;2;8;Friday;normal;1;Planned;AZ;done;others;STG - BOILER;22/02/2019 06:00;22/02/2019 06:30;0,5
+Rohmat;2019;2;8;Friday;normal;1;Planned;AZ;done;others;STG - BOILER;22/02/2019 09:30;22/02/2019 10:30;1
+Rohmat;2019;2;8;Friday;normal;1;Planned;AZ;done;others;STG - BOILER;22/02/2019 13:00;22/02/2019 14:30;1,5
+Rohmat;2019;2;9;Wednesday;normal;2;Planned;AZ;done;others;STG - BOILER;26/02/2019 14:00;26/02/2019 15:00;1
+Rohmat;2019;2;9;Wednesday;normal;2;Planned;AZ;done;others;STG - BOILER;26/02/2019 17:00;26/02/2019 18:30;1,5
+Rohmat;2019;2;9;Wednesday;normal;2;Planned;AZ;done;others;STG - BOILER;26/02/2019 20:30;26/02/2019 22:30;2
+Rohmat;2019;2;9;Thursday;normal;2;Planned;AZ;done;others;STG - BOILER;27/02/2019 14:00;27/02/2019 15:00;1
+Rohmat;2019;2;9;Thursday;normal;2;Planned;AZ;done;others;STG - BOILER;27/02/2019 17:00;27/02/2019 18:30;1,5
+Rohmat;2019;2;9;Thursday;normal;2;Planned;AZ;done;others;STG - BOILER;27/02/2019 20:30;27/02/2019 22:30;2
+Rohmat;2019;3;12;Friday;normal;1;Planned;AZ;done;others;Cuti;22/03/2019 06:00;22/03/2019 15:00;9
+Rohmat;2019;4;15;Saturday;normal;2;Planned;AZ;done;others;STG - FU Ext Audit;13/04/2019 14:45;13/04/2019 17:45;3
+Rohmat;2019;4;15;Saturday;normal;2;Planned;AZ;done;others;STG - FU Ext Audit;13/04/2019 18:30;13/04/2019 19:30;1
+Rohmat;2019;4;16;Tuesday;normal;1;Unplanned;AZ;done;others;Sakit;16/04/2019 06:00;16/04/2019 14:30;8,5
+Rohmat;2019;4;17;Monday;normal;3;Unplanned;AZ;done;others;Cuti 1/2 HK-Awal (kaka meninggal);22/04/2019 18:00;22/04/2019 22:00;4
+Rohmat;2019;4;17;Tuesday;normal;3;Unplanned;AZ;done;others;Cuti;23/04/2019 18:00;24/04/2019 02:30;8,5
+Sapari;2018;10;43;Monday;normal;1;Planned;AZ;done;others;STG - BOILER;22/10/2018 06:00;22/10/2018 14:30;8,5
+Sapari;2018;10;43;Tuesday;normal;1;Planned;AZ;done;others;STG - BOILER;23/10/2018 06:00;23/10/2018 14:30;8,5
+Sapari;2018;10;43;Wednesday;normal;1;Planned;AZ;done;others;STG - BOILER;24/10/2018 06:00;24/10/2018 14:30;8,5
+Sapari;2018;10;43;Thursday;normal;1;Planned;AZ;done;others;STG - BOILER;25/10/2018 06:00;25/10/2018 14:30;8,5
+Sapari;2018;10;43;Friday;normal;1;Planned;AZ;done;others;STG - BOILER;26/10/2018 06:00;26/10/2018 14:30;8,5
+Sapari;2018;11;45;Monday;normal;1;Planned;AZ;done;others;STG - BOILER;05/11/2018 06:00;05/11/2018 14:30;8,5
+Sapari;2018;11;45;Tuesday;normal;1;Planned;AZ;done;others;STG - BOILER;06/11/2018 06:00;06/11/2018 14:30;8,5
+Sapari;2018;11;45;Wednesday;normal;1;Planned;AZ;done;others;STG - BOILER;07/11/2018 06:00;07/11/2018 14:30;8,5
+Sapari;2018;11;45;Thursday;normal;1;Planned;AZ;done;others;STG - BOILER;08/11/2018 06:00;08/11/2018 14:30;8,5
+Sapari;2018;11;45;Friday;normal;1;Planned;AZ;done;others;STG - BOILER;09/11/2018 06:00;09/11/2018 14:30;8,5
+Sapari;2018;11;47;Monday;normal;1;Planned;AZ;done;others;STG - BOILER;19/11/2018 06:00;19/11/2018 14:30;8,5
+Sapari;2018;11;47;Wednesday;normal;1;Planned;AZ;done;others;STG - BOILER;21/11/2018 06:00;21/11/2018 14:30;8,5
+Sapari;2018;11;47;Thursday;normal;1;Planned;AZ;done;others;STG - BOILER;22/11/2018 06:00;22/11/2018 14:30;8,5
+Sapari;2018;11;47;Friday;normal;1;Planned;AZ;done;others;STG - BOILER;23/11/2018 06:00;23/11/2018 14:30;8,5
+Sapari;2018;12;49;Thursday;normal;2;Unplanned;AZ;done;others;Cuti;06/12/2018 14:00;06/12/2018 22:30;8,5
+Sapari;2018;12;50;Tuesday;normal;1;Planned;AZ;done;others;STG - FIND 2018;11/12/2018 08:30;11/12/2018 13:00;4,5
+Sapari;2018;12;51;Monday;normal;2;Planned;AZ;done;others;STG - BOILER;17/12/2018 14:00;17/12/2018 22:30;8,5
+Sapari;2018;12;51;Tuesday;normal;2;Planned;AZ;done;others;STG - BOILER;18/12/2018 14:00;18/12/2018 22:30;8,5
+Sapari;2018;12;51;Wednesday;normal;2;Planned;AZ;done;others;STG - BOILER;19/12/2018 14:00;19/12/2018 22:30;8,5
+Sapari;2018;12;51;Thursday;normal;2;Planned;AZ;done;others;STG - BOILER;20/12/2018 14:00;20/12/2018 22:30;8,5
+Sapari;2018;12;51;Friday;normal;2;Planned;AZ;done;others;STG - BOILER;21/12/2018 14:00;21/12/2018 22:30;8,5
+Sapari;2018;12;52;Friday;normal;1;Planned;AZ;done;others;STG - BOILER;28/12/2018 12:30;28/12/2018 13:00;0,500000001
+Sapari;2019;1;2;Thursday;normal;1;Unplanned;AZ;done;others;Cuti;10/01/2019 10:30;10/01/2019 14:30;4
+Sapari;2019;1;3;Monday;normal;2;Planned;AZ;done;others;STG - BOILER;14/01/2019 14:00;14/01/2019 22:30;8,5
+Sapari;2019;1;3;Tuesday;normal;2;Planned;AZ;done;others;STG - BOILER;15/01/2019 14:00;15/01/2019 15:00;1
+Sapari;2019;1;3;Tuesday;normal;2;Planned;AZ;done;others;STG - BOILER;15/01/2019 16:00;15/01/2019 22:30;6,5
+Sapari;2019;1;3;Wednesday;normal;2;Planned;AZ;done;others;STG - BOILER;16/01/2019 14:00;16/01/2019 22:30;8,5
+Sapari;2019;1;3;Thursday;normal;2;Planned;AZ;done;others;STG - BOILER;17/01/2019 14:00;17/01/2019 22:30;8,5
+Sapari;2019;1;3;Friday;normal;2;Planned;AZ;done;others;STG - BOILER;18/01/2019 14:00;18/01/2019 22:30;8,5
+Sapari;2019;1;4;Monday;normal;1;Planned;AZ;done;others;STG - BOILER;21/01/2019 06:00;21/01/2019 14:30;8,5
+Sapari;2019;1;4;Monday;normal;2;Planned;AZ;done;others;STG - Sarasehan;21/01/2019 14:30;21/01/2019 16:30;2
+Sapari;2019;1;4;Tuesday;normal;1;Planned;AZ;done;others;STG - BOILER;22/01/2019 06:00;22/01/2019 14:30;8,5
+Sapari;2019;1;4;Wednesday;normal;1;Planned;AZ;done;others;STG - BOILER;23/01/2019 06:00;23/01/2019 14:30;8,5
+Sapari;2019;1;4;Wednesday;overtime;1;Planned;AZ;done;others;STG - BOILER;23/01/2019 14:30;23/01/2019 18:00;3,5
+Sapari;2019;1;4;Thursday;normal;1;Planned;AZ;done;others;STG - BOILER;24/01/2019 06:00;24/01/2019 14:30;8,5
+Sapari;2019;1;4;Thursday;overtime;1;Planned;AZ;done;others;STG - BOILER;24/01/2019 14:30;24/01/2019 18:00;3,5
+Sapari;2019;1;4;Friday;normal;1;Planned;AZ;done;others;STG - BOILER;25/01/2019 06:00;25/01/2019 14:30;8,5
+Sapari;2019;1;5;Monday;normal;2;Planned;AZ;done;others;STG - BOILER;28/01/2019 14:00;28/01/2019 16:30;2,5
+Sapari;2019;1;5;Monday;normal;2;Planned;AZ;done;others;STG - BOILER;28/01/2019 17:15;28/01/2019 18:45;1,5
+Sapari;2019;1;5;Monday;normal;2;Planned;AZ;done;others;STG - BOILER;28/01/2019 20:30;28/01/2019 22:30;2
+Sapari;2019;1;5;Tuesday;normal;2;Planned;AZ;done;others;STG - BOILER;29/01/2019 14:00;29/01/2019 22:30;8,5
+Sapari;2019;1;5;Wednesday;normal;2;Planned;AZ;done;others;STG - BOILER;30/01/2019 14:00;30/01/2019 22:30;8,5
+Sapari;2019;1;5;Thursday;normal;2;Planned;AZ;done;others;STG - BOILER;31/01/2019 14:00;31/01/2019 22:30;8,5
+Sapari;2019;2;5;Friday;normal;2;Planned;AZ;done;others;STG - BOILER;01/02/2019 14:00;01/02/2019 22:30;8,5
+Sapari;2019;2;7;Saturday;overtime;5;Planned;AZ;done;others;STG - Supervisi;16/02/2019 08:30;16/02/2019 16:00;7,5
+Sapari;2019;2;8;Thursday;normal;1;Planned;AZ;done;others;Cuti;21/02/2019 06:00;21/02/2019 14:30;8,5
+Sapari;2019;2;8;Friday;normal;1;Planned;AZ;done;others;Cuti;22/02/2019 06:00;22/02/2019 14:30;8,5
+Sapari;2019;2;9;Monday;normal;2;Planned;AZ;done;others;STG - BOILER;25/02/2019 14:00;25/02/2019 15:00;1
+Sapari;2019;2;9;Monday;normal;2;Planned;AZ;done;others;STG - BOILER;25/02/2019 16:00;25/02/2019 16:15;0,25
+Sapari;2019;2;9;Monday;normal;2;Planned;AZ;done;others;STG - BOILER;25/02/2019 17:30;25/02/2019 18:30;1
+Sapari;2019;2;9;Monday;normal;2;Planned;AZ;done;others;STG - BOILER;25/02/2019 20:30;25/02/2019 22:30;2
+Sapari;2019;2;9;Tuesday;normal;2;Unplanned;AZ;done;others;Sakit;26/02/2019 14:00;26/02/2019 22:30;8,5
+Sapari;2019;2;9;Wednesday;normal;2;Unplanned;AZ;done;others;Sakit;27/02/2019 14:00;27/02/2019 22:30;8,5
+Sapari;2019;2;9;Thursday;normal;2;Planned;AZ;done;others;STG - BOILER;28/02/2019 14:00;28/02/2019 15:00;1
+Sapari;2019;2;9;Thursday;normal;2;Planned;AZ;done;others;STG - BOILER;28/02/2019 17:00;28/02/2019 18:30;1,5
+Sapari;2019;2;9;Thursday;normal;2;Planned;AZ;done;others;STG - BOILER;28/02/2019 20:30;28/02/2019 22:30;2
+Sapari;2019;2;9;Friday;normal;2;Planned;AZ;done;others;STG - BOILER;01/03/2019 14:00;01/03/2019 15:00;1
+Sapari;2019;2;9;Friday;normal;2;Planned;AZ;done;others;STG - BOILER;01/03/2019 17:00;01/03/2019 18:30;1,5
+Sapari;2019;2;9;Friday;normal;2;Planned;AZ;done;others;STG - BOILER;01/03/2019 20:30;01/03/2019 22:30;2
+Sapari;2019;3;12;Monday;normal;1;Planned;AZ;done;others;Cuti;18/03/2019 06:00;18/03/2019 14:30;8,5
+Sapari;2019;3;12;Tuesday;normal;1;Planned;AZ;done;others;Cuti;19/03/2019 06:00;19/03/2019 14:30;8,5
+Sapari;2019;3;13;Wednesday;normal;2;Planned;AZ;done;others;Cuti;28/03/2019 14:00;28/03/2019 22:30;8,5
+Sapari;2019;3;13;Friday;normal;2;Planned;AZ;done;others;Cuti;29/03/2019 14:00;29/03/2019 22:30;8,5
+Sapari;2019;4;17;Wednesday;normal;2;Planned;AZ;done;others;STG-PMT AC Lindor;24/04/2019 16:00;24/04/2019 17:45;1,75
+Sapari;2019;4;17;Wednesday;normal;2;Planned;AZ;done;others;STG-PMT AC Lindor;24/04/2019 18:30;24/04/2019 20:30;2
+Wahyudin;2018;12;50;Tuesday;normal;1;Planned;AZ;done;others;STG - FIND 2018;11/12/2018 08:30;11/12/2018 13:00;4,5
+Wahyudin;2019;2;5;Friday;normal;2;Planned;AZ;done;others;STG - Total Clean Out;01/02/2019 15:00;01/02/2019 15:30;0,5
+Wahyudin;2019;2;5;Friday;normal;2;Planned;AZ;done;others;STG - Total Clean Out;01/02/2019 15:50;01/02/2019 17:45;1,916666667
+Wahyudin;2019;2;6;Thursday;normal;1;Planned;AZ;done;others;STG - HUT 40 NFI;07/02/2019 07:30;07/02/2019 13:00;5,5
+Wahyudin;2019;2;6;Friday;normal;1;Planned;AZ;done;others;STG - 5R UTILITY CHILLER;08/02/2019 10:00;08/02/2019 10:30;0,5
+Wahyudin;2019;4;15;Monday;normal;2;Unplanned;AZ;done;others;Sakit;08/04/2019 14:00;08/04/2019 22:30;8,5
+Wahyudin;2019;4;15;Saturday;normal;2;Planned;AZ;done;others;STG - FU Ext Audit;13/04/2019 14:45;13/04/2019 17:45;3
+Wahyudin;2019;4;15;Saturday;normal;2;Planned;AZ;done;others;STG - FU Ext Audit;13/04/2019 18:30;13/04/2019 19:30;1
+Wira Ardiansyah;2018;11;44;Friday;normal;2;Planned;AZ;done;others;Cuti;02/11/2018 14:00;02/11/2018 22:30;8,5
+Wira Ardiansyah;2018;12;51;Friday;normal;2;Unplanned;AZ;done;others;Cuti - IMP;21/12/2018 20:30;21/12/2018 22:30;2
+Wira Ardiansyah;2019;1;2;Saturday;normal;2;Planned;AZ;done;others;Cuti;05/01/2019 14:00;05/01/2019 22:30;8,5
+Wira Ardiansyah;2019;1;4;Monday;normal;2;Planned;AZ;done;others;STG - Sarasehan;21/01/2019 14:30;21/01/2019 16:30;2
+Wira Ardiansyah;2019;1;4;Friday;normal;2;Planned;AZ;done;others;Cuti;25/01/2019 18:00;25/01/2019 22:30;4,5
+Wira Ardiansyah;2019;2;5;Friday;normal;2;Planned;AZ;done;others;STG - Total Clean Out;01/02/2019 15:00;01/02/2019 15:30;0,5
+Wira Ardiansyah;2019;2;5;Friday;normal;2;Planned;AZ;done;others;STG - Total Clean Out;01/02/2019 15:50;01/02/2019 17:45;1,916666667
+Wira Ardiansyah;2019;2;6;Monday;normal;1;Planned;AZ;done;others;Cuti;04/02/2019 06:00;04/02/2019 14:30;8,5
+Wira Ardiansyah;2019;2;6;Thursday;normal;1;Planned;AZ;done;others;STG - HUT 40 NFI;07/02/2019 07:30;07/02/2019 13:00;5,5
+Wira Ardiansyah;2019;2;6;Friday;normal;1;Planned;AZ;done;others;STG - 5R UTILITY CHILLER;08/02/2019 10:00;08/02/2019 10:30;0,5
+Wira Ardiansyah;2019;2;9;Friday;normal;1;Planned;AZ;done;others;STG - IPAL;01/03/2019 08:45;01/03/2019 09:45;1
+Wira Ardiansyah;2019;3;10;Wednesday;normal;2;Planned;AZ;done;others;Cuti;06/03/2019 18:30;06/03/2019 22:30;4
+Wira Ardiansyah;2019;3;10;Friday;normal;2;Planned;AZ;done;others;Cuti;08/03/2019 14:00;08/03/2019 22:30;8,5
+Wira Ardiansyah;2019;3;11;Tuesday;normal;2;Planned;AZ;done;others;STG - 5 R;12/03/2019 14:30;12/03/2019 16:00;1,5
+Wira Ardiansyah;2019;3;12;Monday;normal;2;Planned;AZ;done;others;STG - 5 R;18/03/2019 14:30;18/03/2019 16:00;1,5
+Wira Ardiansyah;2019;3;12;Tuesday;normal;2;Planned;AZ;done;others;Cuti;19/03/2019 14:30;19/03/2019 16:00;1,5
+Wira Ardiansyah;2019;3;12;Friday;normal;2;Planned;AZ;done;others;Cuti;22/03/2019 18:30;22/03/2019 22:30;4
+Wira Ardiansyah;2019;4;15;Wednesday;normal;1;Unplanned;AZ;done;others;Cuti-IMP Akhir;10/04/2019 12:30;10/04/2019 14:30;2
+Wira Ardiansyah;2019;4;15;Saturday;normal;1;Planned;AZ;done;others;STG-5R E1;13/04/2019 06:30;13/04/2019 08:00;1,5
+Wira Ardiansyah;2019;4;15;Saturday;normal;1;Planned;AZ;done;others;Cuti-1/2 Hari Akhir;13/04/2019 10:30;13/04/2019 14:30;4
+Wira Ardiansyah;2019;4;17;Thursday;normal;1;Planned;AZ;done;others;STG-5R E1;25/04/2019 06:30;25/04/2019 08:00;1,5
+Wira Ardiansyah;2019;4;17;Thursday;normal;1;Planned;AZ;done;others;Cuti-1/2 Hari Akhir;25/04/2019 12:30;25/04/2019 14:30;2
+Wira Ardiansyah;2019;4;18;Monday;normal;2;Planned;AZ;done;others;Cuti;29/04/2019 14:00;29/04/2019 22:30;8,5
+Wira Ardiansyah;2019;4;18;Tuesday;normal;2;Planned;AZ;done;others;Cuti;30/04/2019 14:00;30/04/2019 22:30;8,5
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;

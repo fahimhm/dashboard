@@ -1,0 +1,1063 @@
+Corporate;Plant;Building;User Dept;User WoC;Eng WoC;System;Name;Field's Name;Soon to be deleted column;Machine ID;Assets ID
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1001;AC Serah Terima Baku A /2SD;NF1-A1-PRA-AHL-ACD1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1002;AC Mixing Lindor 1 /2SW;NF1-A1-PRA-AHL-ACD1002;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1003;AC Mixing Lindor 2 /2SW;NF1-A1-PRA-AHL-ACD1003;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1004;AC Filling 5 line /2SW1SD;NF1-A1-PRA-AHL-ACD1004;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1005;AC Filling 9 line /2SD;NF1-A1-PRA-AHL-ACD1005;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1006;AC Filling Toyo /1SD;NF1-A1-PRA-AHL-ACD1006;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1007;AC Penyelia Packing;NF1-A1-PRA-AHL-ACD1007;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1008;AC Penyelia MixFill;NF1-A1-PRA-AHL-ACD1008;
+Nutrifood;Ciawi;A1;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1009;AC Tamu WRP;NF1-A1-ALL-AHL-ACD1009;
+Nutrifood;Ciawi;A1;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1010;AC Tamu L-Men / 2SW;NF1-A1-ALL-AHL-ACD1010;
+Nutrifood;Ciawi;A1;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1011;AC Tamu Nutrisari;NF1-A1-ALL-AHL-ACD1011;
+Nutrifood;Ciawi;A1;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1012;AC Lobby;NF1-A1-ALL-AHL-ACD1012;
+Nutrifood;Ciawi;A1;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1013;AC Pantry;NF1-A1-ALL-AHL-ACD1013;
+Nutrifood;Ciawi;A1;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1014;AC Koperasi;NF1-A1-ALL-AHL-ACD1014;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air handling;Air Cooler;Air Cooler ACL1001;Erba Cooler Packing A;NF1-A1-PRA-AHL-ACL1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air handling;Air Cooler;Air Cooler ACL1002;Erba Cooler Packing B;NF1-A1-PRA-AHL-ACL1002;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air Handling;Air Shower;Air Shower ASW1001;Air Shower - 1 (Orang);NF1-A1-PRA-AHL-ASW1001;U302008EB003
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air Handling;Air Shower;Air Shower ASW1002;Air Shower - 2 (Persiapan);NF1-A1-PRA-AHL-ASW1002;U302008EB002
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Bin Tipper;Bin Tipper BTP1001;Bin Tipper;NF1-A1-PRA-MHL-BTP1001;U302008EB001
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Carton sealer;Carton sealer CSL1001;Bestpack 01 (36);NF1-A1-PRA-PKG-CSL1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Carton sealer;Carton sealer CSL1002;Bestpack 11 (37);NF1-A1-PRA-PKG-CSL1002;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Carton sealer;Carton sealer CSL1003;Bestpack 10 (38);NF1-A1-PRA-PKG-CSL1003;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Carton sealer;Carton sealer CSL1004;Bestpack 02 (39);NF1-A1-PRA-PKG-CSL1004;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Carton sealer;Carton sealer CSL1005;Bestpack 05 (40);NF1-A1-PRA-PKG-CSL1005;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Carton sealer;Carton sealer CSL1006;Bestpack 13 (41);NF1-A1-PRA-PKG-CSL1006;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Carton sealer;Carton sealer CSL1007;Bestpack 12 (42);NF1-A1-PRA-PKG-CSL1007;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Carton sealer;Carton sealer CSL1027;;NF1-A1-PRA-PKG-CSL1027;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Cartoning;Cartoning CRT1001;Cartoning - AF (36);NF1-A1-PRA-PKG-CRT1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Cartoning;Cartoning CRT1002;Cartoning - AI (37);NF1-A1-PRA-PKG-CRT1002;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Cartoning;Cartoning CRT1003;Cartoning - AK (38);NF1-A1-PRA-PKG-CRT1003;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Cartoning;Cartoning CRT1004;Cartoning - AM (39);NF1-A1-PRA-PKG-CRT1004;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Cartoning;Cartoning CRT1005;Cartoning - AN (40);NF1-A1-PRA-PKG-CRT1005;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Cartoning;Cartoning CRT1006;Cartoning - AB (41);NF1-A1-PRA-PKG-CRT1006;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Cartoning;Cartoning CRT1007;Cartoning - AE (42);NF1-A1-PRA-PKG-CRT1007;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Continuous Sealer;Continuous Sealer TSL1001;;NF1-A1-PRA-PKG-TSL1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Continuous Sealer;Continuous Sealer TSL1002;;NF1-A1-PRA-PKG-TSL1002;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Continuous Sealer;Continuous Sealer TSL1003;;NF1-A1-PRA-PKG-TSL1003;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Continuous Sealer;Continuous Sealer TSL1004;;NF1-A1-PRA-PKG-TSL1004;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Continuous Sealer;Continuous Sealer TSL1005;;NF1-A1-PRA-PKG-TSL1005;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Continuous Sealer;Continuous Sealer TSL1006;;NF1-A1-PRA-PKG-TSL1006;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Continuous Sealer;Continuous Sealer TSL1007;;NF1-A1-PRA-PKG-TSL1007;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air handling;Dust Collector;Dust Collector DCL1001;Dust Collector Lindor;NF1-A1-PRA-AHL-DCL1001;U302009AB030, U302009AB027
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Filling;Filling 10 Line;Filling 10 Line FXL1001;Toyo - AB (33);NF1-A1-PRA-FLG-FXL1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Filling;Filling 10 Line;Filling 10 Line FXL1002;Toyo - AA (34);NF1-A1-PRA-FLG-FXL1002;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Filling;Filling 5 Line;Filling 5 Line F5L1001;5 line - AB (26);NF1-A1-PRA-FLG-F5L1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Filling;Filling 5 Line;Filling 5 Line F5L1002;5 line - AA (27);NF1-A1-PRA-FLG-F5L1002;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Filling;Filling 9 Line;Filling 9 Line F9L1001;9 line - AB (28);NF1-A1-PRA-FLG-F9L1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Filling;Filling 9 Line;Filling 9 Line F9L1002;9 line - AC (29);NF1-A1-PRA-FLG-F9L1002;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Filling;Filling 9 Line;Filling 9 Line F9L1003;9 line - AD (30);NF1-A1-PRA-FLG-F9L1003;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Filling;Filling 9 Line;Filling 9 Line F9L1004;9 line - AJ (31);NF1-A1-PRA-FLG-F9L1004;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Filling;Filling 9 Line;Filling 9 Line F9L1005;9 line - AK (32);NF1-A1-PRA-FLG-F9L1005;
+Nutrifood;Ciawi;A1;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1001;Smoke/Heat Detector Gedung A;NF1-A1-PEA-FEP-FDT1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Forklift;Forklift FKL1001;Forklift A1 (3T);NF1-A1-PRA-MHL-FKL1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1001;Handpallet A1  ;NF1-A1-PRA-MHL-HPL1001;F303008BB006
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1002;Handpallet A2  ;NF1-A1-PRA-MHL-HPL1002;T303008BB004
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1003;Handpallet A3  ;NF1-A1-PRA-MHL-HPL1003;F303008BB005
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1004;Handpallet A4  ;NF1-A1-PRA-MHL-HPL1004;F303015IB022
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1005;Handpallet A5  ;NF1-A1-PRA-MHL-HPL1005;F303009LB011
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1006;Handpallet A6  ;NF1-A1-PRA-MHL-HPL1006;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1007;Handpallet A7;NF1-A1-PRA-MHL-HPL1007;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1008;Handpallet A8 (SS);NF1-A1-PRA-MHL-HPL1008;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1009;Handpallet A9 (SS);NF1-A1-PRA-MHL-HPL1009;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1010;Handpallet A10 (SS);NF1-A1-PRA-MHL-HPL1010;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1011;Handpallet A11 (SS);NF1-A1-PRA-MHL-HPL1011;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1012;Handpallet A12 (SS);NF1-A1-PRA-MHL-HPL1012;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1013;Handpallet A13 (SS);NF1-A1-PRA-MHL-HPL1013;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air handling;Heater;Heater HTR1001;Heater Pengering Bin;NF1-A1-PRA-AHL-HTR1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Konveyor;Konveyor KVY1001;Pelipat 5 line-AB(26);NF1-A1-PRA-PKG-KVY1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Konveyor;Konveyor KVY1002;Conveyor Ridar (27);NF1-A1-PRA-PKG-KVY1002;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Konveyor;Konveyor KVY1003;Conveyor Ridar (28);NF1-A1-PRA-PKG-KVY1003;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Konveyor;Konveyor KVY1004;Conveyor Ridar (29);NF1-A1-PRA-PKG-KVY1004;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Konveyor;Konveyor KVY1005;Conveyor Ridar (30);NF1-A1-PRA-PKG-KVY1005;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Konveyor;Konveyor KVY1006;Conveyor Ridar (31);NF1-A1-PRA-PKG-KVY1006;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Konveyor;Konveyor KVY1007;Conveyor (32);NF1-A1-PRA-PKG-KVY1007;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Konveyor;Konveyor KVY1008;Conveyor (33);NF1-A1-PRA-PKG-KVY1008;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Konveyor;Konveyor KVY1009;Conveyor (34);NF1-A1-PRA-PKG-KVY1009;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Konveyor;Konveyor KVY1010;Conveyor (35);NF1-A1-PRA-PKG-KVY1010;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Processing;Mixer;Mixer MXR1001;Mixer Lindor 1 AA ;NF1-A1-PRA-PRC-MXR1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Processing;Mixer;Mixer MXR1002;Mixer Lindor 2 AB;NF1-A1-PRA-PRC-MXR1002;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Pallet Mover;Pallet Mover PMV1001;Pallet mover A1;NF1-A1-PRA-MHL-PMV1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Pallet Stacker;Pallet Stacker PST1001;Pallet Stacker A1 (Persiapan);NF1-A1-PRA-MHL-PST1001;U303008HB003
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Pallet Stacker;Pallet Stacker PST1002;Pallet Stacker Mixing 1;NF1-A1-PRA-MHL-PST1002;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Pallet Stacker;Pallet Stacker PST1003;Pallet Stacker Mixing 2;NF1-A1-PRA-MHL-PST1003;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Water distribution;Pompa;Pompa PMP1072;Jet Pump Gedung A;NF1-A1-PRA-WTR-PMP1072;
+Nutrifood;Ciawi;A1;YAA;Office;Utility;Electricity;Portal;Portal POR1001;Portal Plant Tanah Lama;NF1-A1-YAA-ELC-POR1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1001;Hitachi 16 (36);NF1-A1-PRA-PKG-PRT1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1002;Marsch 09 (36);NF1-A1-PRA-PKG-PRT1002;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1003;Hitachi 12 (37);NF1-A1-PRA-PKG-PRT1003;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1004;Marsch 12 (37);NF1-A1-PRA-PKG-PRT1004;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1005;Hitachi 13 (38);NF1-A1-PRA-PKG-PRT1005;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1006;Ichida 03 (38);NF1-A1-PRA-PKG-PRT1006;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1007;Marsch 10 (38);NF1-A1-PRA-PKG-PRT1007;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1008;Hitachi 17 (39);NF1-A1-PRA-PKG-PRT1008;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1009;Hitachi 18 (39);NF1-A1-PRA-PKG-PRT1009;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1010;Marsch 04 (39);NF1-A1-PRA-PKG-PRT1010;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1011;Hitachi 15 (40);NF1-A1-PRA-PKG-PRT1011;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1012;Marsch 07 (40);NF1-A1-PRA-PKG-PRT1012;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1013;Hitachi 14 (41);NF1-A1-PRA-PKG-PRT1013;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1015;Marsch 113 (41);NF1-A1-PRA-PKG-PRT1015;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1016;Hitachi 07 (42);NF1-A1-PRA-PKG-PRT1016;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1017;Marsch 08 (42);NF1-A1-PRA-PKG-PRT1017;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1029;Printer Hitachi 04;NF1-A1-PRA-PKG-PRT1029;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Printer;Printer PRT1030;Printer Hitachi 11;NF1-A1-PRA-PKG-PRT1029;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Rapid Door;Rapid Door RPD1001;Rapid Roll Lindor-1-1;NF1-A1-PRA-MHL-RPD1001;F301009HB014
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Rapid Door;Rapid Door RPD1002;Rapid Roll Lindor-1-2;NF1-A1-PRA-MHL-RPD1002;F301009HB015
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Rapid Door;Rapid Door RPD1003;Rapid Roll Lindor-2;NF1-A1-PRA-MHL-RPD1003;F301009HB013
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Rapid Door;Rapid Door RPD1004;Rapid Roll Antara-1;NF1-A1-PRA-MHL-RPD1004;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Rapid Door;Rapid Door RPD1005;Rapid Roll Antara-2;NF1-A1-PRA-MHL-RPD1005;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Shrink Tunnel;Shrink Tunnel STL1001;Shrink tunnel (43);NF1-A1-PRA-PKG-STL1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Electricity;Stabilizer;Stabilizer STB1001;Stabilizer - 1 (A);NF1-A1-PRA-ELC-STB1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Material handling;Table Lifter;Table Lifter TBL1006;Table lifter Toyo;NF1-A1-PRA-MHL-TBL1006;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Timbangan;Timbangan TMB1001;Garvens 02 (36);NF1-A1-PRA-PKG-TMB1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Timbangan;Timbangan TMB1002;Digi 09 (36);NF1-A1-PRA-PKG-TMB1002;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Timbangan;Timbangan TMB1003;Digi 15 (37);NF1-A1-PRA-PKG-TMB1003;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Timbangan;Timbangan TMB1004;Digi 12 (38);NF1-A1-PRA-PKG-TMB1004;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Timbangan;Timbangan TMB1005;Digi 14 (39);NF1-A1-PRA-PKG-TMB1005;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Timbangan;Timbangan TMB1006;Digi 11 (40);NF1-A1-PRA-PKG-TMB1006;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Timbangan;Timbangan TMB1007;Digi 13 (41);NF1-A1-PRA-PKG-TMB1007;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Timbangan;Timbangan TMB1008;Digi 05 (42);NF1-A1-PRA-PKG-TMB1008;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Timbangan;Timbangan TMB1026;Ichida 02 (41);NF1-A1-PRA-PKG-TMB1026;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Material handling;Truck;Truck TRK1001;Truck A1 B 9458 NB FE104 100PS;NF1-A1-PRA-MHL-TRK1001;L70020000015 
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1001;Vacuum Cleaner A1;NF1-A1-PRA-AHL-VCC1001;F302015AB009
+Nutrifood;Ciawi;A1;PRA;Fillpack;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1002;Vacuum Cleaner A2;NF1-A1-PRA-AHL-VCC1002;F302015AB010
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Filling;Vacuum tester;Vacuum tester VTS1001;Vacuum Tester 5 line;NF1-A1-PRA-FLG-VTS1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Filling;Vacuum Tester;Vacuum Tester VTS1002;Vacuum Tester 9 line;NF1-A1-PRA-FLG-VTS1002;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Filling;Vacuum tester;Vacuum tester VTS1003;Vacuum Tester Toyo;NF1-A1-PRA-FLG-VTS1003;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Wrapping;Wrapping WRP1001;Korin AC (26);NF1-A1-PRA-PKG-WRP1001;
+Nutrifood;Ciawi;A1;PRA;Fillpack;Fillpack A;Packing;Wrapping;Wrapping WRP1002;Sunpack 38 B;NF1-A1-PRA-PKG-WRP1002;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1015;AC Feeding 5 line /2SW;NF1-A2-PRA-AHL-ACD1015;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1016;AC Feeding 9 line /1SD;NF1-A2-PRA-AHL-ACD1016;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1017;AC Feeding Lindor 1 /2SW;NF1-A2-PRA-AHL-ACD1017;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1018;AC Feeding Lindor 2 /2SW;NF1-A2-PRA-AHL-ACD1018;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1019;AC Feeding Toyo /2SD;NF1-A2-PRA-AHL-ACD1019;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1020;AC Feeding Toyo /2SW;NF1-A2-PRA-AHL-ACD1020;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1021;AC Koridor Lt2 /3SD;NF1-A2-PRA-AHL-ACD1021;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1022;AC Masema;NF1-A2-PRA-AHL-ACD1022;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1023;AC WIP Lt2 /2SD;NF1-A2-PRA-AHL-ACD1023;
+Nutrifood;Ciawi;A2;PCA;QC Bahan Baku;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1024;AC QC WIP;NF1-A2-PCA-AHL-ACD1024;T11410000138
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1025;AC Production Manager Dairy;NF1-A2-PRA-AHL-ACD1025;
+Nutrifood;Ciawi;A2;YPC;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1026;AC HR Manager;NF1-A2-YPC-AHL-ACD1026;
+Nutrifood;Ciawi;A2;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1027;AC Galery;NF1-A2-ALL-AHL-ACD1027;
+Nutrifood;Ciawi;A2;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1028;AC HOD Plant;NF1-A2-ALL-AHL-ACD1028;
+Nutrifood;Ciawi;A2;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1029;AC Meeting A2;NF1-A2-ALL-AHL-ACD1029;
+Nutrifood;Ciawi;A2;YPC;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1030;AC Office HR;NF1-A2-YPC-AHL-ACD1030;
+Nutrifood;Ciawi;A2;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1031;AC Training A2;NF1-A2-ALL-AHL-ACD1031;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1076;Bin SS 1500 No.34;NF1-A2-PRA-PRC-BIN1076;T40400000043
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1077;Bin SS 1500 No.32A;NF1-A2-PRA-PRC-BIN1077;T40400000005
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1078;Bin SS 1500 No.06;NF1-A2-PRA-PRC-BIN1078;RF404010AB003
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1079;Bin SS 1500 No.8A;NF1-A2-PRA-PRC-BIN1079;RF404010AB002
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1080;Bin SS 1500 No.03;NF1-A2-PRA-PRC-BIN1080;T40400000060
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1081;Bin SS 1500 No.31;NF1-A2-PRA-PRC-BIN1081;T40400000040
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1082;Bin SS 1500 No.16;NF1-A2-PRA-PRC-BIN1082;T40400000011
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1083;Bin SS 1500 No.19;NF1-A2-PRA-PRC-BIN1083;T40400000014
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1084;Bin SS 1500 No.07;NF1-A2-PRA-PRC-BIN1084;RF404010AB004
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1085;Bin SS 1500 No.32;NF1-A2-PRA-PRC-BIN1085;T40400000041
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1086;Bin SS 1500 No.30;NF1-A2-PRA-PRC-BIN1086;T40400000039
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1087;Bin SS 1500 No.33;NF1-A2-PRA-PRC-BIN1087;T40400000042
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1088;Bin SS 1500 No.28;NF1-A2-PRA-PRC-BIN1088;T40400000037
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1089;Bin SS 1500 No.14;NF1-A2-PRA-PRC-BIN1089;T40400000009
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1090;Bin SS 1500 No.11;NF1-A2-PRA-PRC-BIN1090;T40400000006
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1091;Bin SS 1500 No.39;NF1-A2-PRA-PRC-BIN1091;T40400000049
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1092;Bin SS 1500 No.24;NF1-A2-PRA-PRC-BIN1092;T40400000033
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1093;Bin SS 1500 No.18;NF1-A2-PRA-PRC-BIN1093;T40400000013
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1094;Bin SS 1500 No.08;NF1-A2-PRA-PRC-BIN1094;RF404010AB005
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1095;Bin SS 1500 No.29;NF1-A2-PRA-PRC-BIN1095;T40400000038
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1096;Bin SS 1500 No.13;NF1-A2-PRA-PRC-BIN1096;T40400000008
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1097;Bin SS 1500 No.37;NF1-A2-PRA-PRC-BIN1097;T40400000047
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1098;Bin SS 1500 No.04;NF1-A2-PRA-PRC-BIN1098;RF404010AB001
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1099;Bin SS 1500 No.42;NF1-A2-PRA-PRC-BIN1099;T40400000052
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1100;Bin SS 1500 No.17;NF1-A2-PRA-PRC-BIN1100;T40400000012
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1101;Bin SS 1500 No.01;NF1-A2-PRA-PRC-BIN1101;T40400000053
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1102;Bin SS 1500 No.25;NF1-A2-PRA-PRC-BIN1102;T40400000034
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1103;Bin SS 1500 No.15;NF1-A2-PRA-PRC-BIN1103;T40400000010
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1104;Bin SS 1500 No.27;NF1-A2-PRA-PRC-BIN1104;T40400000036
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1105;Bin SS 1500 No.41;NF1-A2-PRA-PRC-BIN1105;T40400000051
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1106;Bin SS 1500 No.21;NF1-A2-PRA-PRC-BIN1106;T40400000016
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1107;Bin SS 1500 No.26;NF1-A2-PRA-PRC-BIN1107;T40400000035
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1108;Bin SS 1500 No.22;NF1-A2-PRA-PRC-BIN1108;T40400000017
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1109;Bin SS 1500 No.02;NF1-A2-PRA-PRC-BIN1109;T40400000059
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1110;Bin SS 1500 No.20;NF1-A2-PRA-PRC-BIN1110;T40400000015
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1111;Bin SS 1500 No.35;NF1-A2-PRA-PRC-BIN1111;T40400000044
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1112;Bin SS 1500 No.46;NF1-A2-PRA-PRC-BIN1112;RT404007HB001
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1113;Bin SS 1500 No.38;NF1-A2-PRA-PRC-BIN1113;T40400000048
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1114;Bin SS 1500 No.12;NF1-A2-PRA-PRC-BIN1114;T40400000007
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1115;Bin SS 1500 No.23;NF1-A2-PRA-PRC-BIN1115;T40400000018
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1116;Bin SS 1500 No.36;NF1-A2-PRA-PRC-BIN1116;T40400000045
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1117;Bin SS 1500 No.40;NF1-A2-PRA-PRC-BIN1117;T40400000050
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1118;Bin SS 1500 No.09;NF1-A2-PRA-PRC-BIN1118;RF404010AB006
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1119;Bin - 1500 L;NF1-A2-PRA-PRC-BIN1119;RF404014EB019
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Processing;Bin;Bin BIN1120;Bin - 1500 L;NF1-A2-PRA-PRC-BIN1120;RF404014EB020
+Nutrifood;Ciawi;A2;PRA;Processing;Fillpack A;Washer;Bin Washer;Bin Washer BWS1002;Bin Washer Gd A;NF1-A2-PRA-WSH-BWS1002;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Electricity;Charger;Charger CHG1001;Charger Battery A2-1;NF1-A2-PRA-ELC-CHG1001;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Air handling;Dehumidifier;Dehumidifier DHM1001;Dehum - 3 (Feed Lindor);NF1-A2-PRA-AHL-DHM1001;F302013HB032
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Air handling;Dehumidifier;Dehumidifier DHM1002;Dehum - 4 (Feed Wolf);NF1-A2-PRA-AHL-DHM1002;T30200000041
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Air handling;Dust Collector;Dust Collector DCL1002;Dust Collector Feed Lindor;NF1-A2-PRA-AHL-DCL1002;U302009AB028, U302009AB029
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Filling;Filling Single Line;Filling Single Line F1L1001;Filling Masema 01;NF1-A2-PRA-FLG-F1L1001;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Filling;Filling Single Line;Filling Single Line F1L1002;Filling Masema 02;NF1-A2-PRA-FLG-F1L1002;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Filling;Filling Single Line;Filling Single Line F1L1003;Filling Masema 03;NF1-A2-PRA-FLG-F1L1003;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Material handling;Katrol;Katrol KTR1001;Katrol A-1;NF1-A2-PRA-MHL-KTR1001;F404013EB009
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Material handling;Katrol;Katrol KTR1002;Katrol Hoist Battery;NF1-A2-PRA-MHL-KTR1002;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Filling;Mesin Ayak;Mesin Ayak MYK1001;Lou Sung #1000 - 1;NF1-A2-PRA-FLG-MYK1001;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Filling;Mesin Ayak;Mesin Ayak MYK1002;Lou Sung #1000 - 2;NF1-A2-PRA-FLG-MYK1002;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Filling;Mesin Ayak;Mesin Ayak MYK1003;Lou Sung #800 - 1;NF1-A2-PRA-FLG-MYK1003;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Fillpack A;Filling;Mesin Ayak;Mesin Ayak MYK1004;Lou Sung #800 - 2;NF1-A2-PRA-FLG-MYK1004;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Material handling;Pallet Mover;Pallet Mover PMV1002;Pallet mover A2;NF1-A2-PRA-MHL-PMV1002;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Water distribution;Pompa;Pompa PMP1079;Split water Produksi A;NF1-A2-PRA-WTR-PMP1079;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Material handling;Rapid Door;Rapid Door RPD1006;Rapid Roll WIP A2;NF1-A2-PRA-MHL-RPD1006;
+Nutrifood;Ciawi;A2;PRA;Fillpack;Utility;Material handling;Rapid Door;Rapid Door RPD1007;Rapid Roll Feed Lindor;NF1-A2-PRA-MHL-RPD1007;
+Nutrifood;Ciawi;B1;PPA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1032;AC Office PPIC;NF1-B1-PPA-AHL-ACD1032;
+Nutrifood;Ciawi;B1;PPA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1033;AC PPIC Manager;NF1-B1-PPA-AHL-ACD1033;
+Nutrifood;Ciawi;B1;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1002;Smoke/Heat Detector Gedung B;NF1-B1-PEA-FEP-FDT1002;
+Nutrifood;Ciawi;B1;PEA;Utility;Utility;Electricity;Penangkal Petir;Penangkal Petir PPT1001;Penangkal Petir - 1;NF1-B1-PEA-ELC-PPT1001;
+Nutrifood;Ciawi;B1;PEA;Utility;Utility;Electricity;Trafo;Trafo TRF1001;Trafo Plant A;NF1-B1-PEA-ELC-TRF1001;U301008EB003
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1034;AC Karantina;NF1-C1-PLA-AHL-ACD1034;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1035;AC Staging;NF1-C1-PLA-AHL-ACD1035;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1036;AC Baku K11 /3SW;NF1-C1-PLA-AHL-ACD1036;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1037;AC Baku K31 /2SD;NF1-C1-PLA-AHL-ACD1037;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1038;AC Gudang Alergon;NF1-C1-PLA-AHL-ACD1038;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1039;AC Timbang Lt1;NF1-C1-PLA-AHL-ACD1039;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1040;AC Minor;NF1-C1-PLA-AHL-ACD1040;
+Nutrifood;Ciawi;C1;PCA;QC Bahan Baku;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1041;AC QC Bahan Baku;NF1-C1-PCA-AHL-ACD1041;
+Nutrifood;Ciawi;C1;PCA;QC Kalibrasi;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1042;AC QC Kalibrasi;NF1-C1-PCA-AHL-ACD1042;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1162;AC R. Storage MN2;NF1-C1-PLA-AHL-ACD1162;
+Nutrifood;Ciawi;C1;REA;Laboratory;Utility;Air handling;Chiller;Chiller CHL1001;Chiller - 1 (R&D);NF1-C1-REA-AHL-CHL1001;F115112JB005
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Dehumidifier;Dehumidifier DHM1003;Dehum - 5 (Alergon);NF1-C1-PLA-AHL-DHM1003;
+Nutrifood;Ciawi;C1;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1003;Smoke/Heat Detector Gedung C1;NF1-C1-PEA-FEP-FDT1003;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Freezer;Freezer FRZ1001;Freezer 1 (A);NF1-C1-PLA-AHL-FRZ1001;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Freezer;Freezer FRZ1002;Freezer 2 (B);NF1-C1-PLA-AHL-FRZ1002;U302008JB024
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Freezer;Freezer FRZ1003;Freezer 3 (C);NF1-C1-PLA-AHL-FRZ1003;F3010000093
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Freezer;Freezer FRZ1004;Freezer 4 (D);NF1-C1-PLA-AHL-FRZ1004;F302000KN006
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Freezer;Freezer FRZ1005;Freezer 5 (E);NF1-C1-PLA-AHL-FRZ1005;T30100000100
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Freezer;Freezer FRZ1006;Freezer 6 (F);NF1-C1-PLA-AHL-FRZ1006;N30200000109
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Freezer;Freezer FRZ1007;Freezer 7 (G);NF1-C1-PLA-AHL-FRZ1007;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Freezer;Freezer FRZ1008;Freezer 8 (H);NF1-C1-PLA-AHL-FRZ1008;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Freezer;Freezer FRZ1009;Freezer 9 (I);NF1-C1-PLA-AHL-FRZ1009;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1014;Handpallet AS01;NF1-C1-PLA-MHL-HPL1014;F303014DN019
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1015;Handpallet AS02;NF1-C1-PLA-MHL-HPL1015;F303014EN020
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1016;Handpallet AS03;NF1-C1-PLA-MHL-HPL1016;U303008EB001
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1017;Handpallet AS04;NF1-C1-PLA-MHL-HPL1017;F303009KB009
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1018;Handpallet AS05;NF1-C1-PLA-MHL-HPL1018;F303009KB008
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1019;Handpallet AS06;NF1-C1-PLA-MHL-HPL1019;F303013EN007
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1020;Handpallet AP01;NF1-C1-PLA-MHL-HPL1020;F303014IN030
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1021;Handpallet AP02;NF1-C1-PLA-MHL-HPL1021;F303015CN011
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1022;Handpallet AP03;NF1-C1-PLA-MHL-HPL1022;F303015CN012
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1023;Handpallet AP04;NF1-C1-PLA-MHL-HPL1023;F303012IN007
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1024;Handpallet AP05;NF1-C1-PLA-MHL-HPL1024;F303008EB002
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Fillpack A;Water distribution;Pompa;Pompa PMP1001;Pompa sorbitol C1;NF1-C1-PLA-WTR-PMP1001;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Water distribution;Pompa;Pompa PMP1002;Split water C1;NF1-C1-PLA-WTR-PMP1002;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1003;Vacuum Cleaner C-1;NF1-C1-PLA-AHL-VCC1003;F302010EB022
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1004;Vacuum Cleaner C-2;NF1-C1-PLA-AHL-VCC1004;F302015CN006
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1005;Vacuum Cleaner C-3;NF1-C1-PLA-AHL-VCC1005;F302015CN008
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1006;Vacuum Cleaner C-4;NF1-C1-PLA-AHL-VCC1006;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1007;Vacuum Cleaner C-5;NF1-C1-PLA-AHL-VCC1007;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1008;Vacuum Cleaner C-6;NF1-C1-PLA-AHL-VCC1008;F302014KB030
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1009;Vacuum Cleaner C-7;NF1-C1-PLA-AHL-VCC1009;
+Nutrifood;Ciawi;C2;PLA;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1043;AC Mayor;NF1-C2-PLA-AHL-ACD1043;
+Nutrifood;Ciawi;C2;PLA;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1044;AC Timbang Baku /4SW;NF1-C2-PLA-AHL-ACD1044;
+Nutrifood;Ciawi;C2;PLA;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1045;AC Premix /2SW;NF1-C2-PLA-AHL-ACD1045;
+Nutrifood;Ciawi;C2;PLA;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1046;AC Timbang Flavour Baku A /4SW;NF1-C2-PLA-AHL-ACD1046;
+Nutrifood;Ciawi;C2;PLA;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1047;AC Simpan Koridor C2;NF1-C2-PLA-AHL-ACD1047;
+Nutrifood;Ciawi;C2;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1004;Smoke/Heat Detector Gedung C2;NF1-C2-PEA-FEP-FDT1004;
+Nutrifood;Ciawi;C2;PLA;Gudang Baku Kemas Kemas;Utility;Material handling;Katrol;Katrol KTR1003;Katrol C-1;NF1-C2-PLA-MHL-KTR1003;
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1048;AC Filling APM;NF1-D1-PRA-AHL-ACD1048;
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1049;AC Filling KCM;NF1-D1-PRA-AHL-ACD1049;
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1050;AC Filling Jam;NF1-D1-PRA-AHL-ACD1050;
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1051;AC Bottle cooler;NF1-D1-PRA-AHL-ACD1051;
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1052;AC Cuci Lab;NF1-D1-RSL-AHL-ACD1052;
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1053;AC Preparasi 1;NF1-D1-RSL-AHL-ACD1053;
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1054;AC Ruang Instrument Panas;NF1-D1-RSL-AHL-ACD1054;
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1055;AC Ruang Preparasi 2;NF1-D1-RSL-AHL-ACD1055;
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1056;AC Timbang Lab;NF1-D1-RSL-AHL-ACD1056;
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1057;AC Incubator;NF1-D1-RSL-AHL-ACD1057;
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1058;AC Ruang Analisa Mikro;NF1-D1-RSL-AHL-ACD1058;
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1059;AC Ruang Instrument Dingin;NF1-D1-RSL-AHL-ACD1059;
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1060;AC Ruang Analisa Kimia;NF1-D1-RSL-AHL-ACD1060;
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1061;AC Ruang Kulkas;NF1-D1-RSL-AHL-ACD1061;
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1062;AC Office RnD lt 1;NF1-D1-RSL-AHL-ACD1062;
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Air handling;Air Conditioner;Air Conditioner ACD1165;AC Ruang UPS;NF1-D1-RSL-AHL-ACD1165;F304017EN008
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Air Handling;Air Curtain;Air Curtain ACT1001;Air Curtain Pintu Keluar;NF1-D1-PRA-AHL-ACT1001;
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Air Handling;Air Curtain;Air Curtain ACT1002;Air Curtain Pintu Masuk;NF1-D1-PRA-AHL-ACT1002;
+Nutrifood;Ciawi;D1;PEA;Utility;Utility;Compressed air;Air Dryer;Air Dryer ADY1001;Air Dryer TC36 - 1;NF1-D1-PEA-CPA-ADY1001;T30200000002
+Nutrifood;Ciawi;D1;PEA;Utility;Utility;Compressed air;Air Dryer;Air Dryer ADY1002;Air Dryer TC36 - 2;NF1-D1-PEA-CPA-ADY1002;T30200000003
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Air Handling;Blower;Blower BLW1001;Blower Ruang Asam;NF1-D1-RSL-AHL-BLW1001;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Packing;Carton sealer;Carton sealer CSL1008;Best Pack 06;NF1-D1-PRA-PKG-CSL1008;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Packing;Carton sealer;Carton sealer CSL1009;Best Pack 07;NF1-D1-PRA-PKG-CSL1009;
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Air handling;Cooling Tower;Cooling Tower CTW1001;Cooling Tower - 1 (PHE);NF1-D1-PRA-AHL-CTW1001;
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Air handling;Cooling Tower;Cooling Tower CTW1002;Cooling Tower - 2 (VC);NF1-D1-PRA-AHL-CTW1002;F302010CB015
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Air handling;Cooling Tower;Cooling Tower CTW1003;Cooling Tower - 3 (APM);NF1-D1-PRA-AHL-CTW1003;F115112JB004
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Lab Equipment;Destilator;Destilator DES1001;;NF1-D1-RSL-LAB-DES1001;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Filling;Filling Botol;Filling Botol FBT1001;APM;NF1-D1-PRA-FLG-FBT1001;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Filling;Filling Botol;Filling Botol FBT1002;KCM;NF1-D1-PRA-FLG-FBT1002;
+Nutrifood;Ciawi;D1;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1005;Smoke/Heat Detector Gedung D1;NF1-D1-PEA-FEP-FDT1005;
+Nutrifood;Ciawi;D1;RSL;Laboratory;Fillpack A;Packing;Foot sealer;Foot sealer FSL1002;;NF1-D1-RSL-PKG-FSL1002;F115100KN010
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Air handling;Freezer;Freezer FRZ1010;;NF1-D1-RSL-AHL-FRZ1010;
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Material handling;Handpallet;Handpallet HPL1025;Handpallet - D1;NF1-D1-PRA-MHL-HPL1025;
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Material handling;Handpallet;Handpallet HPL1026;Handpallet - D2;NF1-D1-PRA-MHL-HPL1026;
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Material handling;Handpallet;Handpallet HPL1027;Handpallet - D3;NF1-D1-PRA-MHL-HPL1027;
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Material handling;Handpallet;Handpallet HPL1028;Handpallet - D4;NF1-D1-PRA-MHL-HPL1028;
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Material handling;Handpallet;Handpallet HPL1029;Handpallet - D5;NF1-D1-PRA-MHL-HPL1029;
+Nutrifood;Ciawi;D1;PRA;Syrup;Utility;Material handling;Handpallet;Handpallet HPL1030;Handpallet - D6;NF1-D1-PRA-MHL-HPL1030;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Packing;Konveyor;Konveyor KVY1011;TTC Syrup;NF1-D1-PRA-PKG-KVY1011;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Packing;Konveyor;Konveyor KVY1012;TTC Jam;NF1-D1-PRA-PKG-KVY1012;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Packing;Labeller;Labeller LBL1001;Labeller;NF1-D1-PRA-PKG-LBL1001;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Mixer;Mixer MXR1003;Mixer Gum;NF1-D1-PRA-PRC-MXR1003;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Mixer;Mixer MXR1004;Meat Mincer TS-22;NF1-D1-PRA-PRC-MXR1004;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Mixer;Mixer MXR1005;Mixer Pactin;NF1-D1-PRA-PRC-MXR1005;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Mixer;Mixer MXR1006;Bear Verimixer;NF1-D1-PRA-PRC-MXR1006;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Mixer;Mixer MXR1019;Blending Tank 1;NF1-D1-PRA-PRC-MXR1019;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Mixer;Mixer MXR1020;Blending Tank 2;NF1-D1-PRA-PRC-MXR1020;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Pasteurizer;Pasteurizer PTR1001;PHE;NF1-D1-PRA-PRC-PTR1001;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Pompa;Pompa PMP1003;Lobe Pump Delta Flow;NF1-D1-PRA-PRC-PMP1003;
+Nutrifood;Ciawi;D1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1004;Pompa Rinsing Demin;NF1-D1-PEA-WTR-PMP1004;
+Nutrifood;Ciawi;D1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1005;Pompa Feed Demin - 1;NF1-D1-PEA-WTR-PMP1005;
+Nutrifood;Ciawi;D1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1006;Pompa Feed Demin - 2;NF1-D1-PEA-WTR-PMP1006;
+Nutrifood;Ciawi;D1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1007;Pompa Feed Demin - 3;NF1-D1-PEA-WTR-PMP1007;
+Nutrifood;Ciawi;D1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1008;Pompa Feed Demin - 4;NF1-D1-PEA-WTR-PMP1008;
+Nutrifood;Ciawi;D1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1009;Pompa Distribusi UHT;NF1-D1-PEA-WTR-PMP1009;
+Nutrifood;Ciawi;D1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1010;Pompa Distribusi Produksi - 1;NF1-D1-PEA-WTR-PMP1010;
+Nutrifood;Ciawi;D1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1011;Pompa Distribusi Produksi - 2;NF1-D1-PEA-WTR-PMP1011;
+Nutrifood;Ciawi;D1;PEA;Utility;Utility;Steam generation;Pompa Kondensat;Pompa Kondensat PKD1001;Steam Pump - 1 (Syrup);NF1-D1-PEA-STG-PKD1001;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Packing;Printer;Printer PRT1018;Printer Hitachi 05;NF1-D1-PRA-PKG-PRT1018;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Packing;Printer;Printer PRT1019;Marsh Unicorn 01;NF1-D1-PRA-PKG-PRT1019;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Packing;Printer;Printer PRT1020;Printer Hitachi 06;NF1-D1-PRA-PKG-PRT1020;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Packing;Printer;Printer PRT1021;Printer Marsh Unicorn 04;NF1-D1-PRA-PKG-PRT1021;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Product Tank;Product Tank PDT1001;Tangki Penampung Brown Sugar-1;NF1-D1-PRA-PRC-PDT1001;F302009JB016
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Product Tank;Product Tank PDT1002;Tangki Penampung Brown Sugar-2;NF1-D1-PRA-PRC-PDT1002;F302009JB018
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Product Tank;Product Tank PDT1003;Tangki Filling Kecap-1;NF1-D1-PRA-PRC-PDT1003;F302010GB039
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Product Tank;Product Tank PDT1004;Tangki Penampung Brown Sugar-3;NF1-D1-PRA-PRC-PDT1004;F302009JB017
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Product Tank;Product Tank PDT1005;Tangki Filling Kecap-2;NF1-D1-PRA-PRC-PDT1005;F302010GB037
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Product Tank;Product Tank PDT1006;Tangki Penampung Brown Sugar-4;NF1-D1-PRA-PRC-PDT1006;F302009JB019
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Product Tank;Product Tank PDT1007;Tangki Filling Kecap-3;NF1-D1-PRA-PRC-PDT1007;F302010GB038
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Product Tank;Product Tank PDT1008;Tangki Filling Kecap-4;NF1-D1-PRA-PRC-PDT1008;F302010GB036
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Packing;Shrink Tunnel;Shrink Tunnel STL1002;Shrink Tunnel Syrup;NF1-D1-PRA-PKG-STL1002;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Packing;Timbangan;Timbangan TMB1009;Timbangan Digi 05;NF1-D1-PRA-PKG-TMB1009;
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Packing;Timbangan;Timbangan TMB1010;Timbangan Digi 06;NF1-D1-PRA-PKG-TMB1010;
+Nutrifood;Ciawi;D1;PEA;Utility;Utility;Water distribution;Ultraviolet;Ultraviolet UTV1001;Ultraviolet Syrup;NF1-D1-PEA-WTR-UTV1001;
+Nutrifood;Ciawi;D1;PEA;Utility;Utility;Water distribution;Ultraviolet;Ultraviolet UTV1002;Ultraviolet WTP D ;NF1-D1-PEA-WTR-UTV1002;
+Nutrifood;Ciawi;D1;RSL;Laboratory;Utility;Electricity;UPS;UPS UPS1001;UPS RND;NF1-D1-RSL-ELC-UPS1001;F302000DN002
+Nutrifood;Ciawi;D1;PRA;Syrup;Fillpack A;Processing;Vacuum cooker;Vacuum cooker VCK1001;Vacuum Cooker;NF1-D1-PRA-PRC-VCK1001;
+Nutrifood;Ciawi;D2;REA;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1063;AC GPCG;NF1-D2-REA-AHL-ACD1063;
+Nutrifood;Ciawi;D2;REA;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1064;AC Mini UHT;NF1-D2-REA-AHL-ACD1064;
+Nutrifood;Ciawi;D2;REA;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1065;AC UPS R&D;NF1-D2-REA-AHL-ACD1065;
+Nutrifood;Ciawi;D2;RSL;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1066;AC Storage Sample Vitamin;NF1-D2-RSL-AHL-ACD1066;
+Nutrifood;Ciawi;D2;RND;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1067;AC HOD R&D;NF1-D2-RND-AHL-ACD1067;
+Nutrifood;Ciawi;D2;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1068;AC Meeting Bantal;NF1-D2-ALL-AHL-ACD1068;
+Nutrifood;Ciawi;D2;RND;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1069;AC Office RnD lt 2;NF1-D2-RND-AHL-ACD1069;
+Nutrifood;Ciawi;D2;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1070;AC Meeting Sensory;NF1-D2-ALL-AHL-ACD1070;
+Nutrifood;Ciawi;D2;RND;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1071;AC Ruang Panelis;NF1-D2-RND-AHL-ACD1071;
+Nutrifood;Ciawi;D2;RND;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1072;AC Persiapan Panel;NF1-D2-RND-AHL-ACD1072;
+Nutrifood;Ciawi;D2;RND;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1073;AC Ruang Seal;NF1-D2-RND-AHL-ACD1073;
+Nutrifood;Ciawi;D2;RND;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1074;AC Ruang Sensory;NF1-D2-RND-AHL-ACD1074;
+Nutrifood;Ciawi;D2;RND;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1075;AC Simpan Baku R&D;NF1-D2-RND-AHL-ACD1075;
+Nutrifood;Ciawi;D2;RND;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1076;AC Wet Lab/Kitchen;NF1-D2-RND-AHL-ACD1076;
+Nutrifood;Ciawi;D2;RND;Laboratory;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1163;AC Analisa D2;NF1-D2-RND-AHL-ACD1163;
+Nutrifood;Ciawi;D2;RND;Laboratory;Utility;Compressed air;Air Dryer;Air Dryer ADY1003;Air Dryer GPCG;NF1-D2-RND-CPA-ADY1003;
+Nutrifood;Ciawi;D2;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1006;Smoke/Heat Detector Gedung D2;NF1-D2-PEA-FEP-FDT1006;
+Nutrifood;Ciawi;D2;RND;Laboratory;Processing;Processing;Granulator;Granulator GRN1001;GPCG - 1;NF1-D2-RND-PRC-GRN1001;N50010000005
+Nutrifood;Ciawi;D2;RND;Laboratory;Processing;Processing;Granulator;Granulator GRN1002;GPCG - 2;NF1-D2-RND-PRC-GRN1002;F115115DB003
+Nutrifood;Ciawi;D2;RND;Laboratory;Utility;Air handling;Heater;Heater HTR1002;Storage 37;NF1-D2-RND-AHL-HTR1002;N50010000002
+Nutrifood;Ciawi;D2;RPN;Laboratory;Processing;Processing;Ice Cream Maker;Ice Cream Maker ICM1001;Ice Cream Maker RnD;NF1-D2-RPN-PRC-ICM1001;F115100LN017
+Nutrifood;Ciawi;D2;RND;Laboratory;Utility;Material handling;Katrol;Katrol KTR1004;Katrol D-1;NF1-D2-RND-MHL-KTR1004;
+Nutrifood;Ciawi;D2;RND;Laboratory;Utility;Compressed air;Kompresor;Kompresor KMP1004;Compressor-4 (Meiji R&D);NF1-D2-RND-CPA-KMP1004;N30200000023
+Nutrifood;Ciawi;D2;RKA;Laboratory;Processing;Processing;Mixer;Mixer MXR1017;High Shear Mixer;NF1-D2-RKA-PRC-MXR1017;
+Nutrifood;Ciawi;D2;RND;Laboratory;Processing;Processing;Pasteurizer;Pasteurizer PTR1002;Mini UHT - 1;NF1-D2-RND-PRC-PTR1002;F115112GB001
+Nutrifood;Ciawi;E1;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1077;AC Promosi;NF1-E1-ALL-AHL-ACD1077;
+Nutrifood;Ciawi;E1;PEA;Utility;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1078;AC Ruang Teknisi;NF1-E1-PEA-AHL-ACD1078;
+Nutrifood;Ciawi;E1;PEA;Utility;Utility;Air handling;Dehumidifier;Dehumidifier DHM1004;Dehum - 6 (Back Up);NF1-E1-PEA-AHL-DHM1004;F302017DN007, F302017DN006, F302017DB007
+Nutrifood;Ciawi;E1;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1007;Smoke/Heat Detector Gedung E1;NF1-E1-PEA-FEP-FDT1007;
+Nutrifood;Ciawi;E1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1080;Split water engineering;NF1-E1-PEA-WTR-PMP1080;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1079;AC Office E2;NF1-E2-PEA-AHL-ACD1079;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1080;AC Ruang Kalibrasi;NF1-E2-PEA-AHL-ACD1080;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1081;AC Ruang Meeting E2;NF1-E2-PEA-AHL-ACD1081;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1008;Smoke/Heat Detector Gedung E2;NF1-E2-PEA-FEP-FDT1008;
+Nutrifood;Ciawi;F1;SGC;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1082;AC AGC Manager;NF1-F1-SGC-AHL-ACD1082;
+Nutrifood;Ciawi;F1;YPC;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1083;AC Fotokopi;NF1-F1-YPC-AHL-ACD1083;
+Nutrifood;Ciawi;F1;OAP;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1084;AC Ruang Bu Laksmi;NF1-F1-OAP-AHL-ACD1084;
+Nutrifood;Ciawi;F1;OAP;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1085;AC Ruang Klinik;NF1-F1-OAP-AHL-ACD1085;
+Nutrifood;Ciawi;F1;OAP;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1086;AC Ruang Dokter;NF1-F1-OAP-AHL-ACD1086;
+Nutrifood;Ciawi;F1;YDT;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1087;AC Perpusatakaan;NF1-F1-YDT-AHL-ACD1087;
+Nutrifood;Ciawi;F1;PSA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1088;AC PSA Office;NF1-F1-PSA-AHL-ACD1088;
+Nutrifood;Ciawi;F1;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1089;AC Meeting F1;NF1-F1-ALL-AHL-ACD1089;
+Nutrifood;Ciawi;F1;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1090;AC Meeting V-Con;NF1-F1-ALL-AHL-ACD1090;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;ALL WTP;ALL WTP WTP1001;;;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1009;Smoke/Heat Detector Gedung F1;NF1-F1-PEA-FEP-FDT1009;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Mesin Hydrant;Mesin Hydrant HYD1001;Mesin Hydrant;NF1-F1-PEA-WTR-HYD1001;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Electricity;Penangkal Petir;Penangkal Petir PPT1002;Penangkal Petir - 2;NF1-F1-PEA-ELC-PPT1002;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pilar Hydrant;Pilar Hydrant PHY1001;Pillar Hydrant;NF1-F1-PEA-WTR-PHY1001;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1012;Pompa Transfer Sand Filter-1;NF1-F1-PEA-WTR-PMP1012;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1013;Pompa Transfer Sand Filter-2;NF1-F1-PEA-WTR-PMP1013;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1014;Pompa Transfer Sand Filter-3;NF1-F1-PEA-WTR-PMP1014;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1015;Pompa Transfer Sand Filter-4;NF1-F1-PEA-WTR-PMP1015;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1016;Pompa Transfer Pressure Tank-1;NF1-F1-PEA-WTR-PMP1016;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1017;Pompa Transfer Pressure Tank-2;NF1-F1-PEA-WTR-PMP1017;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1018;Pompa Backwash;NF1-F1-PEA-WTR-PMP1018;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1019;Pompa Transfer Softener-1;NF1-F1-PEA-WTR-PMP1019;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1020;Pompa Transfer Softener-2;NF1-F1-PEA-WTR-PMP1020;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1021;Pompa Transfer Pressure Tank-3;NF1-F1-PEA-WTR-PMP1021;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1022;Pompa Transfer Pressure Tank-4;NF1-F1-PEA-WTR-PMP1022;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1023;Pompa Transfer Pressure Tank-5;NF1-F1-PEA-WTR-PMP1023;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1024;Pompa Transfer Pressure Tank-6;NF1-F1-PEA-WTR-PMP1024;
+Nutrifood;Ciawi;F1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1025;Submersible Sumur-1;NF1-F1-PEA-WTR-PMP1025;
+Nutrifood;Ciawi;F1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Reefer Container;Reefer Container RCT1001;RC A4;NF1-F1-PLA-AHL-RCT1001;F301009HB016
+Nutrifood;Ciawi;F1;PLA;Gudang Baku Kemas Kemas;Utility;Air handling;Reefer Container;Reefer Container RCT1002;RC B2;NF1-F1-PLA-AHL-RCT1002;F301010FB012
+Nutrifood;Ciawi;F2;ITA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1091;AC Office IT;NF1-F2-ITA-AHL-ACD1091;
+Nutrifood;Ciawi;F2;ITA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1092;AC Server;NF1-F2-ITA-AHL-ACD1092;
+Nutrifood;Ciawi;F2;ITA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1093;AC Office QA;NF1-F2-ITA-AHL-ACD1093;
+Nutrifood;Ciawi;F2;ITA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1094;AC PABX;NF1-F2-ITA-AHL-ACD1094;
+Nutrifood;Ciawi;F2;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1010;Smoke/Heat Detector Gedung F2;NF1-F2-PEA-FEP-FDT1010;
+Nutrifood;Ciawi;G1;PLF;Gudang Baku Kemas Kemas;Utility;Air handling;Air Cooler;Air Cooler ACL1003;Erba Cooler (Sortasi);NF1-G1-PLF-AHL-ACL1003;F302011BB012
+Nutrifood;Ciawi;G1;PLB;Gudang Baku;Utility;Air handling;Dehumidifier;Dehumidifier DHM1012;Dehum portable gudang baku;NF1-G1-PLB-AHL-DHM1012;
+Nutrifood;Ciawi;G1;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1011;Smoke/Heat Detector Gedung G1;NF1-G1-PEA-FEP-FDT1011;
+Nutrifood;Ciawi;G1;PRB;Gudang Baku Kemas Kemas;Utility;Material handling;Katrol;Katrol KTR1005;Katrol G-1 (Retur);NF1-G1-PRB-MHL-KTR1005;N3020-00000028
+Nutrifood;Ciawi;G1;PCA;QC Bahan Baku;Processing;Processing;Mesin Ayak;Mesin Ayak MYK1013;Mesin ayak QC;NF1-G1-PCA-PRC-MYK1013;F600112GB002
+Nutrifood;Ciawi;G1;PLB;Gudang Baku Kemas Kemas;Utility;Material handling;Pallet Mover;Pallet Mover PMV1003;Pallet mover GB-1;NF1-G1-PLB-MHL-PMV1003;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1095;AC Filling G2 /3SD;NF1-G2-PRB-AHL-ACD1095;
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1096;AC Storage Utuh /5SW;NF1-G2-PLB-AHL-ACD1096;
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1097;AC Timbang Flavour Baku B /1SW1SD;NF1-G2-PLB-AHL-ACD1097;
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1098;AC Simpan Baku Koma /3SW;NF1-G2-PLB-AHL-ACD1098;
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1099;AC Serah Terima Baku B /5SW;NF1-G2-PLB-AHL-ACD1099;
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1100;AC Timbang Warna /1SW;NF1-G2-PLB-AHL-ACD1100;
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1101;AC Penyelia Gudang Baku Kemas B;NF1-G2-PLB-AHL-ACD1101;
+Nutrifood;Ciawi;G2;PCA;QC Bahan Baku;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1102;AC QC Baku B;NF1-G2-PCA-AHL-ACD1102;
+Nutrifood;Ciawi;G2;PRO;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1103;AC Office PRO;NF1-G2-PRO-AHL-ACD1103;
+Nutrifood;Ciawi;G2;PCA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1104;AC Office QC;NF1-G2-PCA-AHL-ACD1104;
+Nutrifood;Ciawi;G2;PRO;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1105;AC PRO/PRC Manager;NF1-G2-PRO-AHL-ACD1105;
+Nutrifood;Ciawi;G2;VFF;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1106;AC Finance;NF1-G2-VFF-AHL-ACD1106;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Utility;Air handling;Air Cooler;Air Cooler ACL1004;Erba Cooler G2;NF1-G2-PRB-AHL-ACL1004;F302011DB018
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Carton Erector;Carton Erector CRE1001;Carton Erector G2 (22);NF1-G2-PRB-PKG-CRE1001;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1010;Bestpack/Carton Sealer 1 (1);NF1-G2-PRB-PKG-CSL1010;F302000AN007
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1011;Bestpack/Carton Sealer 2 (2);NF1-G2-PRB-PKG-CSL1011;N40500000112
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1012;Bestpack/Carton Sealer 3 (3);NF1-G2-PRB-PKG-CSL1012;N40500000110
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1013;Bestpack (4);NF1-G2-PRB-PKG-CSL1013;N40500000123
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1014;Bestpack/Carton Sealer 11 (5);NF1-G2-PRB-PKG-CSL1014;N40500000032
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1015;Bestpack/Carton Sealer 12 (6);NF1-G2-PRB-PKG-CSL1015;F405014DB021
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1026;Bestpack Mateerburt;NF1-G2-PRB-PKG-CSL1026;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Cartoning;Cartoning CRT1008;Cartoning D (4);NF1-G2-PRB-PKG-CRT1008;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Cartoning;Cartoning CRT1009;Cartoner Stickpack Toyo;NF1-G2-PRB-PKG-CRT1009;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Cartoning;Cartoning CRT1010;Cartoning A (5);NF1-G2-PRB-PKG-CRT1010;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Cartoning;Cartoning CRT1011;Cartoning C (6);NF1-G2-PRB-PKG-CRT1011;
+Nutrifood;Ciawi;G2;PRB;Processing;Utility;Electricity;Charger;Charger CHG1002;Charger Battery PR-1;NF1-G2-PRB-ELC-CHG1002;F303014BN001
+Nutrifood;Ciawi;G2;PRB;Processing;Utility;Electricity;Charger;Charger CHG1003;Charger Battery PR-2;NF1-G2-PRB-ELC-CHG1003;F303014BN002
+Nutrifood;Ciawi;G2;PRB;Processing;Utility;Electricity;Charger;Charger CHG1004;Charger Battery PR-3;NF1-G2-PRB-ELC-CHG1004;F303014BN003
+Nutrifood;Ciawi;G2;PRB;Processing;Utility;Air handling;Chiller;Chiller CHL1002;Chiller - 2 (Dunhambush);NF1-G2-PRB-AHL-CHL1002;F302013KB047
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Air handling;Dust Collector;Dust Collector DCL1003;Dust Collector Baku B;NF1-G2-PLB-AHL-DCL1003;F302012FB011
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1001;Multiline Q (1);NF1-G2-PRB-FLG-F6L1001;RF405014AB004
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1003;Omag C (2);NF1-G2-PRB-FLG-F6L1003;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1004;Omag D (2);NF1-G2-PRB-FLG-F6L1004;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1005;Omag A (3);NF1-G2-PRB-FLG-F6L1005;F405015JB062
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1006;Omag B (3);NF1-G2-PRB-FLG-F6L1006;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Filling;Filling Bag;Filling Bag FLB1001;Wolf (35);NF1-G2-PRB-FLG-FLB1001;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Filling;Filling Bag;Filling Bag FLB1002;TAM (6);NF1-G2-PRB-FLG-FLB1002;N40500000047
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Filling;Filling Stickpack;Filling Stickpack FST1001;StickPack Toyo (4);NF1-G2-PRB-FLG-FST1001;F405010EB002
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Filling;Filling Stickpack;Filling Stickpack FST1002;StickPack Filvo (5);NF1-G2-PRB-FLG-FST1002;T405008AB016
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Filling;Filling Stickpack;Filling Stickpack FST1003;StickPack - Single (7) SMS;NF1-G2-PRB-FLG-FST1003;F405015IB061
+Nutrifood;Ciawi;G2;PRB;Fillpack;Utility;Material handling;Forklift;Forklift FKL1002;Forklift G-1 (3T);NF1-G2-PRB-MHL-FKL1002;F303013HB016
+Nutrifood;Ciawi;G2;PLB;Fillpack;Utility;Material handling;Forklift;Forklift FKL1003;Forklift G-2 (3T);NF1-G2-PLB-MHL-FKL1003;
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1031;Handpallet BS01;NF1-G2-PLB-MHL-HPL1031;F303014GN027
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1032;Handpallet BS02;NF1-G2-PLB-MHL-HPL1032;F303014JN031
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1033;Handpallet BS03;NF1-G2-PLB-MHL-HPL1033;F303014JN032
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1034;Handpallet BS04;NF1-G2-PLB-MHL-HPL1034;F303015DN017
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1035;Handpallet BS05;NF1-G2-PLB-MHL-HPL1035;F303014DN027
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1036;Handpallet BP01;NF1-G2-PLB-MHL-HPL1036;N30300000029
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1037;Handpallet BP02;NF1-G2-PLB-MHL-HPL1037;N30300000028
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Material handling;Handpallet;Handpallet HPL1038;Handpallet BP03;NF1-G2-PLB-MHL-HPL1038;N30300000040
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1013;Pelipat Q (1);NF1-G2-PRB-PKG-KVY1013;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1014;Pelipat S (1);NF1-G2-PRB-PKG-KVY1014;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1015;Pelipat V (2);NF1-G2-PRB-PKG-KVY1015;F302000AN007
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1016;Pelipat R (2);NF1-G2-PRB-PKG-KVY1016;F302000AN007
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1017;Pelipat Omag A (3);NF1-G2-PRB-PKG-KVY1017;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1018;Pelipat U (3);NF1-G2-PRB-PKG-KVY1018;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1033;Pelipat Omag B;NF1-G2-PRB-PKG-KVY1033;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1034;Pelipat Omag C;NF1-G2-PRB-PKG-KVY1034;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1035;Pelipat Omag D;NF1-G2-PRB-PKG-KVY1035;
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Material handling;Pallet Mover;Pallet Mover PMV1004;Pallet mover GK-1;NF1-G2-PLB-MHL-PMV1004;
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Water distribution;Pompa;Pompa PMP1026;Split water G2;NF1-G2-PLB-WTR-PMP1026;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Printer;Printer PRT1022;Printer Hitachi - 03 NS (4);NF1-G2-PRB-PKG-PRT1022;T40500000058
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Printer;Printer PRT1023;Printer Hitachi - 01 NS (5);NF1-G2-PRB-PKG-PRT1023;F405015BB008
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Printer;Printer PRT1024;Printer Hitachi - 02 NS (6);NF1-G2-PRB-PKG-PRT1024;F405015BB009
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Printer;Printer PRT1025;Printer Manual G2 (8);NF1-G2-PRB-PKG-PRT1025;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Utility;Material handling;Rolling Door;Rolling Door ROD1016;Rolling Door G2;NF1-G2-PRB-MHL-ROD1016;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Utility;Electricity;Stabilizer;Stabilizer STB1002;Stabilizer - 2 (G2);NF1-G2-PRB-ELC-STB1002;F304013FB009
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Material handling;Table Lifter;Table Lifter TBL1001;Table Lifter Baku B;NF1-G2-PLB-MHL-TBL1001;F302014BB004
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Material handling;Table Lifter;Table Lifter TBL1005;Table lifter roll G2;NF1-G2-PRB-MHL-TBL1002;
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1011;Timbangan Digi-200 (1);NF1-G2-PRB-PKG-TMB1011;F302000AN007
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1012;Timbangan Digi-201 (2);NF1-G2-PRB-PKG-TMB1012;F302000AN009
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1013;Timbangan Digi-202 (3);NF1-G2-PRB-PKG-TMB1013;F302000AN010
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1014;Timbangan Digi-200 (4);NF1-G2-PRB-PKG-TMB1014;F302013CB006
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1015;Timbangan Digi-200 (5);NF1-G2-PRB-PKG-TMB1015;F302014CB009
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1016;Timbangan Digi-200 (6);NF1-G2-PRB-PKG-TMB1016;F302012GB014
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1010;Vacuum Cleaner G-1;NF1-G2-PLB-AHL-VCC1010;F302011CB015
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1011;Vacuum Cleaner G-2;NF1-G2-PLB-AHL-VCC1011;F302000KN012
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1012;Vacuum Cleaner G-3;NF1-G2-PLB-AHL-VCC1012;F302014KB031
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1013;Vacuum Cleaner G-4;NF1-G2-PLB-AHL-VCC1013;F302015CN009
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1014;Vacuum Cleaner G-5;NF1-G2-PLB-AHL-VCC1014;F302015CN010
+Nutrifood;Ciawi;G2;PLB;Gudang Baku Kemas Kemas;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1015;Vacuum Cleaner G-6;NF1-G2-PLB-AHL-VCC1015;F302015CN011
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Wrapping;Wrapping WRP1003;Hopak A (1);NF1-G2-PRB-PKG-WRP1003;RF405014EB033
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Wrapping;Wrapping WRP1004;Hopak B (2);NF1-G2-PRB-PKG-WRP1004;F302000AN007
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Wrapping;Wrapping WRP1005;Hopak E (3);NF1-G2-PRB-PKG-WRP1005;RF405015CB016
+Nutrifood;Ciawi;G2;PRB;Fillpack;Fillpack B;Packing;Wrapping;Wrapping WRP1018;Omory A;NF1-G2-PRB-PKG-WRP1018;
+Nutrifood;Ciawi;G3;PRB;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1107;AC WIP A /1SD;NF1-G3-PRB-AHL-ACD1107;
+Nutrifood;Ciawi;G3;PRB;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1108;AC WIP B /1SD;NF1-G3-PRB-AHL-ACD1108;
+Nutrifood;Ciawi;G3;PLB;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1109;AC Ruang Pasang Tutup;NF1-G3-PLB-AHL-ACD1109;
+Nutrifood;Ciawi;G3;PCA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1110;AC QC Kemas;NF1-G3-PCA-AHL-ACD1110;
+Nutrifood;Ciawi;G3;PLB;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1111;AC Office Kemas;NF1-G3-PLB-AHL-ACD1111;
+Nutrifood;Ciawi;G3;PLB;Gudang Baku Kemas;Utility;Material handling;Handpallet;Handpallet HPL1039;Handpallet K01;NF1-G3-PLB-MHL-HPL1039;N30300000006
+Nutrifood;Ciawi;G3;PLB;Gudang Baku Kemas;Utility;Material handling;Handpallet;Handpallet HPL1040;Handpallet K02;NF1-G3-PLB-MHL-HPL1040;F303011FN012
+Nutrifood;Ciawi;G3;PLB;Gudang Baku Kemas;Utility;Material handling;Katrol;Katrol KTR1006;Katrol G-3 (Kemas - 1);NF1-G3-PLB-MHL-KTR1006;F302011KB027, Panel F301012AB001
+Nutrifood;Ciawi;G3;PLB;Gudang Baku Kemas;Utility;Material handling;Katrol;Katrol KTR1007;Katrol G-4 (Kemas - 2);NF1-G3-PLB-MHL-KTR1007;F302012AB006, Panel F301012EB016
+Nutrifood;Ciawi;G3;PRB;Fillpack;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1016;Vacuum Cleaner H1B;NF1-G3-PRB-AHL-VCC1016;F302014KB029
+Nutrifood;Ciawi;G3;PRB;Fillpack;Fillpack B;Filling;Vacuum Tester;Vacuum Tester VTS1004;Vacuum Tester G2;NF1-G3-PRB-FLG-VTS1004;F302015DB029
+Nutrifood;Ciawi;H1;PRB;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1112;AC Operator Glatt EF;NF1-H1-PRB-AHL-ACD1112;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1113;AC Glatt EF + Huttlin /2SD;NF1-H1-PRB-AHL-ACD1113;
+Nutrifood;Ciawi;H1;PRB;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1114;AC Operator Glatt GH;NF1-H1-PRB-AHL-ACD1114;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1115;AC Glatt GH /1SD;NF1-H1-PRB-AHL-ACD1115;
+Nutrifood;Ciawi;H1;PRB;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1116;AC Operator Mixing 2;NF1-H1-PRB-AHL-ACD1116;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1117;AC Mixing 2 (Baru) /1SD;NF1-H1-PRB-AHL-ACD1117;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1118;AC Filling H1A (Lama) /2SD;NF1-H1-PRB-AHL-ACD1118;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1120;AC Filling H1B (Baru) /3SW;NF1-H1-PRB-AHL-ACD1120;
+Nutrifood;Ciawi;H1;PCA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1121;AC QC Process;NF1-H1-PCA-AHL-ACD1121;
+Nutrifood;Ciawi;H1;PEA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1122;AC Genset;NF1-H1-PEA-AHL-ACD1122;
+Nutrifood;Ciawi;H1;PRB;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1123;AC Penyelia Proses;NF1-H1-PRB-AHL-ACD1123;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Air handling;Air Cooler;Air Cooler ACL1005;Erba Cooler H1B;NF1-H1-PRB-AHL-ACL1005;H30200000025, U302000000126, N30200000132
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air Handling;Air Curtain;Air Curtain ACT1003;Air Curtain Glatt EF;NF1-H1-PRB-AHL-ACT1003;F304015AN008, F304015AN014, F304015AN009
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Air Handling;Air Curtain;Air Curtain ACT1004;Air Curtain Packing H1A;NF1-H1-PRB-AHL-ACT1004;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Air Handling;Air Curtain;Air Curtain ACT1005;Air Curtain Packing H1B;NF1-H1-PRB-AHL-ACT1005;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Air Handling;Air Curtain;Air Curtain ACT1006;Air Curtain Filling H1B;NF1-H1-PRB-AHL-ACT1006;F304015AN011, F304015AN013
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1001;Bin 1;NF1-H1-PRB-PRC-BIN1001;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1002;Bin 2;NF1-H1-PRB-PRC-BIN1002;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1003;Bin 3;NF1-H1-PRB-PRC-BIN1003;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1004;Bin 4;NF1-H1-PRB-PRC-BIN1004;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1005;Bin 5;NF1-H1-PRB-PRC-BIN1005;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1006;Bin 6;NF1-H1-PRB-PRC-BIN1006;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1007;Bin 7;NF1-H1-PRB-PRC-BIN1007;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1008;Bin 8;NF1-H1-PRB-PRC-BIN1008;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1009;Bin 9;NF1-H1-PRB-PRC-BIN1009;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1010;Bin 10;NF1-H1-PRB-PRC-BIN1010;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1011;Bin 11;NF1-H1-PRB-PRC-BIN1011;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1012;Bin 12;NF1-H1-PRB-PRC-BIN1012;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1013;Bin 13;NF1-H1-PRB-PRC-BIN1013;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1014;Bin 14;NF1-H1-PRB-PRC-BIN1014;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1015;Bin 15;NF1-H1-PRB-PRC-BIN1015;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1016;Bin 16;NF1-H1-PRB-PRC-BIN1016;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1017;Bin 17;NF1-H1-PRB-PRC-BIN1017;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1018;Bin 18;NF1-H1-PRB-PRC-BIN1018;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1019;Bin 19;NF1-H1-PRB-PRC-BIN1019;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1020;Bin 20;NF1-H1-PRB-PRC-BIN1020;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1021;Bin 21;NF1-H1-PRB-PRC-BIN1021;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1022;Bin 22;NF1-H1-PRB-PRC-BIN1022;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1023;Bin 23;NF1-H1-PRB-PRC-BIN1023;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1024;Bin 24;NF1-H1-PRB-PRC-BIN1024;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1025;Bin 25;NF1-H1-PRB-PRC-BIN1025;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1026;Bin 26;NF1-H1-PRB-PRC-BIN1026;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1027;Bin 27;NF1-H1-PRB-PRC-BIN1027;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1028;Bin 28;NF1-H1-PRB-PRC-BIN1028;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1029;Bin 29;NF1-H1-PRB-PRC-BIN1029;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1030;Bin 30;NF1-H1-PRB-PRC-BIN1030;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1031;Bin 31;NF1-H1-PRB-PRC-BIN1031;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1032;Bin 32;NF1-H1-PRB-PRC-BIN1032;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1033;Bin 33;NF1-H1-PRB-PRC-BIN1033;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1034;Bin 34;NF1-H1-PRB-PRC-BIN1034;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1035;Bin 35;NF1-H1-PRB-PRC-BIN1035;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1036;Bin 36;NF1-H1-PRB-PRC-BIN1036;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1037;Bin 37;NF1-H1-PRB-PRC-BIN1037;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1038;Bin 38;NF1-H1-PRB-PRC-BIN1038;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1039;Bin 39;NF1-H1-PRB-PRC-BIN1039;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1040;Bin 40;NF1-H1-PRB-PRC-BIN1040;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1041;Bin 41;NF1-H1-PRB-PRC-BIN1041;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1042;Bin 42;NF1-H1-PRB-PRC-BIN1042;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1043;Bin 43;NF1-H1-PRB-PRC-BIN1043;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1044;Bin 44;NF1-H1-PRB-PRC-BIN1044;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1045;Bin 45;NF1-H1-PRB-PRC-BIN1045;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1046;Bin 46;NF1-H1-PRB-PRC-BIN1046;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1047;Bin 47;NF1-H1-PRB-PRC-BIN1047;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1048;Bin 48;NF1-H1-PRB-PRC-BIN1048;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1049;Bin 49;NF1-H1-PRB-PRC-BIN1049;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1050;Bin 50;NF1-H1-PRB-PRC-BIN1050;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1051;Bin 51;NF1-H1-PRB-PRC-BIN1051;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1052;Bin 52;NF1-H1-PRB-PRC-BIN1052;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1053;Bin 53;NF1-H1-PRB-PRC-BIN1053;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1054;Bin 54;NF1-H1-PRB-PRC-BIN1054;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1055;Bin 55;NF1-H1-PRB-PRC-BIN1055;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1056;Bin 56;NF1-H1-PRB-PRC-BIN1056;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1057;Bin 57;NF1-H1-PRB-PRC-BIN1057;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1058;Bin 58;NF1-H1-PRB-PRC-BIN1058;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1059;Bin 59;NF1-H1-PRB-PRC-BIN1059;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1060;Bin 60;NF1-H1-PRB-PRC-BIN1060;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1061;Bin 61;NF1-H1-PRB-PRC-BIN1061;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1062;Bin 62;NF1-H1-PRB-PRC-BIN1062;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1063;Bin 63;NF1-H1-PRB-PRC-BIN1063;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1064;Bin 64;NF1-H1-PRB-PRC-BIN1064;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1065;Bin 65;NF1-H1-PRB-PRC-BIN1065;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1066;Bin 66;NF1-H1-PRB-PRC-BIN1066;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1067;Bin 67;NF1-H1-PRB-PRC-BIN1067;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1068;Bin 68;NF1-H1-PRB-PRC-BIN1068;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1069;Bin 69;NF1-H1-PRB-PRC-BIN1069;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1070;Bin 70;NF1-H1-PRB-PRC-BIN1070;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1071;Bin 71;NF1-H1-PRB-PRC-BIN1071;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1072;Bin 72;NF1-H1-PRB-PRC-BIN1072;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1073;Bin 73;NF1-H1-PRB-PRC-BIN1073;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1074;Bin 74;NF1-H1-PRB-PRC-BIN1074;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Bin;Bin BIN1075;Bin 75;NF1-H1-PRB-PRC-BIN1075;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Air Handling;Bin Dryer;Bin Dryer BDY1001;;NF1-H1-PRB-AHL-BDY1001;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Washer;Bin Washer;Bin Washer BWS1001;Bin Washer Gd H;NF1-H1-PRB-WSH-BWS1001;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Carton Erector;Carton Erector CRE1002;Carton Erector H1 (21);NF1-H1-PRB-PKG-CRE1002;F405014DB030
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1016;Bestpack/Carton Sealer 4 (9);NF1-H1-PRB-PKG-CSL1016;N40500000122
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1017;Bestpack/Carton Sealer 5 (10);NF1-H1-PRB-PKG-CSL1017;N40500000121
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1018;Bestpack/Carton Sealer 6 (11);NF1-H1-PRB-PKG-CSL1018;F405012DB007
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1019;Bestpack/Carton Sealer 10 (12);NF1-H1-PRB-PKG-CSL1019;F405014DB018
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1020;Bestpack (13);NF1-H1-PRB-PKG-CSL1020;F405015CB020
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Chiller;Chiller CHL1003;Chiller - 3 (Glatt A);NF1-H1-PRB-AHL-CHL1003;F302013KB047
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Chiller;Chiller CHL1004;Chiller - 4 (Glatt B);NF1-H1-PRB-AHL-CHL1004;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Chiller;Chiller CHL1005;Chiller - 5 (Glatt C);NF1-H1-PRB-AHL-CHL1005;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Chiller;Chiller CHL1006;Chiller - 6 (Glatt D);NF1-H1-PRB-AHL-CHL1006;N30200000006
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Chiller;Chiller CHL1007;Chiller - 7 (Glatt E);NF1-H1-PRB-AHL-CHL1007;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Chiller;Chiller CHL1008;Chiller - 8 (Glatt F);NF1-H1-PRB-AHL-CHL1008;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Chiller;Chiller CHL1009;Chiller - 9 (Glatt G);NF1-H1-PRB-AHL-CHL1009;F302000AN024
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Dehumidifier;Dehumidifier DHM1005;Dehum - 7 (Area Cuci);NF1-H1-PRB-AHL-DHM1005;F302015GB086, F302015GB085, F302015GB091
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Dehumidifier;Dehumidifier DHM1006;Dehum - 8 (Glatt EF);NF1-H1-PRB-AHL-DHM1006;F302015GB092, F302015GB090, F302015GB094, F302015GB093
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Dehumidifier;Dehumidifier DHM1007;Dehum - 9 (Glatt GH);NF1-H1-PRB-AHL-DHM1007;F302015GB089
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Dehumidifier;Dehumidifier DHM1008;Dehum - 10 (Mixing 1 Lama);NF1-H1-PRB-AHL-DHM1008;N3020-00000003, N3020-00000004, F302013BB003, F302011LB031
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Dehumidifier;Dehumidifier DHM1009;Dehum - 11 (Mixing 2 Baru);NF1-H1-PRB-AHL-DHM1009;F302013 GB031, F302013 GB030
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Air handling;Dehumidifier;Dehumidifier DHM1010;Dehum - 12 (Filling H1B);NF1-H1-PRB-AHL-DHM1010;F302015GB087
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Transfer System;Dense Phase System;Dense Phase System DPS1001;Dense Phase;NF1-H1-PRB-TRF-DPS1001;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Dust Collector;Dust Collector DCL1004;Dust Collector Processing;NF1-H1-PRB-AHL-DCL1004;F302013BB004
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1002;Multiline S (1);NF1-H1-PRB-FLG-F6L1002;RF405014FB036
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1007;Multiline B (9);NF1-H1-PRB-FLG-F6L1007;N40500000037
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1008;Multiline E (9);NF1-H1-PRB-FLG-F6L1008;N40500000040
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1009;Multiline D (10);NF1-H1-PRB-FLG-F6L1009;N40500000039
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1010;Multiline I (10);NF1-H1-PRB-FLG-F6L1010;N40500000044
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1011;Multiline H (11);NF1-H1-PRB-FLG-F6L1011;N40500000043
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1012;Multiline R (11);NF1-H1-PRB-FLG-F6L1012;F405014AB005
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1013;Multiline P (12);NF1-H1-PRB-FLG-F6L1013;F405014AB003
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1014;Multiline T (13);NF1-H1-PRB-FLG-F6L1014;F405014FB037
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Filling;Filling Botol;Filling Botol FBT1003;Materburt (17);NF1-H1-PRB-FLG-FBT1003;N40500000045
+Nutrifood;Ciawi;H1;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1012;Smoke/Heat Detector Gedung H1;NF1-H1-PEA-FEP-FDT1012;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Foot sealer;Foot sealer FSL1001;;NF1-H1-PRB-PKG-FSL1001;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Forklift;Forklift FKL1004;Forklift H2 (3T) Ex C1;NF1-H1-PRB-MHL-FKL1004;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Giling Gula;Giling Gula GLG1001;BM A;NF1-H1-PRB-PRC-GLG1001;N40400000062
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Giling Gula;Giling Gula GLG1002;BM B;NF1-H1-PRB-PRC-GLG1002;N40400000063
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Granulator;Granulator GRN1003;Granulator A;NF1-H1-PRB-PRC-GRN1003;N40400000001
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Granulator;Granulator GRN1004;Granulator B;NF1-H1-PRB-PRC-GRN1004;N40400000002
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Granulator;Granulator GRN1005;Granulator C;NF1-H1-PRB-PRC-GRN1005;N40400000003
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Granulator;Granulator GRN1006;Granulator D;NF1-H1-PRB-PRC-GRN1006;N40400000004
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Granulator;Granulator GRN1007;Granulator E;NF1-H1-PRB-PRC-GRN1007;N40400000005
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Granulator;Granulator GRN1008;Granulator F;NF1-H1-PRB-PRC-GRN1008;N40400000006
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Granulator;Granulator GRN1009;Granulator G;NF1-H1-PRB-PRC-GRN1009;F404014BB005
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Granulator;Granulator GRN1010;Granulator H;NF1-H1-PRB-PRC-GRN1010;F404014BB006
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Granulator;Granulator GRN1011;Granulator huttlin;NF1-H1-PRB-PRC-GRN1011;N40400000100
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1041;Handpallet H1 - 1;NF1-H1-PRB-MHL-HPL1041;F303014BN004
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1042;Handpallet H1 - 2;NF1-H1-PRB-MHL-HPL1042;F303014BN005
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1043;Handpallet H1 - 3;NF1-H1-PRB-MHL-HPL1043;F303013LN049
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1044;Handpallet H1 - 4;NF1-H1-PRB-MHL-HPL1044;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1045;Handpallet H1 - 5;NF1-H1-PRB-MHL-HPL1045;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1046;Handpallet H1 - 6;NF1-H1-PRB-MHL-HPL1046;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1047;Handpallet H1 - 7;NF1-H1-PRB-MHL-HPL1047;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1048;Handpallet H1 - 8;NF1-H1-PRB-MHL-HPL1048;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1049;Handpallet H1 - 9;NF1-H1-PRB-MHL-HPL1049;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1050;Handpallet H1 - 10;NF1-H1-PRB-MHL-HPL1050;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1051;Handpallet H1 - 11;NF1-H1-PRB-MHL-HPL1051;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1052;Handpallet H1 - 12;NF1-H1-PRB-MHL-HPL1052;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1053;Handpallet H1 - 13;NF1-H1-PRB-MHL-HPL1053;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1054;Handpallet H1 - 14;NF1-H1-PRB-MHL-HPL1054;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1055;Handpallet H1 - 15;NF1-H1-PRB-MHL-HPL1055;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1056;Handpallet H1 - 16;NF1-H1-PRB-MHL-HPL1056;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Katrol;Katrol KTR1008;Katrol - PR1;NF1-H1-PRB-MHL-KTR1008;F302013FB025, F302014FN014
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Katrol;Katrol KTR1009;Katrol - PR2;NF1-H1-PRB-MHL-KTR1009;N30200000030
+Nutrifood;Ciawi;H1;PLB;Gudang Baku Kemas;Utility;Material handling;Katrol;Katrol KTR1010;Katrol Gudang Kemas H3;NF1-H1-PLB-MHL-KTR1010;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Kenceng Warna;Kenceng Warna KCW1001;;NF1-H1-PRB-PRC-KCW1001;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Kenceng Warna;Kenceng Warna KCW1002;;NF1-H1-PRB-PRC-KCW1002;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Kenceng Warna;Kenceng Warna KCW1003;;NF1-H1-PRB-PRC-KCW1003;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Kenceng Warna;Kenceng Warna KCW1004;;NF1-H1-PRB-PRC-KCW1004;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Kenceng Warna;Kenceng Warna KCW1005;;NF1-H1-PRB-PRC-KCW1005;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Kenceng Warna;Kenceng Warna KCW1006;;NF1-H1-PRB-PRC-KCW1006;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Kenceng Warna;Kenceng Warna KCW1007;;NF1-H1-PRB-PRC-KCW1007;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Kenceng Warna;Kenceng Warna KCW1008;;NF1-H1-PRB-PRC-KCW1008;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Kenceng Warna;Kenceng Warna KCW1009;;NF1-H1-PRB-PRC-KCW1009;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Kenceng Warna;Kenceng Warna KCW1010;;NF1-H1-PRB-PRC-KCW1010;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Kenceng Warna;Kenceng Warna KCW1011;;NF1-H1-PRB-PRC-KCW1011;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1019;Pelipat B (9);NF1-H1-PRB-PKG-KVY1019;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1020;Pelipat E (9);NF1-H1-PRB-PKG-KVY1020;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1021;Pelipat D (10);NF1-H1-PRB-PKG-KVY1021;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1022;Pelipat I (10);NF1-H1-PRB-PKG-KVY1022;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1023;Pelipat H (11);NF1-H1-PRB-PKG-KVY1023;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1024;Pelipat C (11);NF1-H1-PRB-PKG-KVY1024;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1025;Pelipat P (12);NF1-H1-PRB-PKG-KVY1025;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1026;Pelipat T (13);NF1-H1-PRB-PKG-KVY1026;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Lifting Device;Lifting Device LDV1001;LD - CM1;NF1-H1-PRB-PRC-LDV1001;F404014BB003
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Lifting Device;Lifting Device LDV1002;LD - CM2;NF1-H1-PRB-PRC-LDV1002;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Lifting Device;Lifting Device LDV1003;LD - CM3;NF1-H1-PRB-PRC-LDV1003;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mesin Ayak;Mesin Ayak MYK1005;GS - CM1;NF1-H1-PRB-PRC-MYK1005;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mesin Ayak;Mesin Ayak MYK1006;Lou Sung #450 - CM1;NF1-H1-PRB-PRC-MYK1006;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mesin Ayak;Mesin Ayak MYK1007;GS - CM2;NF1-H1-PRB-PRC-MYK1007;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mesin Ayak;Mesin Ayak MYK1008;Lou Sung #450 - CM2;NF1-H1-PRB-PRC-MYK1008;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mesin Ayak;Mesin Ayak MYK1009;GS - CM3;NF1-H1-PRB-PRC-MYK1009;F404000AN002
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mesin Ayak;Mesin Ayak MYK1010;Lou Sung #450 - CM3;NF1-H1-PRB-PRC-MYK1010;F404014BB007
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mesin Ayak;Mesin Ayak MYK1011;Lou Sung #1000;NF1-H1-PRB-PRC-MYK1011;F404000AN003
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mixer;Mixer MXR1008;CM - 1;NF1-H1-PRB-PRC-MXR1008;F404014BB002
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mixer;Mixer MXR1009;CM - 2;NF1-H1-PRB-PRC-MXR1009;F404014BB003
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mixer;Mixer MXR1010;CM - 3;NF1-H1-PRB-PRC-MXR1010;F404014BB004
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mixer;Mixer MXR1011;Mixer Binder - 1;NF1-H1-PRB-PRC-MXR1011;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mixer;Mixer MXR1012;Mixer Binder - 2;NF1-H1-PRB-PRC-MXR1012;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mixer;Mixer MXR1013;Mixer Binder - 3;NF1-H1-PRB-PRC-MXR1013;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mixer;Mixer MXR1014;Mixer Binder - 4;NF1-H1-PRB-PRC-MXR1014;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Mixer;Mixer MXR1015;Mixer Binder - 5;NF1-H1-PRB-PRC-MXR1015;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Pallet Mover;Pallet Mover PMV1005;Pallet mover - PR1;NF1-H1-PRB-MHL-PMV1005;F303014FB007
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Pallet Mover;Pallet Mover PMV1006;Pallet mover - PR2;NF1-H1-PRB-MHL-PMV1006;F303014BB002
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Pallet Mover;Pallet Mover PMV1007;Pallet mover - PR3;NF1-H1-PRB-MHL-PMV1007;F303013FB015
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Pallet Mover;Pallet Mover PMV1008;Pallet mover - PR4;NF1-H1-PRB-MHL-PMV1008;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Pallet Mover;Pallet Mover PMV1009;Pallet mover - PR5;NF1-H1-PRB-MHL-PMV1009;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Pallet Mover;Pallet Mover PMV1010;Pallet mover - PR6;NF1-H1-PRB-MHL-PMV1010;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Pallet Mover;Pallet Mover PMV1016;;NF1-H1-PRB-MHL-PMV1016;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Pallet Stacker;Pallet Stacker PST1004;Pallet stacker - PR3;NF1-H1-PRB-MHL-PST1004;N3030008043, F303015GB015
+Nutrifood;Ciawi;H1;PCA;Office;Processing;Electricity;Panel;Panel PNL1001;Panel Glatt QC WIP B;NF1-H1-PCA-ELC-PNL1001;
+Nutrifood;Ciawi;H1;PRB;Processing;Processing;Processing;Pompa;Pompa PMP1028;Feeding Pump - Glatt B;NF1-H1-PRB-PRC-PMP1028;
+Nutrifood;Ciawi;H1;PEA;Utility;Utility;Steam generation;Pompa Kondensat;Pompa Kondensat PKD1002;Steam Pump - 2 (PRB);NF1-H1-PEA-STG-PKD1002;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1008;Rapid Roll PR-1 (Mixing 1);NF1-H1-PRB-MHL-RPD1008;F301015FB039
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1009;Rapid Roll PR-2 (Mixing 1);NF1-H1-PRB-MHL-RPD1009;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1010;Rapid Roll PR-3 (Tadah Gula);NF1-H1-PRB-MHL-RPD1010;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1011;Rapid Roll PR-4 (Tadah Gula);NF1-H1-PRB-MHL-RPD1011;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1012;Rapid Roll PR-5 (Tadah Gula);NF1-H1-PRB-MHL-RPD1012;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1013;Rapid Roll PR-6 (Tadah Gula);NF1-H1-PRB-MHL-RPD1013;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1014;Rapid Roll PR-7 (Glatt EF);NF1-H1-PRB-MHL-RPD1014;F301015FB037
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1015;Rapid Roll PR-8 (Mixing 2);NF1-H1-PRB-MHL-RPD1015;F301015FB038
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1016;Rapid Roll PR-9 (Mixing 2);NF1-H1-PRB-MHL-RPD1016;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1017;Rapid Roll PR-10 (Cuci Bin);NF1-H1-PRB-MHL-RPD1017;F301015FB040
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1018;Rapid Roll PR-11 (Glatt GH);NF1-H1-PRB-MHL-RPD1018;F301015FB041
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1019;Rapid Roll PR-12 (Giling Gula);NF1-H1-PRB-MHL-RPD1019;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Rapid Door;Rapid Door RPD1020;Rapid Roll Filling H1B;NF1-H1-PRB-MHL-RPD1020;F301015FB042
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1026;Rapid roll Glatt ABCD;NF1-H1-PRB-MHL-RPD1026;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Electricity;Stabilizer;Stabilizer STB1003;Stabilizer - 3 (H1A);NF1-H1-PRB-ELC-STB1003;F302011AB004
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Electricity;Stabilizer;Stabilizer STB1004;Stabilizer - 4 (H1B);NF1-H1-PRB-ELC-STB1004;F302010HB045
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Material handling;Table Lifter;Table Lifter TBL1002;Table lifter roll H1-1;NF1-H1-PRB-MHL-TBL1003;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Material handling;Table Lifter;Table Lifter TBL1003;Table lifter roll H1-2;NF1-H1-PRB-MHL-TBL1004;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1017;Timbangan Digi-200 (9);NF1-H1-PRB-PKG-TMB1017;F302011FN023
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1018;Timbangan Digi-201 (10);NF1-H1-PRB-PKG-TMB1018;F302011FB017
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1019;Timbangan Digi-202 (11);NF1-H1-PRB-PKG-TMB1019;F302011LB032
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1020;Timbangan Digi-200 (12);NF1-H1-PRB-PKG-TMB1020;F302012GB013
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1021;Timbangan (13);NF1-H1-PRB-PKG-TMB1021;F302015DB026
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Truck;Truck TRK1002;Truck G1 B 9815 ND 110PS ;NF1-H1-PRB-MHL-TRK1002;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Utility;Material handling;Truck;Truck TRK1003;Truck L1 F 8419 AP FE73 110PS ;NF1-H1-PRB-MHL-TRK1003;
+Nutrifood;Ciawi;H1;PEA;Utility;Utility;Water distribution;Ultraviolet;Ultraviolet UTV1003;Ultraviolet Soft Water NS;NF1-H1-PEA-WTR-UTV1003;
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1017;Vacuum Cleaner PR-1 (Mixing1);NF1-H1-PRB-AHL-VCC1017;N302000000131
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1018;Vacuum Cleaner PR-2 (Mixing1);NF1-H1-PRB-AHL-VCC1018;F302014BD050
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1019;Vacuum Cleaner PR-3 (Mixing2);NF1-H1-PRB-AHL-VCC1019;F302014KB033
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1020;Vacuum Cleaner PR-4 (Giling Gula;NF1-H1-PRB-AHL-VCC1020;F302015AB005
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1021;Vacuum Cleaner PR-5 (Giling Gula);NF1-H1-PRB-AHL-VCC1021;F302014KB027
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1022;Vacuum Cleaner PR-6 (Glatt);NF1-H1-PRB-AHL-VCC1022;F302014KB032
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1023;Vacuum Cleaner PR-7 (Glatt);NF1-H1-PRB-AHL-VCC1023;F302014KB028
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1024;Vacuum Cleaner PR-8 (Glatt);NF1-H1-PRB-AHL-VCC1024;F302015AB004
+Nutrifood;Ciawi;H1;PRB;Processing;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1025;Vacuum Cleaner PR-9 (Glatt);NF1-H1-PRB-AHL-VCC1025;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Filling;Vacuum Tester;Vacuum Tester VTS1005;Vacuum Tester H1;NF1-H1-PRB-FLG-VTS1005;F302015DB031, F302015DB032, F302015DB033
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Wrapping;Wrapping WRP1006;Sunpack 78B (9);NF1-H1-PRB-PKG-WRP1006;F405011HB024
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Wrapping;Wrapping WRP1007;Korin B (10);NF1-H1-PRB-PKG-WRP1007;
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Wrapping;Wrapping WRP1008;Hopak C (11);NF1-H1-PRB-PKG-WRP1008;F405015CB018
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Wrapping;Wrapping WRP1009;Sunpack 78D (12) (Rekondisi);NF1-H1-PRB-PKG-WRP1019;F405010IB026
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Wrapping;Wrapping WRP1010;Interpack (12);NF1-H1-PRB-PKG-WRP1010;F405014FB038
+Nutrifood;Ciawi;H1;PRB;Fillpack;Fillpack B;Packing;Wrapping;Wrapping WRP1011;Omory B (13);NF1-H1-PRB-PKG-WRP1011;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1125;AC Filling H2A (Lama) /6W;NF1-H2-PRB-AHL-ACD1125;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1126;AC WIP H2A /2SD;NF1-H2-PRB-AHL-ACD1126;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1128;AC WIP H2B /4SW;NF1-H2-PRB-AHL-ACD1128;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1129;AC WIP H3 /2SD;NF1-H2-PRB-AHL-ACD1129;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1130;AC Materburt /3SW;NF1-H2-PRB-AHL-ACD1130;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1131;AC Ruang Bongkaran;NF1-H2-PRB-AHL-ACD1131;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1132;AC Tadah Gula H2 / 2SW;NF1-H2-PRB-AHL-ACD1132;
+Nutrifood;Ciawi;H2;PRB;Processing;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1164;AC Ruang Tuang Gula;NF1-H2-PRB-AHL-ACD1164;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Air Handling;Air Curtain;Air Curtain ACT1007;Air Curtain WIP H2B;NF1-H2-PRB-AHL-ACT1007;F304015AN015, F304015AN012, F304015AN010
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Air Handling;Air Curtain;Air Curtain ACT1008;Air Curtain Packing H2;NF1-H2-PRB-AHL-ACT1008;
+Nutrifood;Ciawi;H2;PEA;Utility;Utility;Compressed air;Air Dryer;Air Dryer ADY1004;Air Dryer Donaldson -1;NF1-H2-PEA-CPA-ADY1004;F302013JB042
+Nutrifood;Ciawi;H2;PEA;Utility;Utility;Compressed air;Air Dryer;Air Dryer ADY1005;Air Dryer Donaldson -2;NF1-H2-PEA-CPA-ADY1005;F302012AB055
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Carton Erector;Carton Erector CRE1003;Carton Erector H2 (20);NF1-H2-PRB-PKG-CRE1003;F405014DB031
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1021;Bestpack/Carton Sealer 7 (14);NF1-H2-PRB-PKG-CSL1021;N40500000109
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1022;Bestpack/Carton Sealer 8 (15);NF1-H2-PRB-PKG-CSL1022;N40500000108
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1023;Bestpack/Carton Sealer 9 (16);NF1-H2-PRB-PKG-CSL1023;N40500000114
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Carton sealer;Carton sealer CSL1024;Bestpack (19);NF1-H2-PRB-PKG-CSL1024;F405012HB010
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Air handling;Dehumidifier;Dehumidifier DHM1011;Dehum - 13 (WIP H2B);NF1-H2-PRB-AHL-DHM1011;F302015DB088
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Filling;Filling 5 Line;Filling 5 Line F5L1003;Multiline F (19) 5 Line AC;NF1-H2-PRB-FLG-F5L1003;N40500000041
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1015;Multiline N (14);NF1-H2-PRB-FLG-F6L1015;F405014AB007
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1016;Multiline A (14);NF1-H2-PRB-FLG-F6L1016;N40500000036
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1017;Multiline L (15);NF1-H2-PRB-FLG-F6L1017;F405011LB029
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1018;Multiline G (15);NF1-H2-PRB-FLG-F6L1018;N40500000042
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1019;Multiline M (16);NF1-H2-PRB-FLG-F6L1019;F405014AB006
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Filling;Filling 6 Line;Filling 6 Line F6L1020;Multiline O (16);NF1-H2-PRB-FLG-F6L1020;F405014AB002
+Nutrifood;Ciawi;H2;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1013;Smoke/Heat Detector Gedung H2;NF1-H2-PEA-FEP-FDT1013;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Material handling;Forklift;Forklift FKL1005;Forklift H1 (3T);NF1-H2-PRB-MHL-FKL1005;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1057;Handpallet H2 - 1;NF1-H2-PRB-MHL-HPL1057;F303011CN001
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1058;Handpallet H2 - 2;NF1-H2-PRB-MHL-HPL1058;F303010EB006
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1059;Handpallet H2 - 3;NF1-H2-PRB-MHL-HPL1059;F303014JN033
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1060;Handpallet H2 - 4;NF1-H2-PRB-MHL-HPL1060;F303014JN034
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1061;Handpallet H2 - 5;NF1-H2-PRB-MHL-HPL1061;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1062;Handpallet H2 - 6;NF1-H2-PRB-MHL-HPL1062;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1063;Handpallet H2 - 7;NF1-H2-PRB-MHL-HPL1063;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Material handling;Handpallet;Handpallet HPL1064;Handpallet H2 - 8;NF1-H2-PRB-MHL-HPL1064;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Material handling;Katrol;Katrol KTR1011;Katrol Fillpack;NF1-H2-PRB-MHL-KTR1011;N30200000029, F302000AN022
+Nutrifood;Ciawi;H2;PEA;Utility;Utility;Compressed air;Kompresor;Kompresor KMP1010;Compressor-10 (ASD 37 - 1);NF1-H2-PEA-CPA-KMP1010;F302012HB015
+Nutrifood;Ciawi;H2;PEA;Utility;Utility;Compressed air;Kompresor;Kompresor KMP1013;Compressor-13 (CSD 125 - 1);NF1-H2-PEA-CPA-KMP1013;F302013FB024
+Nutrifood;Ciawi;H2;PEA;Utility;Utility;Compressed air;Kompresor;Kompresor KMP1014;Compressor-14 (CSD 125 - 2);NF1-H2-PEA-CPA-KMP1014;F302014CB005
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1027;Pelipat N (14);NF1-H2-PRB-PKG-KVY1027;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1028;Pelipat A (14);NF1-H2-PRB-PKG-KVY1028;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1029;Pelipat L (15);NF1-H2-PRB-PKG-KVY1029;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1030;Pelipat G (15);NF1-H2-PRB-PKG-KVY1030;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1031;Pelipat M (16);NF1-H2-PRB-PKG-KVY1031;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Konveyor;Konveyor KVY1032;Pelipat O (16);NF1-H2-PRB-PKG-KVY1032;
+Nutrifood;Ciawi;H2;PRB;Processing;Processing;Processing;Konveyor;Konveyor KVY1036;Konveyor Giling Gula;NF1-H2-PRB-PRC-KVY1036;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Printer;Printer PRT1026;Printer Manual H2 (18);NF1-H2-PRB-PKG-PRT1026;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Material handling;Rapid Door;Rapid Door RPD1021;Rapid Roll WIP H2B - 1;NF1-H2-PRB-MHL-RPD1021;F301015FB043
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Material handling;Rapid Door;Rapid Door RPD1022;Rapid Roll WIP H2B - 2;NF1-H2-PRB-MHL-RPD1022;F301015FB044
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Material handling;Rapid Door;Rapid Door RPD1023;Rapid Roll WIP H2A;NF1-H2-PRB-MHL-RPD1023;F301013HB070
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Material handling;Rapid Door;Rapid Door RPD1024;Rapid Roll Packing H2;NF1-H2-PRB-MHL-RPD1024;
+Nutrifood;Ciawi;H2;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1027;Rapid roll tuang gula-1;NF1-H2-PRB-MHL-RPD1027;
+Nutrifood;Ciawi;H2;PRB;Processing;Utility;Material handling;Rapid Door;Rapid Door RPD1028;Rapid roll tuang gula-2;NF1-H2-PRB-MHL-RPD1028;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Utility;Electricity;Stabilizer;Stabilizer STB1005;Stabilizer - 5 (H2);NF1-H2-PRB-ELC-STB1005;F302011CB011
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Material handling;Table Lifter;Table Lifter TBL1004;Table lifter roll H2-1;NF1-H2-PRB-MHL-TBL1005;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1022;Timbangan Digi-200 (14);NF1-H2-PRB-PKG-TMB1022;F302011FB016
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1023;Timbangan Digi-201 (15);NF1-H2-PRB-PKG-TMB1023;F302012EB009
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1024;Timbangan Digi-202 (16);NF1-H2-PRB-PKG-TMB1024;F302014CB007
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Timbangan;Timbangan TMB1025;Timbangan Digi (19);NF1-H2-PRB-PKG-TMB1025;F302014CB008
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Filling;Vacuum tester;Vacuum tester VTS1006;Vacuum Tester H2;NF1-H2-PRB-FLG-VTS1006;F302015DB034, F302015DB035
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Wrapping;Wrapping WRP1012;Korin A (14);NF1-H2-PRB-PKG-WRP1012;
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Wrapping;Wrapping WRP1013;Hopak D (15);NF1-H2-PRB-PKG-WRP1013;F405015CB017
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Wrapping;Wrapping WRP1014;Sunpack 78C (16);NF1-H2-PRB-PKG-WRP1014;F405012EB009
+Nutrifood;Ciawi;H2;PRB;Fillpack;Fillpack B;Packing;Wrapping;Wrapping WRP1015;Sunpack 38A (19);NF1-H2-PRB-PKG-WRP1015;F405010IB025
+Nutrifood;Ciawi;H3;PRB;Utility;Utility;Air handling;Cooling Tower;Cooling Tower CTW1004;Cooling Tower - 4 (H3);NF1-H3-PRB-AHL-CTW1004;
+Nutrifood;Ciawi;H3;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1014;Smoke/Heat Detector Gedung H3;NF1-H3-PEA-FEP-FDT1014;
+Nutrifood;Ciawi;H3;PRB;Fillpack;Utility;Material handling;Rapid Door;Rapid Door RPD1025;Rapid Roll WIP H3;NF1-H3-PRB-MHL-RPD1025;F301013HB069
+Nutrifood;Ciawi;I1;PEA;Utility;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1133;AC Operator Boiler;NF1-I1-PEA-AHL-ACD1133;
+Nutrifood;Ciawi;I1;PEA;Utility;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1134;AC Operator WTP;NF1-I1-PEA-AHL-ACD1134;
+Nutrifood;Ciawi;I1;PEA;Utility;Utility;Steam generation;Boiler;Boiler BOI1001;Boiler - 1 (3TPH);NF1-I1-PEA-STG-BOI1001;F302010-BB012
+Nutrifood;Ciawi;I1;PEA;Utility;Utility;Steam generation;Boiler;Boiler BOI1002;Boiler - 2 (5TPH);NF1-I1-PEA-STG-BOI1002;F302014FB011
+Nutrifood;Ciawi;I1;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1015;Smoke/Heat Detector Gedung I1;NF1-I1-PEA-FEP-FDT1015;
+Nutrifood;Ciawi;I1;PLB;Fillpack;Utility;Material handling;Katrol;Katrol KTR1012;Katrol I-1 (Kemas - 3);NF1-I1-PLB-MHL-KTR1012;N30200000028
+Nutrifood;Ciawi;I1;PEA;Utility;Utility;Compressed air;Kompresor;Kompresor KMP1015;Compressor-15 (Atlas Copco);NF1-I1-PEA-CPA-KMP1015;
+Nutrifood;Ciawi;I1;PEA;Utility;Utility;Compressed air;Kompresor;Kompresor KMP1016;Compressor-16 (Atlas Copco);NF1-I1-PEA-CPA-KMP1016;
+Nutrifood;Ciawi;I1;PLB;Gudang Kemas;Utility;Material handling;Pallet Mover;Pallet Mover PMV1017;;NF1-I1-PLB-MHL-PMV1017;
+Nutrifood;Ciawi;I1;PEA;Utility;Utility;Electricity;Penangkal Petir;Penangkal Petir PPT1003;Penangkal Petir - 3;NF1-I1-PEA-ELC-PPT1003;
+Nutrifood;Ciawi;I1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1035;Submersible Sumur-3;NF1-I1-PEA-WTR-PMP1035;
+Nutrifood;Ciawi;I1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1036;Pompa Transfer Sumur-3-1;NF1-I1-PEA-WTR-PMP1036;
+Nutrifood;Ciawi;I1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1037;Pompa Transfer Sumur-3-2;NF1-I1-PEA-WTR-PMP1037;
+Nutrifood;Ciawi;I1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1074;Sumbersible Bak Sumpit WTP I;NF1-I1-PEA-WTR-PMP1074;
+Nutrifood;Ciawi;I1;PEA;Utility;Utility;Fuel;Tangki Solar;Tangki Solar TSO1001;Tangki Solar Boiler;NF1-I1-PEA-FUL-TSO1001;
+Nutrifood;Ciawi;I1;PCA;QC Bahan Baku;Fillpack A;Filling;Vacuum Tester;Vacuum Tester VTS1008;Vacuum Tester QC Reference;NF1-I1-PCA-FLG-VTS1008;F600115HB016
+Nutrifood;Ciawi;I2;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1016;Smoke/Heat Detector Gedung I2;NF1-I2-PEA-FEP-FDT1016;
+Nutrifood;Ciawi;I2;PRB;Fillpack;Utility;Air handling;Vacuum Cleaner;Vacuum Cleaner VCC1026;Vacuum Cleaner I2;NF1-I2-PRB-AHL-VCC1026;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Aerator;Aerator ART1001;Aerator Equalisasi 1;NF1-J1-SSA-WWT-ART1001;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Aerator;Aerator ART1002;Aerator Equalisasi 2;NF1-J1-SSA-WWT-ART1002;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Aerator;Aerator ART1003;Aerator Equalisasi 3-A;NF1-J1-SSA-WWT-ART1003;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Aerator;Aerator ART1004;Aerator Equalisasi 3-B;NF1-J1-SSA-WWT-ART1004;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Aerator;Aerator ART1005;Aerator Equalisasi 3-C;NF1-J1-SSA-WWT-ART1005;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Aerator;Aerator ART1006;MTO - 1 (15HP);NF1-J1-SSA-WWT-ART1006;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Aerator;Aerator ART1007;MTO - 2 (15HP);NF1-J1-SSA-WWT-ART1007;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Aerator;Aerator ART1008;MTO - 3 (10HP);NF1-J1-SSA-WWT-ART1008;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Aerator;Aerator ART1009;MTO - 4 (10HP);NF1-J1-SSA-WWT-ART1009;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Aerator;Aerator ART1010;Aerasi - 1 A;NF1-J1-SSA-WWT-ART1010;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Aerator;Aerator ART1011;Aerasi - 1 B;NF1-J1-SSA-WWT-ART1011;
+Nutrifood;Ciawi;J1;SSA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1135;AC Office IPAL;NF1-J1-SSA-AHL-ACD1135;
+Nutrifood;Ciawi;J1;PSA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1136;AC Office PSA;NF1-J1-PSA-AHL-ACD1136;
+Nutrifood;Ciawi;J1;PRO;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1137;AC Kitchen;NF1-J1-PRO-AHL-ACD1137;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Blower;Blower BLW1002;Blower Equalisasi 0-A;NF1-J1-SSA-WWT-BLW1002;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Blower;Blower BLW1003;Blower Equalisasi 0-B;NF1-J1-SSA-WWT-BLW1003;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Blower;Blower BLW1004;Blower Aerasi 2-A;NF1-J1-SSA-WWT-BLW1004;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Blower;Blower BLW1005;Blower Aerasi 2-B;NF1-J1-SSA-WWT-BLW1005;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Blower;Blower BLW1006;Blower Aerasi 2-C;NF1-J1-SSA-WWT-BLW1006;
+Nutrifood;Ciawi;J1;PSA;Scrap;Utility;Waste water treatment;Mixer;Mixer MXR1018;;NF1-J1-PSA-WWT-MXR1018;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Mixer;Mixer MXR1021;Agitator NaOH;NF1-J1-SSA-WWT-MXR1021;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Mixer;Mixer MXR1022;Agitator H2SO4;NF1-J1-SSA-WWT-MXR1022;
+Nutrifood;Ciawi;J1;PEA;Utility;Utility;Electricity;Penangkal Petir;Penangkal Petir PPT1004;Penangkal Petir - 4;NF1-J1-PEA-ELC-PPT1004;
+Nutrifood;Ciawi;J1;PSA;Scrap;Utility;Scrap;Plastic Crusher;Plastic Crusher PCR1001;Plastic Crusher;NF1-J1-PSA-SCR-PCR1001;
+Nutrifood;Ciawi;J1;PSA;Scrap;Utility;Scrap;Plastic Crusher;Plastic Crusher PCR1002;Plastic Crusher u/ Tetra Pack;NF1-J1-PSA-SCR-PCR1002;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1038;Pompa Tangki Sumpit - A;NF1-J1-SSA-WWT-PMP1038;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1039;Pompa Tangki Sumpit - B;NF1-J1-SSA-WWT-PMP1039;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1040;Pompa Equalisasi 1;NF1-J1-SSA-WWT-PMP1040;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1041;Pompa Equalisasi 2;NF1-J1-SSA-WWT-PMP1041;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1042;Pompa Equalisasi 3 - A;NF1-J1-SSA-WWT-PMP1042;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1043;Pompa Equalisasi 3 - B;NF1-J1-SSA-WWT-PMP1043;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1044;Pompa Tangki netralisasi - A;NF1-J1-SSA-WWT-PMP1044;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1045;Pompa Tangki netralisasi - B;NF1-J1-SSA-WWT-PMP1045;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1046;Pompa Tangki sedimentasi 1;NF1-J1-SSA-WWT-PMP1046;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1047;Pompa Tangki sedimentasi 2;NF1-J1-SSA-WWT-PMP1047;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1048;Pompa Tangki Buffer - A;NF1-J1-SSA-WWT-PMP1048;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1049;Pompa Tangki Buffer - B;NF1-J1-SSA-WWT-PMP1053;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1050;Pompa Equalisasi 0 - A;NF1-J1-SSA-WWT-PMP1050;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1051;Pompa Equalisasi 0 - B;NF1-J1-SSA-WWT-PMP1051;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1052;Pompa SHT ;NF1-J1-SSA-WWT-PMP1052;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1053;Pompa Sand filter - A;NF1-J1-SSA-WWT-PMP1053;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1054;Pompa Sand filter - B;NF1-J1-SSA-WWT-PMP1054;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1055;Pompa PRA;NF1-J1-SSA-WWT-PMP1055;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1056;Pompa PRB;NF1-J1-SSA-WWT-PMP1056;
+Nutrifood;Ciawi;J1;SSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1057;Pompa PRC+HB;NF1-J1-SSA-WWT-PMP1057;
+Nutrifood;Ciawi;J1;PSA;WWTP;Utility;Waste water treatment;Pompa;Pompa PMP1075;Pompa Transfer Limbah Cair;NF1-J1-PSA-WWT-PMP1075;
+Nutrifood;Ciawi;J1;PSA;Scrap;Utility;Water distribution;Pompa;Pompa PMP1081;Jetpump PSA - 1;NF1-J1-PSA-WTR-PMP1081;
+Nutrifood;Ciawi;J1;PSA;Scrap;Utility;Water distribution;Pompa;Pompa PMP1082;Jetpump PSA - 2;NF1-J1-PSA-WTR-PMP1082;
+Nutrifood;Ciawi;J1;PSA;Scrap;Utility;Water distribution;Pompa;Pompa PMP1083;Jetpump PSA - 3;NF1-J1-PSA-WTR-PMP1083;
+Nutrifood;Ciawi;J1;PRO;Gudang Baku Kemas;Utility;Air handling;Reefer Container;Reefer Container RCT1003;RC PRO;NF1-J1-PRO-AHL-RCT1003;F302009FB014
+Nutrifood;Ciawi;J2;YDT;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1138;AC Mix Studio;NF1-J2-YDT-AHL-ACD1138;
+Nutrifood;Ciawi;J2;YDT;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1139;AC Studio;NF1-J2-YDT-AHL-ACD1139;
+Nutrifood;Ciawi;J2;YDT;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1140;AC Training J21;NF1-J2-YDT-AHL-ACD1140;
+Nutrifood;Ciawi;J2;YDT;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1141;AC Training J22;NF1-J2-YDT-AHL-ACD1141;
+Nutrifood;Ciawi;J2;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1017;Smoke/Heat Detector Gedung J2;NF1-J2-PEA-FEP-FDT1017;
+Nutrifood;Ciawi;K1;YDT;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1142;AC Ruang Meeting;NF1-K1-YDT-AHL-ACD1142;
+Nutrifood;Ciawi;K1;YDT;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1143;AC Production Manager NS;NF1-K1-YDT-AHL-ACD1143;
+Nutrifood;Ciawi;K1;ALL;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1144;AC Office Gd K;NF1-K1-ALL-AHL-ACD1144;
+Nutrifood;Ciawi;K1;PEA;Utility;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1145;AC Store Keeper PEA;NF1-K1-PEA-AHL-ACD1145;
+Nutrifood;Ciawi;K1;PEA;Utility;Utility;Electricity;Cubicle;Cubicle CBL1001;Cubicle Plant B;NF1-K1-PEA-ELC-CBL1001;U301008EB004
+Nutrifood;Ciawi;K1;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1018;Smoke/Heat Detector Gedung K1;NF1-K1-PEA-FEP-FDT1018;
+Nutrifood;Ciawi;K1;PEA;Utility;Utility;Electricity;Genset;Genset GST1001;Genset - 1;NF1-K1-PEA-ELC-GST1001;RN30200000094
+Nutrifood;Ciawi;K1;PEA;Utility;Utility;Electricity;Genset;Genset GST1002;Genset - 2;NF1-K1-PEA-ELC-GST1002;RF120110BB001
+Nutrifood;Ciawi;K1;PEA;Utility;Utility;Electricity;Genset;Genset GST1003;Genset - 3;NF1-K1-PEA-ELC-GST1003;RF301013BB016
+Nutrifood;Ciawi;K1;PSA;Scrap;Utility;Laundry;Mesin Cuci;Mesin Cuci MCC1001;Mesin Cuci;NF1-K1-PSA-LAU-MCC1001;F301012LB033
+Nutrifood;Ciawi;K1;PSA;Scrap;Utility;Laundry;Mesin Pengering Laundry;Mesin Pengering Laundry MPL1001;Mesin Pengering Laundry;NF1-K1-PSA-LAU-MPL1001;F301012KB027
+Nutrifood;Ciawi;K1;PEA;Utility;Utility;Fuel;Tangki Solar;Tangki Solar TSO1002;Tangki Solar 20000 lt;NF1-K1-PEA-FUL-TSO1002;
+Nutrifood;Ciawi;K1;PEA;Utility;Utility;Fuel;Tangki Solar;Tangki Solar TSO1003;Tangki Solar Genset;NF1-K1-PEA-FUL-TSO1003;
+Nutrifood;Ciawi;K1;PEA;Utility;Utility;Electricity;Trafo;Trafo TRF1002;Trafo Plant B;NF1-K1-PEA-ELC-TRF1002;U301008EB003
+Nutrifood;Ciawi;L1;PLF;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1146;AC Office Gudang Jadi;NF1-L1-PLF-AHL-ACD1146;
+Nutrifood;Ciawi;L1;PLF;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1147;AC Office Promosi/Retur;NF1-L1-PLF-AHL-ACD1147;
+Nutrifood;Ciawi;L1;DTA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1148;AC Ruang Driver;NF1-L1-DTA-AHL-ACD1148;
+Nutrifood;Ciawi;L1;YAA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1149;AC Koordinator Security;NF1-L1-YAA-AHL-ACD1149;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Electricity;Battery;Battery BAT1024;Battery No. 24;NF1-L1-PLF-ELC-BAT1024;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Electricity;Battery;Battery BAT1025;Battery No. 25;NF1-L1-PLF-ELC-BAT1025;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Electricity;Battery;Battery BAT1026;Battery No. 26;NF1-L1-PLF-ELC-BAT1026;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Electricity;Battery;Battery BAT1027;Battery No. 27;NF1-L1-PLF-ELC-BAT1027;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Electricity;Battery;Battery BAT1028;Battery No. 28;NF1-L1-PLF-ELC-BAT1028;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Electricity;Battery;Battery BAT1029;Battery No. 29;NF1-L1-PLF-ELC-BAT1029;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Electricity;Battery;Battery BAT1030;Battery No. 30;NF1-L1-PLF-ELC-BAT1030;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Electricity;Battery;Battery BAT1031;Battery Tanah Baru;NF1-L1-PLF-ELC-BAT1031;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Electricity;Charger;Charger CHG1005;Charger Battery L1;NF1-L1-PLF-ELC-CHG1005;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Electricity;Charger;Charger CHG1006;Charger Battery L2;NF1-L1-PLF-ELC-CHG1006;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Electricity;Charger;Charger CHG1007;Charger Battery L3;NF1-L1-PLF-ELC-CHG1007;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Electricity;Charger;Charger CHG1008;Charger Battery L4;NF1-L1-PLF-ELC-CHG1008;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Electricity;Charger;Charger CHG1009;Charger Battery L5;NF1-L1-PLF-ELC-CHG1009;F303014FN022
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Electricity;Charger;Charger CHG1012;Charger Battery L6;NF1-L1-PLF-ELC-CHG1012;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Dock Leveller;Dock Leveller DLV1001;Dock Leveller L1;NF1-L1-PLF-MHL-DLV1001;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Dock Leveller;Dock Leveller DLV1002;Dock Leveller L2;NF1-L1-PLF-MHL-DLV1002;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Dock Leveller;Dock Leveller DLV1003;Dock Leveller L3;NF1-L1-PLF-MHL-DLV1003;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Dock Leveller;Dock Leveller DLV1004;Dock Leveller L4;NF1-L1-PLF-MHL-DLV1004;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Dock Leveller;Dock Leveller DLV1005;Dock Leveller L5;NF1-L1-PLF-MHL-DLV1005;
+Nutrifood;Ciawi;L1;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1019;Smoke/Heat Detector Gedung L1;NF1-L1-PEA-FEP-FDT1019;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Forklift;Forklift FKL1006;Forklift L1 (2,5T);NF1-L1-PLF-MHL-FKL1006;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Forklift;Forklift FKL1007;Forklift L2 (2,5T);NF1-L1-PLF-MHL-FKL1007;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1065;Handpallet L1;NF1-L1-PLF-MHL-HPL1065;T30300000026
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1066;Handpallet L2;NF1-L1-PLF-MHL-HPL1066;N30300000054
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1067;Handpallet L3;NF1-L1-PLF-MHL-HPL1067;N30300000052
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1068;Handpallet L4;NF1-L1-PLF-MHL-HPL1068;T303008AB002
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1069;Handpallet L5;NF1-L1-PLF-MHL-HPL1069;F303013GN037
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1070;Handpallet L6;NF1-L1-PLF-MHL-HPL1070;F303013GN041
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1071;Handpallet L7;NF1-L1-PLF-MHL-HPL1071;F303013GN043
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1072;Handpallet L8;NF1-L1-PLF-MHL-HPL1072;F303015BN001
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1073;Handpallet L9;NF1-L1-PLF-MHL-HPL1073;F303015BN002
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1074;Handpallet L10;NF1-L1-PLF-MHL-HPL1074;F303015BN003
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1075;Handpallet L11;NF1-L1-PLF-MHL-HPL1075;F303015BN004
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1076;Handpallet L12;NF1-L1-PLF-MHL-HPL1076;F303015BN005
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1077;Handpallet L13;NF1-L1-PLF-MHL-HPL1077;F303012AN001
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1078;Handpallet L14;NF1-L1-PLF-MHL-HPL1078;T30300000033
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1079;Handpallet L15;NF1-L1-PLF-MHL-HPL1079;T30300000032
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1080;Handpallet L16;NF1-L1-PLF-MHL-HPL1080;F303011FN010
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1081;Handpallet L17;NF1-L1-PLF-MHL-HPL1081;F303000KN010
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1082;Handpallet L18;NF1-L1-PLF-MHL-HPL1082;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1083;Handpallet L19;NF1-L1-PLF-MHL-HPL1083;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1084;Handpallet L20;NF1-L1-PLF-MHL-HPL1084;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1085;Handpallet L21;NF1-L1-PLF-MHL-HPL1085;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Pallet Mover;Pallet Mover PMV1011;Pallet mover L1;NF1-L1-PLF-MHL-PMV1011;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Pallet Mover;Pallet Mover PMV1012;Pallet mover L2;NF1-L1-PLF-MHL-PMV1012;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Pallet Mover;Pallet Mover PMV1013;Pallet mover L3;NF1-L1-PLF-MHL-PMV1013;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Pallet Mover;Pallet Mover PMV1014;Pallet mover L4;NF1-L1-PLF-MHL-PMV1014;F303014BB001
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Pallet Mover;Pallet Mover PMV1018;Pallet mover L5;NF1-L1-PLF-MHL-PMV1018;
+Nutrifood;Ciawi;L1;PEA;Utility;Utility;Electricity;Penangkal Petir;Penangkal Petir PPT1005;Penangkal Petir - 5;NF1-L1-PEA-ELC-PPT1005;
+Nutrifood;Ciawi;L1;PEA;WTP;Utility;Water distribution;Pompa;Pompa PMP1058;Pompa Transfer Sumur-1-1;NF1-L1-PEA-WTR-PMP1058;
+Nutrifood;Ciawi;L1;PEA;WTP;Utility;Water distribution;Pompa;Pompa PMP1059;Pompa Transfer Sumur-1-2;NF1-L1-PEA-WTR-PMP1059;
+Nutrifood;Ciawi;L1;PEA;WTP;Utility;Water distribution;Pompa;Pompa PMP1060;Submersible Sumur-2;NF1-L1-PEA-WTR-PMP1060;
+Nutrifood;Ciawi;L1;PEA;WTP;Utility;Water distribution;Pompa;Pompa PMP1061;Pompa Transfer Sumur-2-1;NF1-L1-PEA-WTR-PMP1061;
+Nutrifood;Ciawi;L1;PEA;WTP;Utility;Water distribution;Pompa;Pompa PMP1062;Pompa Transfer Sumur-2-2;NF1-L1-PEA-WTR-PMP1062;
+Nutrifood;Ciawi;L1;PEA;WTP;Utility;Water distribution;Pompa;Pompa PMP1076;Pompa air pos 2.1;NF1-L1-PEA-WTR-PMP1076;
+Nutrifood;Ciawi;L1;PEA;WTP;Utility;Water distribution;Pompa;Pompa PMP1077;Pompa RWH 1;NF1-L1-PEA-WTR-PMP1077;
+Nutrifood;Ciawi;L1;PEA;WTP;Utility;Water distribution;Pompa;Pompa PMP1078;Pompa RWH 2;NF1-L1-PEA-WTR-PMP1078;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Reach Truck;Reach Truck RTR1001;Reach Truck L1;NF1-L1-PLF-MHL-RTR1001;F30300000001
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Reach Truck;Reach Truck RTR1002;Reach Truck L2;NF1-L1-PLF-MHL-RTR1002;F30300000002
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Reach Truck;Reach Truck RTR1003;Reach Truck L3;NF1-L1-PLF-MHL-RTR1003;F303010JB017
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1001;Rolling Door L1;NF1-L1-PLF-MHL-ROD1001;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1002;Rolling Door L2;NF1-L1-PLF-MHL-ROD1002;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1003;Rolling Door L3;NF1-L1-PLF-MHL-ROD1003;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1004;Rolling Door L4;NF1-L1-PLF-MHL-ROD1004;
+Nutrifood;Ciawi;L1;PLF;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1005;Rolling Door L5;NF1-L1-PLF-MHL-ROD1005;
+Nutrifood;Ciawi;L1;PLF;Fillpack;Fillpack A;Packing;Shrink Tunnel;Shrink Tunnel STL1003;Shrink tunnel Retur;NF1-L1-PLF-PKG-STL1003;
+Nutrifood;Ciawi;L2;PLF;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1150;AC Office PLF LOI;NF1-L2-PLF-AHL-ACD1150;
+Nutrifood;Ciawi;L2;PLF;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1151;AC Manager PLF;NF1-L2-PLF-AHL-ACD1151;
+Nutrifood;Ciawi;L2;DTA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1152;AC Manager Sales;NF1-L2-DTA-AHL-ACD1152;
+Nutrifood;Ciawi;L2;PLF;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1153;AC Ruang Meeting L21;NF1-L2-PLF-AHL-ACD1153;
+Nutrifood;Ciawi;L2;PEA;Utility;Utility;Fire Extingusher Plant;Fire Detector;Fire Detector FDT1020;Smoke/Heat Detector Gedung L2;NF1-L2-PEA-FEP-FDT1020;
+Nutrifood;Ciawi;M1;PLB;Gudang Baku Kemas;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1154;AC Baku B Tanah Baru;NF1-M1-PLB-AHL-ACD1154;
+Nutrifood;Ciawi;M1;PLF;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1157;AC Musholla Tanah Baru;NF1-M1-PLF-AHL-ACD1157;
+Nutrifood;Ciawi;M1;PLF;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1158;AC Office PLF Tanah Baru;NF1-M1-PLF-AHL-ACD1158;
+Nutrifood;Ciawi;M1;PLF;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1159;AC Office Retur;NF1-M1-PLF-AHL-ACD1159;
+Nutrifood;Ciawi;M1;PLF;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1160;AC Meeting Tanah Baru;NF1-M1-PLF-AHL-ACD1160;
+Nutrifood;Ciawi;M1;PEA;Office;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1161;AC Ruang Panel Tanah Baru;NF1-M1-PEA-AHL-ACD1161;
+Nutrifood;Ciawi;M1;PLF;Gudang Retur;Fillpack A;Packing;Carton sealer;Carton sealer CSL1025;;NF1-M1-PLF-PKG-CSL1025;
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Electricity;Charger;Charger CHG1010;Charger Battery M1;NF1-M1-PLF-ELC-CHG1010;
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Electricity;Charger;Charger CHG1011;Charger Battery M2;NF1-M1-PLF-ELC-CHG1011;
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Dock Leveller;Dock Leveller DLV1006;Dock Leveller M1;NF1-M1-PLF-MHL-DLV1006;
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Dock Leveller;Dock Leveller DLV1007;Dock Leveller M2;NF1-M1-PLF-MHL-DLV1007;
+Nutrifood;Ciawi;M1;PLB;Gudang Jadi;Utility;Material handling;Dock Leveller;Dock Leveller DLV1008;Dock Leveller M3;NF1-M1-PLB-MHL-DLV1008;
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Dock Leveller;Dock Leveller DLV1009;Dock Leveller M4;NF1-M1-PLF-MHL-DLV1009;
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Forklift;Forklift FKL1008;Forklift M1 (3T);NF1-M1-PLF-MHL-FKL1008;
+Nutrifood;Ciawi;M1;PEA;Gudang Jadi;Utility;Electricity;Genset;Genset GST1004;Genset - 4;NF1-M1-PEA-ELC-GST1004;
+Nutrifood;Ciawi;M1;PLF;;Fillpack A;Packing;Glue Dispenser;Glue Dispenser GLU1001;Nordson Tanah Baru;NF1-M1-PLF-PKG-GLU1001;N40500000014
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1086;Handpallet R1;NF1-M1-PLF-MHL-HPL1086;N30300000049
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1087;Handpallet R2;NF1-M1-PLF-MHL-HPL1087;F303015BN006
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1088;Handpallet R3;NF1-M1-PLF-MHL-HPL1088;F303015BN007
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1089;Handpallet R4;NF1-M1-PLF-MHL-HPL1089;F303015BN008
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1090;Handpallet R5;NF1-M1-PLF-MHL-HPL1090;F303015BN009
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1091;Handpallet R6;NF1-M1-PLF-MHL-HPL1091;F303015BN010
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1092;Handpallet R7;NF1-M1-PLF-MHL-HPL1092;F303014KN038
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1093;Handpallet R8;NF1-M1-PLF-MHL-HPL1093;F303015DN020
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1094;Handpallet R9;NF1-M1-PLF-MHL-HPL1094;F303015DN019
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1095;Handpallet S1;NF1-M1-PLF-MHL-HPL1095;F303015BN018
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1096;Handpallet S2;NF1-M1-PLF-MHL-HPL1096;F303015BM008
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1097;Handpallet S3;NF1-M1-PLF-MHL-HPL1097;F303015BM006
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Handpallet;Handpallet HPL1098;Handpallet S4;NF1-M1-PLF-MHL-HPL1098;F30300000049
+Nutrifood;Ciawi;M1;PLB;Gudang Jadi;Utility;Material handling;Katrol;Katrol KTR1013;Katrol M1;NF1-M1-PLB-MHL-KTR1013;N30300000059
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Pallet Mover;Pallet Mover PMV1015;Pallet mover M1;NF1-M1-PLF-MHL-PMV1016;F303015GB015, F303015DB006, F303015DB008
+Nutrifood;Ciawi;M1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1063;Submersible Sumur-4;NF1-M1-PEA-WTR-PMP1063;
+Nutrifood;Ciawi;M1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1064;Pompa Transfer Sumur-4-1;NF1-M1-PEA-WTR-PMP1064;
+Nutrifood;Ciawi;M1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1065;Pompa Transfer Sumur-4-2;NF1-M1-PEA-WTR-PMP1065;
+Nutrifood;Ciawi;M1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1066;Sumbersible Sumur-5;NF1-M1-PEA-WTR-PMP1066;
+Nutrifood;Ciawi;M1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1067;Pompa Transfer Sumur-5-1;NF1-M1-PEA-WTR-PMP1067;
+Nutrifood;Ciawi;M1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1068;Pompa Transfer Sumur-5-2;NF1-M1-PEA-WTR-PMP1068;
+Nutrifood;Ciawi;M1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1069;Pompa Transfer Tanah Baru-1;NF1-M1-PEA-WTR-PMP1069;
+Nutrifood;Ciawi;M1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1070;Pompa Transfer Tanah Baru-2;NF1-M1-PEA-WTR-PMP1070;
+Nutrifood;Ciawi;M1;YAA;Office;Utility;Electricity;Portal;Portal POR1002;Portal Plant Tanah Baru;NF1-M1-YAA-ELC-POR1002;
+Nutrifood;Ciawi;M1;PLF;Fillpack;Fillpack A;Packing;Printer;Printer PRT1027;Printer Retur;NF1-M1-PLF-PKG-PRT1027;
+Nutrifood;Ciawi;M1;PLF;Gudang Retur;Fillpack A;Packing;Printer;Printer PRT1030;Printer Retur/Marsch;NF1-M1-PLF-PKG-PRT1030;
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Reach Truck;Reach Truck RTR1004;Reach Truck M1;NF1-M1-PLF-MHL-RTR1004;
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1006;Rolling Door M1;NF1-M1-PLF-MHL-ROD1006;
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1007;Rolling Door M2;NF1-M1-PLF-MHL-ROD1007;
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1008;Rolling Door M3;NF1-M1-PLF-MHL-ROD1008;
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1009;Rolling Door M4;NF1-M1-PLF-MHL-ROD1009;
+Nutrifood;Ciawi;M1;PLB;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1010;Rolling Door M5;NF1-M1-PLB-MHL-ROD1010;
+Nutrifood;Ciawi;M1;PLB;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1011;Rolling Door M6;NF1-M1-PLB-MHL-ROD1011;
+Nutrifood;Ciawi;M1;PLB;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1012;Rolling Door M7;NF1-M1-PLB-MHL-ROD1012;
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1013;Rolling Door M8;NF1-M1-PLF-MHL-ROD1013;
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1014;Rolling Door M9;NF1-M1-PLF-MHL-ROD1014;
+Nutrifood;Ciawi;M1;PLF;Gudang Jadi;Utility;Material handling;Rolling Door;Rolling Door ROD1015;Rolling Door M10;NF1-M1-PLF-MHL-ROD1015;
+Nutrifood;Ciawi;M1;PLF;Fillpack;Fillpack A;Packing;Wrapping;Wrapping WRP1016;Packing Retur;NF1-M1-PLF-PKG-WRP1016;
+Nutrifood;Ciawi;I1;PCA;QC Bahan Baku;Utility;Air Handling;Air Conditioner;Air Conditioner ACD1166;AC QC Bahan Baku I1;NF1-I1-PCA-AHL-ACD1166;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Air Handling;Exhaust Fan;Exhaust Fan;Exhaust Fan;Exhaust Fan;
+Nutrifood;Ciawi;C1;PLA;Gudang Baku Kemas;Utility;Material handling;Handpallet;Handpallet HPL1099;Handpallet gudang baku;NF1-C1-PLA-MHL-HPL1099;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu A1;Lampu A1;Lampu A1;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu A2;Lampu A2;Lampu A2;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu B1;Lampu B1;Lampu B1;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu C1;Lampu C1;Lampu C1;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu D1;Lampu D1;Lampu D1;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu F1;Lampu F1;Lampu F1;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu G1;Lampu G1;Lampu G1;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu G2;Lampu G2;Lampu G2;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu G3;Lampu G3;Lampu G3;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu H1;Lampu H1;Lampu H1;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu I1;Lampu I1;Lampu I1;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu J1;Lampu J1;Lampu J1;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu L1;Lampu L1;Lampu L1;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu L2;Lampu L2;Lampu L2;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Lampu;Lampu Penerangan Jalan;Lampu Penerangan Jalan;Lampu Penerangan Jalan;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Panel;Panel Listrik/Distribusi;Panel Listrik/Distribusi;Panel Listrik/Distribusi;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Water distribution;Pipa Air;Pipa Air All Plant;Pipa Air All Plant;Pipa Air All Plant;
+Nutrifood;Ciawi;E1;PEA;Utility;Utility;Water distribution;Pompa;Pompa PMP1073;Split water engineering;NF1-E1-PEA-WTR-PMP1073;
+Nutrifood;Ciawi;E2;PEA;Utility;Utility;Electricity;Panel;Steker/Colokan Listrik;Steker/Colokan Listrik;Steker/Colokan Listrik;
