@@ -36,7 +36,7 @@ def set_dataset(url, aList):
                 # workcenter column
                 driver.find_element_by_id('ctl32_ctl04_ctl09_txtValue').click() # dropdown first
                 driver.find_element_by_id('ctl32_ctl04_ctl09_divDropDown_ctl05').click() # utility
-                # driver.find_element_by_id('ctl32_ctl04_ctl09_divDropDown_ctl03').click() # fillpack B
+                driver.find_element_by_id('ctl32_ctl04_ctl09_divDropDown_ctl03').click() # fillpack B
                 # category1 column
                 driver.find_element_by_id('ctl32_ctl04_ctl11_txtValue').click() # dropdown first
                 driver.find_element_by_id('ctl32_ctl04_ctl11_divDropDown_ctl00').click() # all category
@@ -49,7 +49,7 @@ def set_dataset(url, aList):
                 # workcenter column
                 driver.find_element_by_id('ctl32_ctl04_ctl11_txtValue').click() # click dropdown first
                 driver.find_element_by_id('ctl32_ctl04_ctl11_divDropDown_ctl05').click() # click utility
-                # driver.find_element_by_id('ctl32_ctl04_ctl11_divDropDown_ctl03').click() # fillpack B
+                driver.find_element_by_id('ctl32_ctl04_ctl11_divDropDown_ctl03').click() # fillpack B
                 # category1 column
                 driver.find_element_by_id('ctl32_ctl04_ctl07_txtValue').click() # dropdown
                 driver.find_element_by_id('ctl32_ctl04_ctl07_divDropDown_ctl00').click() # click all category
@@ -63,7 +63,7 @@ def set_dataset(url, aList):
             # workcenter column
             driver.find_element_by_id('ctl32_ctl04_ctl03_txtValue').click() # click dropdown first
             driver.find_element_by_id('ctl32_ctl04_ctl03_divDropDown_ctl05').click() # click utility
-            # driver.find_element_by_id('ctl32_ctl04_ctl03_divDropDown_ctl03').click() # fillpack B
+            driver.find_element_by_id('ctl32_ctl04_ctl03_divDropDown_ctl03').click() # fillpack B
             # category1 column
             driver.find_element_by_id('ctl32_ctl04_ctl05_txtValue').click() # dropdown
             driver.find_element_by_id('ctl32_ctl04_ctl05_divDropDown_ctl00').click() # click all category
