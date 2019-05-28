@@ -27,4 +27,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 ## Menjalankan Jupyter Notebook
 1. Masih pada cmd yang sama, ketik *jupyter notebook*, enter
 2. Jupyter notebook akan terbuka di browser default anda
-3. Open file 
+3. Open file main.ipynb
+4. Run All
