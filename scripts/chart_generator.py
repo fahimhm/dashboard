@@ -3,10 +3,10 @@ from bokeh.io import show, output_file, output_notebook
 from bokeh.models import  ColumnDataSource, Span
 from bokeh.plotting import figure
 
-def linebarplot(year, mh, wo_pmt, wo_rep):
-    data = mh.merge(wo_pmt, on=['year', 'month'])
-    data = data.merge(wo_rep, on=['year', 'month'])
-    data = data[data['year'] == year].copy()
+def linebarplot(year, woc, mh, wo_pmt, wo_rep):
+    data = mh.merge(wo_pmt, on=['workcenter', 'year', 'month'])
+    data = data.merge(wo_rep, on=['workcenter', 'year', 'month'])
+    data = data[(data['workcenter'] == woc) & (data['year'] == year)].copy()
     x_ = [str(month) for month in data['month'].tolist()]
     y_mh = data['%_mhreal'].tolist()
     y_wo_p = data['%_wopmt'].tolist()
@@ -34,4 +34,4 @@ def linebarplot(year, mh, wo_pmt, wo_rep):
 
     output_notebook()
 
-    return p
+    return show(p)
