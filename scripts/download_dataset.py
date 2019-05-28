@@ -25,6 +25,15 @@ def set_dataset(url, aList):
     for name in aList:
         driver.get(url)
         driver.find_element_by_link_text(name).click()
+
+        # give delay for process
+        time.sleep(1)
+        try:
+            while driver.find_element_by_link_text('Work Order') == False:
+                time.sleep(1)
+        except NoSuchElementException:
+            pass
+
         if name != 'Data_Mentah':
             # range_start column
             driver.find_element_by_id('ctl32_ctl04_ctl03_txtValue').send_keys('10/1/2018')
