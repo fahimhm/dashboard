@@ -176,7 +176,7 @@ def prep4chart(df, rpmtdata, rpairdata):
     rlzpmt['%_wopmt'] = rlzpmt['wo_rlz'] / rlzpmt['wo_total'] * 100.0
 
     # wo repair preparation
-    realrep = rpairdata.loc[rpairdata['status_wo'] != 'rejected', ['nama_workcenter', 'nama_detail', 'nomor_wo_repair', 'status_wo', 'waktu_pengajuan_servis', 'waktu_selesai']]
+    realrep = rpairdata.loc[rpairdata['status_wo'] != 'rejected', ['nama_workcenter', 'nama_detail', 'nomor_wo_repair', 'status_wo', 'waktu_kerusakan_mesin', 'waktu_selesai']]
     realrep.columns = ['workcenter', 'machine', 'wo', 'wo_status', 'date', 'date_finish']
     realrep.loc[:, 'date'] = pd.to_datetime(realrep.loc[:, 'date'])
     realrep.loc[:, 'date_finish'] = pd.to_datetime(realrep.loc[:, 'date_finish'])
