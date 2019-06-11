@@ -5095,3 +5095,134 @@ bail@chrome://marionette/content/sync.js:223:64
 [GPU 793
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1560246288565	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MAULA~1.FAH\\AppData\\Local\\Temp\\rust_mozprofile.yKB9qPSKYtEG"
+1560246288958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560246288958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560246288958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560246290359	Marionette	INFO	Listening on port 64346
+1560246290681	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: a.cells is undefined
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+1560246298410	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246298963	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246299212	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: a.cells is undefined
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+1560246309835	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246310349	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246310600	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: a.cells is undefined
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+1560246323521	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246324072	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246324338	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: a.cells is undefined
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+1560246333744	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246334276	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246334530	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246338176	Marionette	INFO	Stopped listening on port 64346
+[Child 22088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 220[Parent 21260, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7252, Chrom
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560246397654	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MAULA~1.FAH\\AppData\\Local\\Temp\\rust_mozprofile.9SC3GnmQPSou"
+1560246398033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560246398033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560246398034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560246399752	Marionette	INFO	Listening on port 64411
+1560246399782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: a.cells is undefined
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+1560246409064	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246409613	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246409876	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: a.cells is undefined
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+1560246419637	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246420222	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246420486	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: a.cells is undefined
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+1560246430514	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246431059	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246431322	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: a.cells is undefined
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+JavaScript error: http://maula%2Efahim:welcometoparadise21@reportportal/Reports/js/ReportingServices.js, line 1: TypeError: d.lastChild is null
+1560246440917	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246441453	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246441717	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1560246445331	Marionette	INFO	Stopped listening on port 64411
+[Parent 15108, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8324, Chrome_ChildThread] WARNING: pipe er[Parent 15108, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3344,
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
