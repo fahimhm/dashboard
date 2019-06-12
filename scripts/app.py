@@ -42,4 +42,4 @@ def plot(ol=overlap, sk=shift_kosong):
     ])
 
     # if __name__ == 'app':
-    app.run_server(debug=True)
+    app.run_server(debug=False, use_reloader=False)
