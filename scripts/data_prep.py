@@ -10,7 +10,13 @@ def actransform(data_tek, data_wo, data_mesin, data_shift, data_nwo):
     act = data_tek.sort_values(['name', 'waktu_mulai_dikerjakan2'], ascending=True)
     act.reset_index(inplace=True, drop=True)
     act.columns = ['name', 'task_cat', 'wo', 'machine', 'date_start', 'date_finish', 'duration']
-    
+    act['date_start'] = pd.to_datetime(act['date_start'])
+    act['date_finish'] = pd.to_datetime(act['date_finish'])
+    act['date_start'] = act['date_start'].dt.strftime('%d/%m/%Y %H:%M')
+    act['date_finish'] = act['date_finish'].dt.strftime('%d/%m/%Y %H:%M')
+    act['date_start'] = pd.to_datetime(act['date_start'], format='%d/%m/%Y %H:%M')
+    act['date_finish'] = pd.to_datetime(act['date_finish'], format='%d/%m/%Y %H:%M')
+
     # data status wo
     dfwo = data_wo.loc[:, ['nomor_wo_repair', 'status_wo']].copy()
     dfwo.columns = ['wo', 'wo_status']
@@ -22,12 +28,14 @@ def actransform(data_tek, data_wo, data_mesin, data_shift, data_nwo):
     act = act.merge(actsy, on='machine', how='left')
     
     # tambahkan beberapa kolom
-    act['date_start'] = pd.to_datetime(act['date_start'])
-    act['date_finish'] = pd.to_datetime(act['date_finish'])
     act['year'] = act['date_start'].map(lambda x: x.strftime('%Y'))
     act['month'] = act['date_start'].map(lambda x: x.strftime('%m'))
     act['week'] = act['date_start'].dt.week
     act['day'] = act[['date_start']].apply(lambda x: dt.datetime.strftime(x['date_start'], '%A'), axis=1)
+    act['date_start'] = act['date_start'].dt.strftime('%d/%m/%Y %H:%M')
+    act['date_finish'] = act['date_finish'].dt.strftime('%d/%m/%Y %H:%M')
+    act['date_start'] = pd.to_datetime(act['date_start'], format='%d/%m/%Y %H:%M')
+    act['date_finish'] = pd.to_datetime(act['date_finish'], format='%d/%m/%Y %H:%M')
     
     # tag lembur atau normal
     act['day_cat'] = 'NaN'
@@ -99,8 +107,10 @@ def actransform(data_tek, data_wo, data_mesin, data_shift, data_nwo):
     act = act[['workcenter', 'name', 'year', 'month', 'week', 'day', 'day_cat', 'shift', 'task_cat', 'wo', 'wo_status', 'system', 'machine', 'date_start', 'date_finish', 'duration']]
     
     # ambil dataframe non wo
-    data_nwo['date_start'] = pd.to_datetime(data_nwo['date_start'])
-    data_nwo['date_finish'] = pd.to_datetime(data_nwo['date_finish'])
+    data_nwo['date_start'] = pd.to_datetime(data_nwo['date_start'], format='%d/%m/%Y %H:%M')
+    data_nwo['date_finish'] = pd.to_datetime(data_nwo['date_finish'], format='%d/%m/%Y %H:%M')
+    # data_nwo['date_start'] = data_nwo['date_start'].dt.strftime('%d/%m/%Y %H:%M')
+    # data_nwo['date_finish'] = data_nwo['date_finish'].dt.strftime('%d/%m/%Y %H:%M')
     act = pd.concat([act, data_nwo], ignore_index=True)
     act = act.sort_values(['workcenter', 'name', 'date_start'], ascending=True)
     act = act.drop_duplicates(subset=['name', 'wo', 'date_start', 'date_finish'], keep='first')
