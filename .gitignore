@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.vscode
+data_output/
+datasets/Data_Mentah_Maintenance.csv
+datasets/Data_Mentah.csv
+datasets/Performance_Teknisi_Tracker.csv
+datasets/Performance_WO_Tracker.csv
+geckodriver.log
